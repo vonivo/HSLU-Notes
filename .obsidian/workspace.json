@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "30b7ffdae5a0681c",
+        "id": "afb2202bdd4fdac0",
         "type": "tabs",
         "children": [
           {
-            "id": "aac9c31b9be9e0c9",
+            "id": "1ed70c79e87a65d3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LIAL/Summary.md",
+                "file": "LIAL/SW01/Schnittpunkt Gerade Ebene.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "527c8c71fc580475",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LIAL/SW01/Matrizen.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LIAL/Summary.md",
+                "file": "LIAL/SW01/Matrizen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LIAL/Summary.md",
+                "file": "LIAL/SW01/Matrizen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,16 +138,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LIAL/Summary.md"
+                "file": "LIAL/SW01/Matrizen.md"
               }
             }
+          },
+          {
+            "id": "772a79340798571f",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,10 +167,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dfda20ddad81a6c9",
+  "active": "527c8c71fc580475",
   "lastOpenFiles": [
+    "LIAL/SW01/Matrizen.md",
+    "LIAL/SW01/Matrix Multiplikation.md",
+    "LIAL/SW01/Schnittpunkt Vektor Gerade.md",
+    "LIAL/SW01/Schnittpunkt Gerade Ebene.md",
+    "LIAL/SW01/Vektoren.md",
+    "LIAL/SW01/Vektoren Rechenregeln.md",
+    "LIAL/SW01/images/Vektoraddition.png",
+    "LIAL/SW01/images/VektorenKoordinatenSystem.png",
+    "Vektor.md",
+    "LIAL/SW01/images/SkalareMultiplikation.png",
+    "LIAL/SW01/images",
+    "LIAL/SW01",
     "ANLIS/Summary.md",
-    "LIAL/Summary.md",
     "2023-11-07.md",
     "ANLIS",
     "LIAL"
