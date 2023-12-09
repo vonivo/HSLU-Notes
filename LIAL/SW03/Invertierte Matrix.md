@@ -39,3 +39,15 @@ Das Inverse eines [[Matrixmultiplikation|Produkts]] $$AB * (AB)^{-1} = (AB)(B^{-
 $$ AIA^{-1}= AA^{-1} = I$$
 
 
+## Invertieren von 2x2-Matrizen
+Eine 2x2-Matrix wird invertier, indem die Zahlen auf der Hauptdiagonale vertauscht werden und das Vorzeichen der restlichen getauscht wird:
+$$
+\begin{pmatrix}
+1 & 3 \\
+1 & 7
+\end{pmatrix}^{-1} = 
+\begin{pmatrix}
+7 & -3 \\
+-1  & 1
+\end{pmatrix}$$
+
