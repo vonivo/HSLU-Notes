@@ -25,7 +25,7 @@ Die Determinante einer 3x3-Matrix wird mit der [[Regel von Sarrus]] berechnet.
 * Vertauschen zweier Zeilen ändert das Vorzeichen.
 * Multiplikation einer Zeile mit einem Faktor multipliziert die Determinate mit diesem Faktor
 * Durch die Addition des Vielfachen einer Zeile zu einer anderen ändert sich die Determinante nicht.
-* Beim Transponieren der Matrizen ändert sich die Determinante nicht; die oben genannte Regeln gelten auch für die Spalten.
+* Beim [[Transponierte Matrix|Transponieren der Matrizen]] ändert sich die Determinante nicht; die oben genannte Regeln gelten auch für die Spalten.
 
 ## Weitere Aussagen
 Sei $A$ eine quadratische $n \times n$-Matrix

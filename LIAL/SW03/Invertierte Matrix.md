@@ -51,3 +51,16 @@ $$
 -1  & 1
 \end{pmatrix}$$
 
+## Inverse von Diagonalen Matrizen
+Die Inverse einer [[Diagnalmatrix]] wird gebildet, indem der Kehrwert der Werte genommen wird.
+$$
+\begin{pmatrix}
+a & 0 \\
+0 & b
+\end{pmatrix}^{-1} =
+\begin{pmatrix}
+	\frac{1}{a} & 0 \\
+ 0 & \frac{1}{d}
+\end{pmatrix}
+$$
+
