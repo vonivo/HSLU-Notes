@@ -52,7 +52,7 @@ $$
 \end{pmatrix}$$
 
 ## Inverse von Diagonalen Matrizen
-Die Inverse einer [[Diagnalmatrix]] wird gebildet, indem der Kehrwert der Werte genommen wird.
+Die Inverse einer [[Diagonalmatrix]] wird gebildet, indem der Kehrwert der Werte genommen wird.
 $$
 \begin{pmatrix}
 a & 0 \\
