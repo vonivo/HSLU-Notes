@@ -9,7 +9,7 @@ $$
 1 & 1 & 2 & 2 & 3 & 3 & 4 & 4 & 5 & 5
 \end{pmatrix}
 $$
-Schreibt man nun beide Einheitsvektoren spaltenweise nacheinander erhät man die Transformations-Matrix $A$.
+Schreibt man nun beide Einheitsvektoren spaltenweise nacheinander erhält man die Transformations-Matrix $A$.
 
 Bild Links:
 $$
@@ -37,6 +37,10 @@ $$
 \end{pmatrix}
 $$
 Nach dieser Rechnung erhält man die Transformation.
+
+>[!warning]
+>Der 0-Vektor wird immer auf sich selbst abgebildet.
+
 
 ## Skalierung um den Faktor $a$.
 $$A = a *\begin{pmatrix}
