@@ -43,11 +43,24 @@ Vektorielle Auflistung aller Zielgrößen.
 ### $\hat{y}$ Vorhersage Vektor
 Hellgrüner Pfeil -> Zeit die Datenpunkte welche durch die das lineare Regressionsmodell vorhergesagt wurden. $\hat{y} = X \hat{b} = y -e$.
 
+$\hat{y}$ erhält man, wenn man den Vektor b auf die Spalten der Datenmatrix [[Orthogonale Projektionen|projiziert]].
+$$
+\hat{y}=Py =X(X^TX)^{-1}X^Ty
+$$
+
+
 ### $\hat{b}$ Modell
 Der Vektor $\hat{b}$ beinhaltet die Modellparameter für die Gerade. In diesem Fall $b_0$ und $b_{1}$ aus welchen die Gerade $\hat{y}=b_{0} + b_{1}x$ entsteht.
 
-$\hat{b}$ erhält man, wenn man den Vektor b auf die Spalten der Datenmatrix [[Orthogonale Projektionen|projiziert]].
-$\hat{b}=Pb=X(X^TX)^{-1}X^T$b.
+$\hat{b}=(X^TX)^{-1}X^Ty$.
+
+### $e$ Fehlervektor
+Der Fehlervektor definiert sich durch $e=y - \hat{y}$
+$$
+e = y -\hat{y}=Qy = (I-P)y
+$$
+
+
 
 
 

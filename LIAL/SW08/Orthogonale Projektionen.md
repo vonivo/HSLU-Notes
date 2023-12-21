@@ -21,7 +21,7 @@ $$
 P = \frac{1}{a^Ta}aa^T
 $$
 ## Projektion auf einen Spaltenraum
-Falls die Spalten von X linear unabhängig sind lässt sich die [[Symmetrische Matrix]] $X^TX$ invertieren und man bekommt die Lösung für $P$.
+Falls die Spalten von X linear unabhängig sind lässt sich die [[Symmetrische Matrix]] $X^TX$ invertieren und man bekommt die Lösung für die [[Orthogonale Projektionen|Projektions- oder Prädiktionsmatrix]] $P$.
 $$
 P = X(X^TX)^{-1}X^T
 $$
