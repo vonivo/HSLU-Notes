@@ -22,7 +22,7 @@ x \\
 y
 \end{pmatrix}
 $$
-In homogenen Koordinaten sieht das ganze nu so aus:
+In homogenen Koordinaten sieht das ganze nun so aus:
 $$  \left(\begin{array}{rr|r}
 \cos(\varphi) & -\sin(\varphi) & 0\\
 \sin(\varphi) & \cos(\varphi) & 0 \\ \hline

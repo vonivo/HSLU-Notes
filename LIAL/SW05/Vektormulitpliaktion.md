@@ -44,6 +44,10 @@ b_{3}
 $$
 Skalarprodukt = a_{1} * b_{1} + a_{2} *b_{2} + a_{3} *b_{3}
 $$
+$$
+Skalarproduct=a^Tb
+$$
+
 ## Rechenregeln
 ### Kommutativgesetz
 $$
