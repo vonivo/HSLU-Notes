@@ -1,6 +1,6 @@
 Das Bestimmtheitsmass bestimmt, wie genau gut der lineare Zusammenhang zwischen Einfluss- und Zielgrösse ist. Man kann somit bestimmen wie genau das [[Lineare Regression|lineare Regressionsmodell]] ist.
 
-![[Bestimmtheitsmass.png]]
+![[LIAL/SW09/img/Bestimmtheitsmass.png]]
 
 ### SQT
 $\color{red}Summe\space der\space Quadrate\space der\space Totalen\space Abweichung$
@@ -25,7 +25,7 @@ $$
 $$
 
 
-![[Pasted image 20231221220047.png]]
+![[Bestimmtheitsmass 1.png]]
 
 Nun gilt:
 $$
@@ -35,9 +35,9 @@ wobie:
 $$
 \overline{y} = \frac{1}{m}\sum_{i=1}^m y_{i}
 $$
-Als $\overline{y}$ ist eine [[Zentrierte Matrix]]
+Als $\overline{y}$ ist eine [[Zentrierende Matrix]]
 
-Mithilfe der [[Orthogonale Projektionen|Projektionsmatirx]] $P$ und der [[Residualmatrix]] $Q$ lässt sich das alles noch vereinfachen.
+Mithilfe der [[Orthogonale Projektionen|Projektionsmatirx]] $P$, der [[Residualmatrix]] $Q$ und der [[Zentrierende Matrix| zentrierenden Matrix]] $M$ lässt sich das alles noch vereinfachen.
 $$
 R^21-\frac{\color{blue}SQR}{\color{red}SQT} = 1- \frac{y^TQy}{y^TMy}
 $$
