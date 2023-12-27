@@ -34,3 +34,9 @@ Sei $A$ eine quadratische $n \times n$-Matrix
 * Die Determinante von $A$ ist nicht null.
 * Der *Nullvektor* ist die einzige Lösung von $Ax=0$.
 * Der Rang von $A$ ist gleich $n$.
+
+## Eigenschaften der Determinante einer $n \times n$-Matrix
+- $\operatorname{det}(cA) = c^n \operatorname{det}(A)$
+- $\operatorname{det}(AB) =\operatorname{det}(BA)$
+- $\operatorname{det}(AB) = \operatorname{det}(A)\operatorname{det}(B)$
+- $\operatorname{det}(A^{-1}) = (\operatorname{det}(A))^{-1}$

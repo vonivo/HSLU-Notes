@@ -1,4 +1,4 @@
-Die Regel von Sarrus ist eine Verfahren, um die [[Determiante]] von einer $3\times 3$-[[Matrizen|Matrix]] zu bestimmen.
+Die Regel von Sarrus ist eine Verfahren, um die [[Determinante]] von einer $3\times 3$-[[Matrizen|Matrix]] zu bestimmen.
 ![[Regel von Sarrus.png]]
 Dabei werden alle Zahlen auf einer Linie (rot oder grün) multipliziert.
 Die Ergebnisse der roten-Linie werden addiert und die der Grünen subtrahiert.

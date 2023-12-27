@@ -1,4 +1,4 @@
-Die Cramersche Regel ist ein verfahren zur Lösung eines [[Lineare Gleichungsysteme|linearem Gleichungssystem]] mittels der [[Determiante]].
+Die Cramersche Regel ist ein verfahren zur Lösung eines [[Lineare Gleichungsysteme|linearem Gleichungssystem]] mittels der [[Determinante]].
 ## Cramersche Regel 2x2
 Gleichungssystem:
 $$\begin{align}

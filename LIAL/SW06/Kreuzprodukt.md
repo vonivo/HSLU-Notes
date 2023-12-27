@@ -1,6 +1,6 @@
 Das Kreuzprodukt ist ein Produkt aus zwei Vektoren, welches senkrecht auf dem Schnittpunkt beider Vektoren steht.
 
-Das Vektorprodukt wird mittels der [[Determiante]] ermittelt.
+Das Vektorprodukt wird mittels der [[Determinante]] ermittelt.
 
 Der Betrag des Kreuzprodukts entspricht der Fläche des aufgespannten Parallelogramms.
 
@@ -44,7 +44,7 @@ $$
 $$
 a \times a = -a \times a \implies a \times a = 0
 $$
-### Beziehung zur [[Determiante]]
+### Beziehung zur [[Determinante]]
 $$
 (a \times b) * c = \det(a,b,c)
 $$

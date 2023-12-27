@@ -7,7 +7,7 @@ $$
 \vec{x} \circ \vec{y} = (A \vec{x}) \circ (A \vec{y})
 $$
 * Die [[Invertierte Matrix|Inverse]] einer orthogonalen Abbildung ist ihre [[Transponierte Matrix|Transponierte]].
-* Die [[Determiante]] einer orthogonalen Abbildung ist $1$ oder $-1$.
+* Die [[Determinante]] einer orthogonalen Abbildung ist $1$ oder $-1$.
 $$
 A^{-1} = A^T
 $$
@@ -15,5 +15,5 @@ $$
 * Die Spalten (und Zeilen) einer orthogonalen Abbildung stehen paarweise aufeinander senkrecht.
 
 ## Beispiele
-* Drehungen sind orthogonale Abbildungen mit [[Determiante]] 1.
-* Spiegelungen sind orthogonale Abbildungen mit [[Determiante]] $-1$.
+* Drehungen sind orthogonale Abbildungen mit [[Determinante]] 1.
+* Spiegelungen sind orthogonale Abbildungen mit [[Determinante]] $-1$.
