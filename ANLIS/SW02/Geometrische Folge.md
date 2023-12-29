@@ -19,3 +19,21 @@ Eine FG ist eindeutig beschrieben durch zwei Grössen:
 - entweder durch ein beliebiges Glied $a_{n}$ und den Quotienten $q$
 - oder durch zwei beliebige Glieder $a_{n}$ und $a_{n+k}$.
 
+## Summe der endlichen geometrischen Reihe
+$$
+S = \sum_{k=0}^{n-1}q^k
+$$
+Wenn nun $q\cdot S$ ausgeschrieben wird und danach die Differenz von $qS-S$ gezogen wird:
+![[Summe_Gf.png]]
+Da sich bei der Subtraktion fast alle Terme negieren bleibt noch $q^n-1$
+$$
+\begin{align}
+qS-S &=qS-S \\ \\
+(q-1)S&=q^n-1 \\
+S &= \frac{q^n-1}{q-1}
+\end{align}
+$$
+Nun hat man die **Summe der endlichen geometrischen Reihe**:
+$$
+a_{1}+a_{1}q+a_{1}q^2+\dots+a_{1}1^n=\sum_{k=0}^{n-1}a_{1}q^n=a_{1}\frac{(q^n-1)}{q-1}
+$$
