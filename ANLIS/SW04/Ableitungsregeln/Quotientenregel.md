@@ -1,4 +1,4 @@
-Existieren die [[Ableitungen]] $u'(x)$ und $v'(x)$ dann gilt für die Ableitung des Quotienten von $u(x)$ und $v(x)\ne 0$ die Regel:
+Existieren die [[Ableitung|Ableitungen]] $u'(x)$ und $v'(x)$ dann gilt für die Ableitung des Quotienten von $u(x)$ und $v(x)\ne 0$ die Regel:
 $$
 \left[ \frac{u(x)}{v(x)} \right]'=\frac{u'(x)\cdot v(x)-u(x)\cdot v'(x)}{v(x)^2} \text{ kurz } \left[ \frac{u}{v} \right]' = \frac{u'\cdot v-u\cdot v'}{v^2}
 $$

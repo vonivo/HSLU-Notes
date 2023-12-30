@@ -1,4 +1,4 @@
-Existieren die [[Ableitungen]] $u'(x)$ und $v'(x)$ dann gilt für die Ableitung des Produkts die Regel
+Existieren die [[Ableitung|Ableitungen]] $u'(x)$ und $v'(x)$ dann gilt für die Ableitung des Produkts die Regel
 $$
 [u(x)\cdot v(X)]' = u'(x)\cdot v(x)+u(x)\cdot v'(x)
 $$
