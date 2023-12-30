@@ -18,7 +18,7 @@ $$
 a = \text{Steigung} = \frac{\Delta y}{\Delta x}=\frac{f(x_{2}) - f(x_{1})}{x_{2}-x_{1}} = \frac{y_{2}-y_{1}}{x_{2}-x_{1}}
 $$
 ## Nützliche Formeln
-### Berechnung der Funktion aus der Steigung und einem Punkt
+### Berechnung der Funktion aus der Steigung und einem Punkt (Punkt-Richtungsform)
 $$
 \begin{align}
 m &=\frac{y-y_{0}}{x-x_{0}} \\
