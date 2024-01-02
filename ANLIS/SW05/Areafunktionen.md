@@ -35,3 +35,7 @@ $$
 $$
 
 ## Ableitungen
+Die Ableitung der [[Hyperbolische Funktionen|hyperbolischen Funktionen]] wird mittels [[Ableitung der Umkehrfunktion]] gemacht und man erhält:
+- $[\operatorname{arsinh}x]' = \frac{1}{\cosh(\operatorname{arsinhx})}=\frac{1}{\sqrt{ 1+(\sinh(\operatorname{arsinhx})^2) }}= \frac{1}{\sqrt{ 1+x^2 }}$
+- $[\operatorname{arcosh}x]' = \frac{1}{\sqrt{ x^2-1 }}, x\gt1$
+- $[\operatorname{artanh}x]' =\frac{1}{1-x^2}, x \lt 1$
