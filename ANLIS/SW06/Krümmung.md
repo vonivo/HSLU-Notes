@@ -5,6 +5,6 @@ $$
 
 Radius des Krümmungskreis:
 $$
-\rho(x) = \frac{1}{\lvert K(x) \rvert }
+\rho(x) = \frac{1}{K(x)}
 $$
 Für $K \gt 0$ hat man eine [[Krümmungsverhalten|Linkskrümmung]] und für $K\lt_{0}$ eine [[Krümmungsverhalten|Rechtskrümmung]].

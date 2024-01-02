@@ -12,3 +12,13 @@ $$
 Für $t=a$ ist man am Anfang der Kurve, für eine beliebiges $t \in [a,b]$ an der Stelle $\vec{x}(t)$ und für $t = b$ am Ende der Kurve.
 
 Für jeden Punkt $\vec{x}$ auf der Kurve gibt es genau ein $t\in[a,b]$, sodass $\vec{x}(t) = \vec{x}$, und auch die Umkehrung gilt.
+
+## Beispiel Ellipse
+Die Parameterform einer Ellipse sieht wie folgt aus:
+$$
+\vec{x}(t) = \begin{bmatrix}
+A \cos(t) \\
+B \sin(t)
+\end{bmatrix}
+$$
+Wobei $A$ und $B$ die Halbachsen der Ellipse darstellen.
