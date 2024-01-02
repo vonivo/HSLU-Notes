@@ -1,4 +1,4 @@
-Die Ableitung einer [[Funktion]] beschreibt wie sich die Steigung der Funktion verhält.
+Die Ableitung einer [[Funktion]] beschreibt wie sich die Steigung der Funktion verhält(also dem [[Differenzenquotient]].
 
 Angenommen wir haben die Funktion für Geschwindigkeit $v= \frac{s}{t}$ 
 
