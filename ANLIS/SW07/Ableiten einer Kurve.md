@@ -14,3 +14,8 @@ x'(t) \\
 y'(t)
 \end{bmatrix}
 $$
+Und um nun $y'$ zu bekommen wird schlussendlich noch:
+$$
+y'=\frac{\dot{x}}{\dot{y}}
+$$
+gerechnet.
