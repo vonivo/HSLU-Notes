@@ -14,3 +14,12 @@ $$
 f(-x) = -f(x), \forall x \in \mathbb{D}(f)
 $$
 ![[Ungerade_funktion.png]]
+
+## Periodische Funktion
+Eine Funktion ist periodisch, wenn sie sich immer in gleichen Abständen wiederholt.
+
+Beispiel:
+$$
+f(x)=\cos x
+$$
+
