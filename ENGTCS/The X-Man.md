@@ -98,4 +98,13 @@
 ## Exam Questions
 - **What are technocracists?**
 	People which believes that scientist and engineers should rule.
-	
+- **What does "innovation first" mean?**
+	The statement "innovation first" mean that Isaacson for example rates the innovation of a person higher than their possible "misbehavior". 
+	For example, the sentence "The end justifies the means" puts the result above everything else.
+- **Why has Elon Musk bought Twitter?**
+	There exists two utterly different explanations.
+		1. Musk bought Twitter because, according to him, Twitter restricted the freedom of speech and Twitter didn't serve the greater cause of the democracy
+	This explanation doesn't make sense, because Twitter was a private company and therefore profit oriented, meaning they boost tweets which get  the most attention etc. And second because Musk has never shown any commitment to democratic governance nor freedom of speech
+	2. He stated "Unless the woke-mind virus, which is fundamentally antiscience, antimerit, and antihuman in general, is stopped, civilization will never become multiplanetary" and in order to stop this woke-min virus he had to buy Twitter and fix this issue.
+- **Why does Musk have so much power?**
+	Musk wield so much power, because he controls a lot of things. He controls for example a huge amount of Satellites, parts of the electric grid, a high speed transportation system, A lot of Tech-Companies, and he is also a defense-consultant. One could say, he is the most powerful man on earth without access to nuclear weapons.
