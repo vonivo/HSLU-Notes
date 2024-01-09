@@ -1,0 +1,70 @@
+**Ziel:** Ein kompliziertes Integral soll mittels Variablen-Substitution in ein einfacheres überführt werden. Beispiel
+$$
+\int x\cos (x^{2}) \, dx 
+$$
+Dies ist kein Stammintegral und kann so einfach nicht [[Integration|integriert]] werden.
+
+## Herleitung der Substitutionsregel
+Ist $F$ eine Stammfunktion von $f$ und $g$ eine differenzierbare [[Funktion]] dan impliziert die [[Kettenregel]]:
+$$
+\frac{d}{dx}[F(g(x))] = F'(g(x))\cdot g'(x)
+$$
+In Integralform
+$$
+\int F'(g(x))g'(x) \, dx = F(g(x)) + C 
+$$
+Wegen $F' = f$ ([[Fundamentalsatz der Differential- und Integralrechnung]]) gilt:
+$$
+\int f(g(x))g'(x) \, dx = F(g(x))+C 
+$$
+In unserem Fall wählen wird $u=g(x)$ und [[Ableitung||leiten ab]]: $\frac{du}{dx}=g'(x)$ woraus folgt: $du=g'(x)dx$
+Nun setzen wir das ein und erhalten:
+$$
+\int f(g(x))g'(x) \, dx = \int f(u) \, du = F(u) + C 
+$$
+Schließlich müssen wir nun Rücksubstituieren, wir schreiben:
+$$
+\int f(g(x))g'(x) \, dx = \left[ \int f(u) \, du  \right]_{u=g(x)} 
+$$
+
+## [[Unbestimmtes Integral|Unbestimmte Integrale]]
+Die Substitutionsregel ist anwendbar auf Integranden, denen man "ansieht, dass sie durch Anwendung der Kettenregel" entstanden.
+### Beispiel
+Dem Integranden $g(x) = \left(\sin^3(x)+e^{\sin x}\right)\cos x$ sieht man an, dass er die Ableitung (via [[Kettenregel]]) der Funktion $G(x) = \frac{1}{4}\sin ^{4}(x)+e^{\sin x}$ ist.
+
+>[!info]
+>Es gilt: $\int f(g(x))g'(x) \, dx = \left[ \int f(u) \, du \right]_{u=g(x)}$.
+>Vorgehen:
+>1. Substituieren formal $g(x) = 0, g'(x)dx =du$
+>2. Integriere unbestimmt nach $u$
+>3. Ersetzte $u$ wieder durch $g(x)$
+
+
+## Beispiel
+Berchne:
+$$
+\int \sin(2x+3) \, dx 
+$$
+Substitution:
+$$
+u = 2x+3
+$$
+Ableitung:
+$$
+\begin{align}
+\frac{du}{dx} &= 2 \\
+du &= 2dx \\
+\frac{1}{2}du &= dx
+\end{align}
+$$
+Einsetzen:
+$$
+\int \sin(u) \frac{1}{2}\, du 
+$$
+Integrieren:
+$$
+\begin{align}
+\int \sin(u) \frac{1}{2}\, du &= -\frac{1}{2}\cos(u) +C \\
+ & =-\frac{1}{2}\cos(2x+3)+C
+\end{align}
+$$

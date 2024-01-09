@@ -1,0 +1,47 @@
+Die [[Substitutionsregel]] kann auch für [[Bestimmtes Integral|bestimmte Integrale]] angewendet werden:
+>[!info]
+>Es gilt:
+>$$
+>\int _{a}^{b}f(g(x))g'(x) \, dx = \int _{g(a)}^{g(b)}f(u) \, du  
+>$$
+>Vorgehen:
+>1. Substituiere formal $g(x)=u, g'(x)dx =du$
+>2. Ersetze die $x$-Grenzen $a,b$ druch die $u$-Grenzen, $g(a),g(b)$
+>3. Integriere
+
+
+## Beispiel
+Berechne das Integral
+$$
+I = \int _{0}^{2}x(x^2+1)^3 \, dx 
+$$
+Substitution:
+$$
+\begin{align}
+u(x) &= x^2+1 \\
+\frac{du}{dx} &= 2\cdot x \\
+du  & =2x\cdot dx \\
+dx  & = \frac{1}{2x}du
+\end{align}
+$$
+Einsetzen:
+$$
+\begin{align}
+I &= \int _{u(0)}^{u(2)}\color{red}x \color{black}(u)^3 \frac{1}{2\color{red}x} \, du  \\
+&= \int _{u(0)}^{u(2)}(u)^3 \frac{1}{2} \, du \\
+&= \int _{0^2+1}^{2^2+1}u^3 \frac{1}{2} \, du \\
+&=\int _{1}^{5}u^3 \frac{1}{2} \, du
+\end{align}
+$$
+Integrieren:
+$$
+\begin{align}
+\int _{1}^{5}u^3 \frac{1}{2} \, du &= \\
+&=\left. \frac{1}{2}\left(\frac{1}{4}u^{4}\right)\right|_{\color{green}1}^{\color{red}5} \\
+&= \frac{1}{8}{\color{red}5}^4-\frac{1}{8}{\color{green}1}^{4} \\
+&=\frac{625}{8}-\frac{1}{8} \\
+&=\frac{624}{8} \\
+&= 78
+\end{align}
+$$
+
