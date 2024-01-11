@@ -14,4 +14,4 @@ Wenn diese Gleichung gelöst ist, erhalten wir Kandidaten für Extrema. Mit Hilf
 
 - $f''(x) \lt 0 \implies$ Es handelt sich um ein **Maximum**
 - $f''(x)\gt 0 \implies$ Es handelt sich um ein **Minimum**
-- $f''(x) =0 \implies$ Es handelt sich um einen potentiellen [[Sattelpunkt]]
+- $f''(x) =0 \implies$ Es handelt sich um einen potentiellen [[Wende-und Sattelpunkte|Sattelpunkt]]
