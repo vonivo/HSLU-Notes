@@ -1,0 +1,8 @@
+- Verkörpert Zustand eines Objektes 
+- Aufbau: *[[Zugriffsmodifizierer]] [[Datentyp]] Bezeichner;* 
+	- [[Zugriffsmodifizierer]]: Möglichst **private**
+	- Bezeichner immer klein
+	- Beispiel: `public float temperaturCelcius`
+- SInd innerhalb der ganzen [[Klasse]] sichtbar
+- Existieren zeitlebens eines Objektes
+- [[Datentyp]] kann ein [[Datentyp#Elementare Datentypen |elementarer Datentyp]]  oder ein  [[Datentyp#Klassen Datentypen|Klassen Datentyp]] sein
