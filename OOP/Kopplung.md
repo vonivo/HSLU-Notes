@@ -31,7 +31,7 @@ Bewusstes abstrahieren oder vollständiges “verstecken” der internen Repräs
 In aufsteigender Sträke:
 - use / depends
 	- Eine [[Klasse]] nutz einen anderen Typ
-	- Z.B. als [[lokale Variable]], formaler [[Parameter]], Returntyp, statischer Aufruf
+	- Z.B. als [[Lokale Variable]], formaler [[Parameter]], Returntyp, statischer Aufruf
 - Assoziation
 	- Explizite Beziehung zu einem anderen Typ (Beziehung ist essentiell)
 	- Z.B als [[Attribut]]/Reverenz

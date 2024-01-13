@@ -1,4 +1,4 @@
-Die toString ist auf jeder [[Klasse]] präsent weil jede [[Klasse|Klassen]] von Object [[vererbung|erbt]]. 
+Die toString ist auf jeder [[Klasse]] präsent weil jede [[Klasse|Klassen]] von Object [[Vererbung|erbt]]. 
 
 - **Es ist Best Practice sie auf jeder Klasse zu überschreibe um eine sinnvolle Ausgabe erzeugen zu können.**
 	- Die Implementation von Object gibt nur den Klassenname und den Hashcode aus was nicht sehr sinnvoll ist 

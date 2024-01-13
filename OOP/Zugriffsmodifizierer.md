@@ -41,3 +41,6 @@ UML Darstellung: ~
 → Einsatz selten ehere bei [[Methode|Methoden]]
 
 UML Darstellung: #
+
+# Übersicht
+![[Accessmodifiers.png]]

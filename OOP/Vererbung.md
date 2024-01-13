@@ -74,7 +74,7 @@ public Rectangle(final int x, final int y, final float width, final float height
 
 
 ## Beispiel
-Die Unter[[klasse]] Rectangle erbt von Shape. [[Konstruktor]] wie oben beschrieben.
+Die Unter[[Klasse]] Rectangle erbt von Shape. [[Konstruktor]] wie oben beschrieben.
 
 ```java
 public class Rectangle extends Shape {

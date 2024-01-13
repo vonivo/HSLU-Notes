@@ -1,4 +1,8 @@
 Die Equals und Hashcode Methoden bestimmen wann ein Objekt als das gleiche wie ein anderes Objekt angesehen werden kann. 
+>[!info]
+>Diese Methode wird zusammen mit der [[Equals-Methode]] von vielen Java-Collections verwendet, und ist **fundamental wichtig** für deren **korrekte** und **performante** Funktion.
+
+
 # Arten von Gleicheit
 In absteigender Strenge: 
 
@@ -80,7 +84,7 @@ Nur [[Datentyp#Elementare Datentypen|elementare Datentypen]] sollten mit [[Opera
         }
 
         return (object instanceof Temperatur temperatur)
-                && Float.compare(this.temperaturCelcius, temperatur.temperaturCelcius) == 0;
+                && Objects.equals(this.temperaturCelcius, temperatur.temperaturCelcius) == 0;
     }
 
 // Equals Methode welche auf Werte Gleichheit bei einem Punkt prüft (x und y Koordinate)

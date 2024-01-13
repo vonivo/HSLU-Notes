@@ -50,7 +50,7 @@ Vergleicht die Personalnummer zweier Personen
 ```
 # Comparator
 Das [[Interface]] Comparator wird dazu verwendet Objekte nach verschiedenen Kriterien zu sortieren. Somit definiert man über den Comparator die spezielle Ordnung. 
-Dafür wird eine eigene kleine [[Klasse]] geschrieben welche das [[interface]] implementiert. 
+Dafür wird eine eigene kleine [[Klasse]] geschrieben welche das [[Interface]] implementiert. 
 
 Der Comparator kann auch mit [[Lamdas]] implementiert werden siehe: [[Lamdas#Beispiel compareTo & Comparable Comparator Comparator mit Lamdas|Comparator mit Lamdas]]
 
