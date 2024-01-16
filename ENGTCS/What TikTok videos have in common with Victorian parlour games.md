@@ -47,3 +47,11 @@
 - Play is liberating because it can transform most familir circumstances into fantasies.
 - Victorian parlor marked play with curtains and candlelight
 - Today you lock down on the phone, and you're in the world -> you look up you're out.
+
+# Summary Key-Notes
+- explore Role of amateur videos -> form of community theater during the pandemic
+- draws connection to Victorian parlour games -> way to try out new social roles just
+- Both part -> creates social binding (magic circle)
+- In both plays -> bodily transformation show social uncertainty
+- emergence of challenges and prank  (Devious Lick) -> show social turmoil, similar plays in Victorian age
+  

@@ -37,3 +37,9 @@ But without regulation, even with stable coins, there will always be people who 
 
 - **Why doesn't FTX change anything around crypto?**
 	FTX was only a Startup and the investor of FTX were aware what they could get, a probably wild success or utter catastrophe. For example, "Lehman Brothers", "Bear stern" "Enron" changed nothing in the long term.
+
+## Summary Keyword
+- Kevin O'Leary talking about the lack of regulation
+- Crypto could be new currency -> need is there ->  wire Transfer system like Swift old slow and costly
+- Distinguished between speculative assets and stable coins
+- people only invest if they trust -> at the moment no "third party"->Help desk so no trust is there.

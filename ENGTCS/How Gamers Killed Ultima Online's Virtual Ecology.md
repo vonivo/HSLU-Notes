@@ -47,3 +47,9 @@ The Lesson learned, was that testing a Product in house is extremely inaccurate.
 	In-house-testing is an approach of testing a product inside the organization which produces the product.
 	Overall, it's most of the time better to test a product with real customers because they have a completely different mindset to the product. And also the product should be tested in regard of the possible amount of users.
 
+## Summary Keywords
+- Essence -> Do not Test in-house
+	- Players will test differently
+- brought to the user by example Ultima Online
+- Ultima Online Virtual Ecology System -> balanced the population of animals
+- Players completely eradicated every living thing they saw

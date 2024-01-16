@@ -92,8 +92,7 @@
 
 - According to **Paul Keyser** Classical scholarship is text oriented
 - When new archeological discovery arrives it doesn't fit because it tends to worry 
-- 
-- 
+
 - scholars and scientist, who prefer patterns and collections of data
 
 ## Greek astronomy
@@ -166,3 +165,17 @@
 - Astrophysicist at Cardiff University
 - Academic leader of the research project
 - Remained in Wales
+
+
+## Summary Key-notes
+- Article about how Greek stripped achievements in science and genius Antikythera Mechanism
+- Mechanism found in 1902 bysponge diverssalongn other artifacts
+- In first 50 years no really research two Theories
+	- Astrolabe
+	- Legendary sphere of Archimedes
+	- -> Nothing happened (first approach believed widely (Greek could not build such a thing))
+- researches of Price continued by Wright -> genius of mechanism came to light
+	- Kept track of the Date
+	- showed lunar and solar eclipses
+	- showed metonic and sarros cycle
+- With The X-Ray machine Blade Runner in 2005 mechanism could be deciphered

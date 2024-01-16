@@ -14,7 +14,7 @@
 - Born in Pretoria, South Africa in 1971
 #### Relatives
 ##### Grandfather 
-- J. N. Haldeman staunch anti-Communist from Canada -> Leader of anti-democratic and quasi-fascist Technocracy movement.
+- J. N. Haldeman staunch anti-Communist from Canada -> Leader of anti-democratic and **quasi-fascist Technocracy** movement.
 - In 1950 moved to South Africa despite the Apartheid. (Regime was promoting movement, could live like princes)
 - Published book called "The International Conspiracy to Establish a World Dictatorship & the Menace to South Africa" -> blamed the world wars on Jews.
 - Now conspiracist -> called Joe Biden a "pedophile President"
@@ -108,3 +108,10 @@
 	2. He stated "Unless the woke-mind virus, which is fundamentally antiscience, antimerit, and antihuman in general, is stopped, civilization will never become multiplanetary" and in order to stop this woke-min virus he had to buy Twitter and fix this issue.
 - **Why does Musk have so much power?**
 	Musk wield so much power, because he controls a lot of things. He controls for example a huge amount of Satellites, parts of the electric grid, a high speed transportation system, A lot of Tech-Companies, and he is also a defense-consultant. One could say, he is the most powerful man on earth without access to nuclear weapons.
+
+## Summary  
+The text describes Elon Musk's rise to becoming the world's richest man in 2021 and Time naming him Person of the Year. It also delves into Musk's personal life, including relationships, pregnancies, and his vision for increasing the birth rate to save civilization. The article touches on Musk's involvement in various companies, such as Tesla, SpaceX, and Neuralink, and highlights his influence over significant aspects of technology, transportation, and space exploration.
+
+The author explores Musk's complex personality, juxtaposing his visionary achievements with his controversial actions, such as Twitter controversies, legal issues, and personal relationships. It provides insights into Musk's childhood in South Africa, his family background, and the challenges he faced growing up. The article also criticizes the portrayal of Musk in biographies, discussing his impact on various industries and the potential ethical concerns arising from his immense influence.
+
+In the latter part of the text, the focus shifts to Musk's business ventures, work ethic, and management style, praising his accomplishments while acknowledging his flaws. The article mentions Musk's interest in acquiring Twitter and his views on free speech, linking it to his broader goal of creating a multiplanetary civilization. It concludes by questioning Musk's commitment to democratic governance and freedom of expression, critiquing his plans to make the world safe for democracy and save civilization. The author also draws parallels between Musk's aspirations and the fictional elements of "The Hitchhiker's Guide to the Galaxy," emphasizing the complexity and contradictions in Musk's character.

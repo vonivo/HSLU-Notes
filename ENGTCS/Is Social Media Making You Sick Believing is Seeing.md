@@ -55,3 +55,11 @@
 	It's nothing more than the placebo in reverse. For example, If you were told the person next to you has head lice it would not go long, and you start to feel an itch on your head because you now have head lice too.
 - **Who are the potential victims?**
 	Since these illnesses are based on a belief,and everyone has a belief. Everyone is a potential victim of these illnesses.
+
+
+## Summary Keynotes
+- Essence Social Media spread awareness Tourette -> can also trigger illness
+- Dr Bartholomew: believing is seeing -> (Big foot)
+- Mass psychogenic illness -> tic like disorder 
+	- Way of brain manifesting its own stress
+- Possible threat to everyone -> based on beliefs (all have beliefs) 

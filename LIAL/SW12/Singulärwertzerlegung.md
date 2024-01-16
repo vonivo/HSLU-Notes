@@ -74,7 +74,7 @@ AV\Sigma^{-1} = U
 $$
 Falls $\Sigma$ nicht invertierbar ist kann folgendes angewandt werden:
 $$
-\frac{1}{\sigma_{n}}Av_{n}=u_{n}
+\frac{1}{\sigma_{n}}AV_{n}=U_{n}
 $$
 Wobei $v_n$ und $u_n$ sich jeweils auf die Spalte mit dem Index $n$ bezieht.
 
