@@ -107,6 +107,73 @@
 	-> Heuberger: "At least the put money into these projects"
 
 
+## Return of Münch
+- Returned 2021 as Head of corporate investment
+- Wanted to direct a large amount of capital towards climate projects
+- Münch realized far less deeply involved in projects presented as its own
+- Münch: "South Pole is only a broker" -> Heuberger is lost to capitalism
+
+## Kariba Crisis #2
+- In May 2021 risk of loosing Kariba project (Wentzel had offer from competitor)
+- Would save deal if South Pole would invest into Wentzels company
+- All payments to Kariba flowed to a single account in Guernsey.
+- Wentzel concealed where the money went -> South Pole hat no idea where tens of millions flowed
+- Wentzel was allowed to keep 30% -> rest distributed under
+	- district concils
+	- fund project activities
+- Some of the money was spent on Kariba project (new Schools and clinics, farming activities, anti poaching patrols fire-suppression measures)
+- Spreadsheet of Wentzel from 2022 accounted only six million (even that had no backing behind it)
+- Münch concluded that most of the money went astray in the Kariba-Project -> wanted to go public before it's in the press
+- Münch was removed form Case
+
+### Wentzel
+- Inability to account for money no accident
+- Due to economic instability too precarious to bank it in Zimbabwe
+- Transfer form Guernsey to sanctioned State (Zimbabwe) bureaucratic headache
+- had devised untraceable way (which was illegal)
+- If he needed money he transfered to acquaintance who wanted electronic money -> exchange money would be delivered in Zimbabwe in dollar.
+- Sees himself in the Middle of savior and villain
+
+## Kariba Crisis #4
+- September 2022 -> Kariba project was a decade old -> **check by verra incoming**
+- South Pole was aware that deforestation was dramatically lower and only 15 mio of 42 mio tickets were backed
+- Münch urged to stop selling these tickets
+- Heuberger refused (Tickets were validated by Verra he stated)
+- Scrutiny of market increased
+- Elias Ayrey critic -> **Kariba received 30x more credits than it should**
+- Pressure from clients at South-Pole increased
+- Heuberger stopped sale of Kariba-credits (sold 23mio -> 8 mio more than backed up)
+- Münch and Heuberger had argument
+
+### Rebuilding Trust
+- South Pole tried to regain trust of own staff with meeting
+- Huge mess
+- Müch left after whistleblowing
+- Verra credited another 7 mio to project
+
+- South Pole struggling to regain trust
+- Public-Relations issue with commission on Kariba-credit (25%) but made far higher margins on that credits the had bought directly
+- several staffer resigned
+- Companies got sued for greenwashing
+- Münch was asked to testimony because of leaked video -> first disagrees -> later agrees (opportunity to make things clear with Kariba project) -> lawyers cancelled the meeting
+- 
+
+
+
+
+
+## Verra
+- In absence of government regulator -> Verra became primary standard setter
+- controller about 2/3 of the market
+- Developers applied increasing pressure to wave their application through
+- Verra outsourced oversight of projects to external auditors
+- external auditors were hired and paid by the developers -> (creating an incentive to ignore concerns)
+- Sniff-tests found score of serious errors -> believed as fraud
+	- Verra allowed developers to claim to be exactlyverified
+- Verra has a fee on each granted credit (the more credits granted the higher the revenue for Verra) -> changed recently
+- Guardian alleged more than 90% of credits were "worthless"
+- 
+
 
 ## Summary Key-Notes
 - About young Idealist started with doing good -> ended with doing bad things
