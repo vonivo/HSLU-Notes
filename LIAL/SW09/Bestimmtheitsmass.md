@@ -39,5 +39,5 @@ Als $\overline{y}$ ist eine [[Zentrierende Matrix]]
 
 Mithilfe der [[Orthogonale Projektionen|Projektionsmatirx]] $P$, der [[Residualmatrix]] $Q$ und der [[Zentrierende Matrix| zentrierenden Matrix]] $M$ lässt sich das alles noch vereinfachen.
 $$
-R^21-\frac{\color{blue}SQR}{\color{red}SQT} = 1- \frac{y^TQy}{y^TMy}
+R^2=1-\frac{\color{blue}SQR}{\color{red}SQT} = 1- \frac{y^TQy}{y^TMy}
 $$
