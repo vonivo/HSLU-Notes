@@ -175,6 +175,34 @@
 - 
 
 
+
+
+
+
+## End of Kariba-Project
+- South Pole -> all Kariba-credits will ultimately be backed up (Verras methodology allows this) -> Could not be possible (since deforestation is so small in reference project)
+- Kariba-Project had minimal impact in Area. -> Community leaders are wary of losing wherever benefit they receive
+- The community is the only one suffering.
+- Wentzel involved in big-game hunting
+- Zimbabwean government wants in future 30% share from carbon projects
+- 
+
+
+- New projects and companies to monitor carbon market
+- With Paris Agreement more offsetting
+
+## Heuberger
+- Very rich (with villa in Zürich)
+- Money was never his goal -> saw things as game
+- Was changing the narrative of South Pole
+- 4 Daugthers and Wife
+- When talking to daughter about climate change only empowerment and optimism -> no climate anxiety
+- Impression of failed idealist (When doing the right sometimes things go wrong -> but no bad intentions as assumed)
+- Bikes a lot, taken up Cello again to lift his spirits. 
+- Heubeger play father of Hänsel and Gretel (Heuberger states: He doesn't really understand. He thinks he's doing a good thing. But he doesn't get it at all) -> Resembles himself.
+
+
+
 ## Summary Key-Notes
 - About young Idealist started with doing good -> ended with doing bad things
 - About North-Pole. -> Company who acts as broker and administrator for climate-tickets.
