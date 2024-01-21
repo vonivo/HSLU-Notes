@@ -66,14 +66,14 @@ $$
 $$
 \begin{align}
 T_{5}(x) &= {\color{green}0}\cdot x^{0}+{\color{red}1}x^{1}+{\color{blue}0}x^{2}+{\color{pink}-\frac{1}{3!}}x^{3}+{\color{yellow}0}x^{4}+{\color{orange} \frac{1}{5!}}x^{5} \\
-&=x- \frac{1}{3}x^{3!}+\frac{1}{5!}x^{5}
+&=x- \frac{1}{3!}x^{3}+\frac{1}{5!}x^{5}
 \end{align}
 $$3. Polynom ablesen
 1. Mit $(-1)^{j}$ wird die Reihe alternierend gemacht: 
 $$
-T_{n}(x)= \sum_{j=0}^{n} \frac{(-1)^{j}}{a}x^{a}
+T_{n}(x)= \sum_{j=0}^{n} \frac{(-1)^{j}}{a!}x^{a}
 $$
 2. Mit $2k +1$ wird erzeugt, dass es bei $j =0 \implies 1$ gibt und bei $j=1 \implies 3$ und bei $j=2 \implies 5$
 $$
-T_{n}(x)= \sum_{j=0}^{n} \frac{(-1)^{j}}{a}x^{2k+1}
+T_{n}(x)= \sum_{j=0}^{n} \frac{(-1)^{j}}{(2j+1)!}x^{2j+1}
 $$
