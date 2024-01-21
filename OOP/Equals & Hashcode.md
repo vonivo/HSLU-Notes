@@ -1,6 +1,6 @@
 Die Equals und Hashcode Methoden bestimmen wann ein Objekt als das gleiche wie ein anderes Objekt angesehen werden kann. 
 >[!info]
->Diese Methode wird zusammen mit der [[Equals-Methode]] von vielen Java-Collections verwendet, und ist **fundamental wichtig** für deren **korrekte** und **performante** Funktion.
+>Diese Methode wird zusammen mit der Equals-Methode von vielen Java-Collections verwendet, und ist **fundamental wichtig** für deren **korrekte** und **performante** Funktion.
 
 
 # Arten von Gleicheit
