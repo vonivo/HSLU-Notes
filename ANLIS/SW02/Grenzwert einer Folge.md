@@ -14,7 +14,7 @@ U_{\epsilon}(a)=\{x \in \mathbb{R}|a-\epsilon \lt x \lt a+\epsilon\} = (a-\epsil
 $$
 ![[Epsilon_Umgebung.png]]
 ### Rechenbeispiel
-Wir haben die $U_{\epsilon}(\color{red}1\color{black})$, also die $\epsilon$-Umgebung von dem Grenzwert 1. Es gilt $\epsilon = 0.05$.
+Wir haben die $U_{\epsilon}(\color{red}1\color{black})$, also die $\epsilon$-Umgebung von dem Grenzwert 1. Es gilt $\epsilon = 0.05$. Die Folge ist $a_{n}=1-\frac{1}{n}$.
 Wir wissen, dass $|a_{n}-\color{red}1\color{black}|\lt \epsilon, \forall n >n_{0}$. $n_{0}$ ist nun das $n$ ab dem alle $a_{n}$ innerhalb des Teppichs liegen.
 $$
 \begin{align}

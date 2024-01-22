@@ -15,7 +15,7 @@ Die Potenzreihe konvergiert sicher für $x=x_{0}$!
 >Für jede Potenzreihe:
 >$$\sum_{k=0}^{\infty}a_{k}(x-x_{0})^{k}=(a_{0}+a_{1}(x-x_{0})+a_{2}(x-x_{0})^2+a_{3}(x-x_{0})^{3}+\dots)$$
 >git es eine reelle $R\geq 0$, genannt **Konvergenzradius**, so dass die Potenzreihe konvergiert, falls $\lvert x-x_{0} \rvert \lt R$ und divergiert, falls $\lvert x-x_{0} \rvert \gt R$ (für $\lvert x-x_{0} \rvert = R$ kann die Reihe entweder konvergieren oder divergieren). Dabei gilt:
->$$R=\lim_{ n \to \infty } \left\lvert  \frac{a_{k}}{a_{k+1}}  \right\rvert, \space\space\space\space \text{bzw.} \space\space\space R=(\lim_{ n \to \infty } \sqrt[k]{ \lvert a_{k} \rvert  })^{-1}$$
+>$$R=\lim_{ n \to \infty } \left\lvert  \frac{a_{k}}{a_{k+1}}  \right\rvert, \space\space\space\space \text{bzw.} \space\space\space R=(\lim_{ k \to \infty } \sqrt[k]{ \lvert a_{k} \rvert  })^{-1}$$
 >,falls einer dieser Grenzwerte existiert oder beide existieren.
 
 ### Beispiel
