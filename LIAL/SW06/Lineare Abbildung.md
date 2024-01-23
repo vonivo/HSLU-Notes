@@ -58,8 +58,11 @@ $$
 
 Mit dieser Abbildungsmatrix wird die Abbildung um 30° am Ursprung gedreht.
 
+Rotationen sind [[Orthogonale Matrix|orthogonal]] und haben eine [[Determinante]] von $+1$.
+
 ## Achsenspiegelung
 Die Abbildung kann auch an einer Koordinaten-Achse gespiegelt werden.
+Spiegelungsmatrizen sind [[Orthogonale Matrix|orthogonal]] mit einer [[Determinante]] von $-1$.
 ### x-Achse
 $$
 A = \begin{pmatrix}

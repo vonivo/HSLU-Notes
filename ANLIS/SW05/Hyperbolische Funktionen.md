@@ -29,4 +29,4 @@ Der **Tanges hyperbolicus** kommt z. B. als Aktivierungsfunktion in künstlichen
 ## Ableitung
 - $(\sinh(x))' = \cosh x$
 - $(\cosh x)' = \sinh x$
-- $(\tanh x)' = 1-\tanh^2x = \frac{1}{\cosh_{2} x}$
+- $(\tanh x)' = 1-\tanh^2x = \frac{1}{\cosh^{2} x}$

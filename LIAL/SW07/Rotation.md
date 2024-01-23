@@ -1,6 +1,7 @@
 * Die [[Matrizen|Rotationsmatrix]] wird mit dem [[Vektoren|Vektor]] multipliziert ([[Vektormulitpliaktion]]).
 * Der Nullvektor wird auf sich selbst [[Lineare Abbildung|abgebildet]].
 * Die Abbildung ist lienar
+* Rotationen sind [[Orthogonale Matrix|orthogonal]] und haben eine [[Determinante]] von $+1$.
 
 ## Beispiel
 $$

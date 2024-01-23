@@ -11,7 +11,7 @@ $$
 \end{align}
 $$
 ## Areakonsinus
-Anslog kann man den [[Hyperbolische Funktionen|Kosinus hyperbolicus]] für $x\gt_{0}$ umkehren: die [[Umkehrfunktion]] heisst **Areakosinus** und ist definiert durch:
+Analog kann man den [[Hyperbolische Funktionen|Kosinus hyperbolicus]] für $x\gt_{0}$ umkehren: die [[Umkehrfunktion]] heisst **Areakosinus** und ist definiert durch:
 $$
 \operatorname{arcosh}:[1;\infty]\to \mathbb{R}_{0}^+, x \mapsto \operatorname{arcosh}x = \ln(x+\sqrt{ x^2-1 })
 $$
