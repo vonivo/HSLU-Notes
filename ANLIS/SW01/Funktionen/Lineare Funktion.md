@@ -27,7 +27,7 @@ y &= m(x-x_{0})+y_{0} \\
 y &= mx-mx_{0}+y_{0}
 \end{align}
 $$
-Wobei $x_0$ und $y_0$ der gegebne Punkt darstellt.
+Wobei $x_0$ und $y_0$ den gegebenen Punkt darstellt.
 
 ### Berechnung der Funktion aus zwei Punkten
 $$

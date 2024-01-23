@@ -5,10 +5,10 @@
 	- Sprich: "Falls eine Reihe konvergiert, dann konvergiert die Folge gegen 0"
 - Bilden die Glieder einer Reihe keine Nullfolge, dann **divergiert** die Reihe
 - Bilden die Glieder einer Reihe eine **Nullfolge**, dann **kann** die Reihe konvergieren.
-- Die Reihe $\sum_{K_{0}1}^\infty \frac{1}{k^p}$ konvergiert für $p\gt 1$ und divergiert für $p\le_{1}$.
+- Die Reihe $\sum_{k=1}^\infty \frac{1}{k^p}$ konvergiert für $p\gt 1$ und divergiert für $p\le_{1}$.
 
 ## Absolute Konvergenz
-Die Reihe $\sum_{K_{0}1}^\infty a_{k}$ heißt **absolut konvergent**, falls die Reihe $\sum_{K_{0}1}^\infty \lvert  a_{k}\rvert$ konvergiert. Konvergiert die 1. Reihe, aber nicht die 2., dann nennt man das **bedingt konvergent**.
+Die Reihe $\sum_{k=1}^\infty a_{k}$ heißt **absolut konvergent**, falls die Reihe $\sum_{k=1}^\infty \lvert  a_{k}\rvert$ konvergiert. Konvergiert die 1. Reihe, aber nicht die 2., dann nennt man das **bedingt konvergent**.
 
 
 ## Eigenschaften und Rechenregeln

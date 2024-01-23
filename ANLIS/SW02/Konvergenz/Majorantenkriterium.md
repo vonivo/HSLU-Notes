@@ -1,4 +1,4 @@
-Das Quotientenkriterium ist ein [[Konvergenzkriterien|Konvergenzkriterium]] um die Art der Konvergenz zu ermitteln.
+Das Majorantenkriterium ist ein [[Konvergenzkriterien|Konvergenzkriterium]] um die Art der Konvergenz zu ermitteln.
 
 Ist $\sum_{k=0}^\infty a_{k}$ eine konvergente [[Reihen|Reihe]] und es gilt $\lvert b_{k} \rvert \le a_{n}$ ab einer festen Gliednummer $n_{0}$, dann konvergiert auch die Reihe $\sum_{k=0}^\infty b_{k}$.
 
