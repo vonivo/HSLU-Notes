@@ -12,7 +12,7 @@ Die Stream API verarbeitet primär Objekt Ströme
 
 Java Package `java.util.stream`
 
-Stream API ist eng mit [[Lamdas]] verknüpft
+Stream API ist eng mit [[Lambdas]] verknüpft
 
 ## Best Practices
 - Darauf achten das man auch deklarativ effizient programmiert

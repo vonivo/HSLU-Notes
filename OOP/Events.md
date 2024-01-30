@@ -28,7 +28,7 @@ Folgende Dinge müssen implementiert werden:
 - remove*Xxx*Listener(…) → Deregistrierung von Listener auf Quelle
 - fire*Xxx*Event(…) → Versenden von Events auf Quelle
 # Beispiel 
-## ohne [[Lamdas]]
+## ohne [[Lambdas]]
 ### Quelle
 Methoden für die Registrierung, Deregistrierung und Verteilung des Events (auf der Quelle, hier Motor)
 ```java
@@ -129,7 +129,7 @@ public class TemperaturEvent extends EventObject {
 ```
 
 ### Eigene Listener [[Interface|Interfaces]]
-Falls es kein passendens Listener [[Interface]] gibt kann man auch selbst eines erstellen. Dieses sollte wenn irgendwie möglich nur eine [[Methode]] haben, damit man das Ganze mit [[Lamdas]] vereinfachen kann. 
+Falls es kein passendens Listener [[Interface]] gibt kann man auch selbst eines erstellen. Dieses sollte wenn irgendwie möglich nur eine [[Methode]] haben, damit man das Ganze mit [[Lambdas]] vereinfachen kann. 
 
 ```java
 @FunctionalInterface
@@ -200,8 +200,8 @@ public class Fahrzeug {
 }
 ```
 
-## mit [[Lamdas]]
-Die kürzester Version ist die mit [[Lamdas]]. Hier erfolgt sehr viel implizit.
+## mit [[Lambdas]]
+Die kürzester Version ist die mit [[Lambdas]]. Hier erfolgt sehr viel implizit.
 `addPropertyChangeListener` hat als [[Parameter]] Objekte vom ([[Interface]]) Typ `PropertyChangeListener`
 Daher erwartert die [[Methode]] sowieso ein `PropertyChangeListener`. Dann muss man nur noch die Implementation mitgeben mit `handleMotorEvent()`
 

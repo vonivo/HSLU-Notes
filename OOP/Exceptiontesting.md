@@ -4,7 +4,7 @@ Basiert prinzipiell auf `JUnit5` und [[Unit Testing]]
 
 # Aufbau
 Exception Testing in JUnit 5 wird mithilfe von `assertThrows()` ausgewertet. 
-`asserThrows()` bekommt eine [[Lamdas|Lamda]] Expression übergeben welche die zu testende Exception auslöst. 
+`asserThrows()` bekommt eine [[Lambdas|Lamda]] Expression übergeben welche die zu testende Exception auslöst. 
 Das wird in eine Variable gespeichert wer
 
 ## Beispiel

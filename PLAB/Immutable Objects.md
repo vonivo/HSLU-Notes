@@ -23,7 +23,7 @@ Ein Immutable Object ist ein Objekt, bei dem die [[Attribut|Attribute]] nicht me
 4. **Immutable Objects make great building blocks for other objects**
 	Immutable Objekte eignen sich gut für Map-Keys und in Sets, da sie sich nicht verändern werden und somit die Semantik immer einhalten.
 
-5. **Immutable objects provide failure atomicity for free**
+5. **Immutable objects provide [[Item 76 Strive for failure Atomicity|failure atomicity]] for free**
 	Da immutable Objects nicht verändert werden, können sie auch nach einem Fehler kein Korrupter zustand annehmen.
 
 ## Nachteile
