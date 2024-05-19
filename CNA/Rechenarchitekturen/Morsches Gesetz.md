@@ -16,4 +16,5 @@ Das Wachstum der Computer ist exponentiell. Die Prozessorleistung verdoppelt sic
 **Wieso steigt die Prozessorleistung schneller als die Anzahl Transistoren?**
 ?
 Je kleiner ein Schalter, desto schneller kann er umschalten. Momentan ist es einfach die Schaltwege zu verkleinern als mehr Transistoren einzubauen.
+<!--SR:!2024-05-22,3,250-->
 

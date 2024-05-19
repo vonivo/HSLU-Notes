@@ -1,3 +1,4 @@
+Um [[Zahlensysteme|Binärzahlen]] negativ darzustellen gibt es verschieden varianten.
 # Exzesscode
 Ein Exzesscode ist eine Zahl mit einem Versatz/Offset.
 Dabei wird der Zahl immer der Versatz addiert. Ein typischer Versatz wäre $2^{m-1}$ oder $2^{m-1}-1$.

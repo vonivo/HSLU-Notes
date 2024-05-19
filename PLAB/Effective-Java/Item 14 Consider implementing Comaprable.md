@@ -1,4 +1,5 @@
-Mit der Implementation von `Comparable<>` erlauben wir dieser Klasse mit allen generischen Algorithmen und Collection-Implementationen zu interagieren.
+Mit der Implementation von `Comparable<>` [[compareTo & Comparable#compareTo ( Interface Comparable)|Comparable]]
+erlauben wir dieser Klasse mit allen generischen Algorithmen und Collection-Implementationen zu interagieren.
 
 Wenn eine Value-Klasse eine natürliche Ordnung besitzt, sollte `Comarable<>` unbedingt implementiert werden.
 

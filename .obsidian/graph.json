@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "path:LIAL  ",
@@ -41,6 +41,13 @@
         "a": 1,
         "rgb": 6084269
       }
+    },
+    {
+      "query": "path:CNA  ",
+      "color": {
+        "a": 1,
+        "rgb": 6073814
+      }
     }
   ],
   "collapse-display": false,
@@ -53,6 +60,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.16348370567220696,
+  "scale": 0.22920135941749326,
   "close": true
 }
