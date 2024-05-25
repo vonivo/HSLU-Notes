@@ -4,7 +4,7 @@ Es enthält:
 - Programcounter
 - Instruction-Register
 - Adressregister
-- [[Stack|Stackpointer]] (Stapelzeiger)
+- [[CNA/Rechenarchitekturen/Stack|Stackpointer]] (Stapelzeiger)
 
 Das Steuerwerk kann auf zwei Arten realisiert werden
 

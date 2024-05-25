@@ -25,7 +25,7 @@ Das Schlüsselwort Final kann eingesetzt werden bei:
 - [[Klasse|Klassen]]
 	- Finale Klassen können nicht mehr [[Vererbung|spezialisiert]] werden
 	- Verhindert [[Vererbung]] wenn Klassen nicht dafür vorgesehen sind
-- Bei [[Datenstruktur|Datenstrukturen]] bezieht sich das Schlüsselwort final nicht auf den Inhalt, sondern auf das Objekt
+- Bei [[OOP/Datenstruktur|Datenstrukturen]] bezieht sich das Schlüsselwort final nicht auf den Inhalt, sondern auf das Objekt
 # Static
 Statische Elemente können direkt über die [[Klasse]] referenziert werden, es muss dafür kein Objekt existieren 
 

@@ -91,7 +91,7 @@ for (a = 5; a > 0; a--)
 ```
 
 # foreach
-- Syntaktische Vereinfachung für [[Datenstruktur|Datenstrukturen]] (z.B Collections, Arrays) verwendet werden
+- Syntaktische Vereinfachung für [[OOP/Datenstruktur|Datenstrukturen]] (z.B Collections, Arrays) verwendet werden
 - Kein spezielles Schlüsselwort: **for** wird gebraucht
 ## Aufbau
 ### Beispiel

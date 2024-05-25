@@ -43,7 +43,7 @@ Die Equals [[Methode]] entscheidet wie “gleich” zwei Objekte sein müssen da
 **equals ist eine [[Methode]] auf dem Objekt welche überschrieben werden sollte**
 - Die Standard Equals [[Methode]] prüft nur auf Identität
 
-Equals wird von vielen Klassen (vor allem [[Datenstruktur|Collections]]) verwendet welche sich darauf verlassen das sie richtig implementiert ist
+Equals wird von vielen Klassen (vor allem [[OOP/Datenstruktur|Collections]]) verwendet welche sich darauf verlassen das sie richtig implementiert ist
 
 Nur [[Datentyp#Elementare Datentypen|elementare Datentypen]] sollten mit [[Operatoren|==]] verglichen werden. Objekte sollten man mit equals vergleichen. (Das gilt auch für **String**)
 

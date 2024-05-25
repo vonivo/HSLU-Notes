@@ -14,7 +14,7 @@ Ein Interrupt verläuft wie folgt:
 1. Interrupt Request (IRQ) von einem Gerät
 2. Interrupt Controller bearbeitet die Aufforderung und erzeugt ein Interrupt-Signal zur CPU
 3. CPU unterbricht
-	1. Rette Kontext auf den [[Stack]]
+	1. Rette Kontext auf den [[CNA/Rechenarchitekturen/Stack]]
 	2. Zeigt Annahme des Interrupt (INTA -> Interrupt Acknowledgement)
 	3. List vom IRC die Interrupt-Nummer und verzweigt mit Hilfe der Vektortabelle in die entsprechende Interrupt-Service-Routine
 	4. Interrupt-Service-Routine liest Geräteregister aus und startet entsprechende Aktionen

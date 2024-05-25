@@ -57,7 +57,7 @@ Hier speichern wir den Comparator des Nachnamen auf einem Attribut der Person
 private static final Comparator<Person> namecomp = (p1, p2) -> p1.getLastname().compareTo(p2.getLastname());
 ```
 
-Diese kann dann folgendermassen (über ein [[Methode#Getter und Setter|Setter]]) aufgerufen werden und genutzt werden um eine Liste von Personen (siehe [[Datenstruktur]]) zu sortieren. 
+Diese kann dann folgendermassen (über ein [[Methode#Getter und Setter|Setter]]) aufgerufen werden und genutzt werden um eine Liste von Personen (siehe [[OOP/Datenstruktur]]) zu sortieren. 
 
 ```java
 Collections.sort(personlist, Person.getLastNameComparator());
