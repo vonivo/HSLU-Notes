@@ -1,4 +1,4 @@
-Ein Thread ist ein Ausführungsstrang eines [[Multicore CPU|Prozesses]]. Wenn ein Prozess beispielsweise bei einem [[Interrupt]] **zwischen Prozessen umschalten** muss, nennt man das **Contextswitching**.
+Ein Thread ist ein Ausführungsstrang eines [[Multicore CPU|Prozesses]]. Wenn ein Prozess beispielsweise bei einem [[CNA/Rechenarchitekturen/Interrupt]] **zwischen Prozessen umschalten** muss, nennt man das **Contextswitching**.
 Da aber alle Register gesichert werden müssen, **braucht dies Zeit,** daher kam die Abhilfe mit dem **Multithreading**.
 
 ## Multithreading
