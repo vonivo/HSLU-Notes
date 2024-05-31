@@ -11,3 +11,6 @@ Durch [[AD/Nebenläufigkeit/Thread/Interrupt|Interrupts]] entstehen folgender ne
 
 Durch den [[Gegenseitiger Ausschluss|gegenseitigen Ausschluss]] wird ein neuer Zustand `Object locj-pool` benötigt.
 ![[ThreadLifecycle_Lockpool.png]]
+
+## Vollständiger Lebenszyklus
+![[ThreadLifeCycle_full.png]]
