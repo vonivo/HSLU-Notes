@@ -7,8 +7,8 @@ Die Queue ist im Gegensatz zum [[AD/Datenstrukturen/Stack|Stack]] nach dem FIFO-
 
 ## Implementation mit [[Liste]]
 - Verwenden einer doppelt verketteten Liste (**konstanter** zugriff auf **head** und **tail**)
-- **dequeue()**: Konstante [[Komplexität]] $O(1)$
-- **enqueue()**: Konstante [[Komplexität]] $O(1)$
+- **dequeue()**: Konstante [[AD/Algorithmen/Komplexität]] $O(1)$
+- **enqueue()**: Konstante [[AD/Algorithmen/Komplexität]] $O(1)$
 
 - Doppeltverkette Liste notwendig
 - Leere Queue benötigt fast keinen Speicherplatz
@@ -17,8 +17,8 @@ Die Queue ist im Gegensatz zum [[AD/Datenstrukturen/Stack|Stack]] nach dem FIFO-
 ## Implementation mit [[Array]]
 - Man implementiert einen Ringbuffer so, dass man die Elemente nicht verschieben muss. (über Index und Modulo). Dabei gibt es einen Index für das erste Element (**head**) und das letzte (**tail**).
 ![[Ringbuffer.png]]
-- **dequeue()**: Konstante [[Komplexität]] $O(1)$
-- **enqueue()**: Konstante [[Komplexität]] $O(1)$
+- **dequeue()**: Konstante [[AD/Algorithmen/Komplexität]] $O(1)$
+- **enqueue()**: Konstante [[AD/Algorithmen/Komplexität]] $O(1)$
 
 - Grösse ist beschränkt
 - Maximaler Platz ist immer belegt

@@ -1,7 +1,7 @@
-Ein Threadpool ermöglicht die limitierte [[Nebenläufigkeit und Parallelität|nebeläufige]] Ausführung von [[Task|Tasks]].
+Ein Threadpool ermöglicht die limitierte [[Nebenläufigkeit und Parallelität|nebeläufige]] Ausführung von [[AD/Nebenläufigkeit/Thread/Task|Tasks]].
 Dabei werden die auszuführenden Tasks über eine [[Queue]] gespeichert.
 
-Der Threadpool besitzt eine Anzahl an Worker-[[Thread|Threads]] welche die [[Task|Tasks]] nacheinander abarbeiten. Beim Erzeugen des Pools wird festgelegt, wie viele Worker-[[Thread|Threads]] zur Verfügung stehen.
+Der Threadpool besitzt eine Anzahl an Worker-[[Thread|Threads]] welche die [[AD/Nebenläufigkeit/Thread/Task|Tasks]] nacheinander abarbeiten. Beim Erzeugen des Pools wird festgelegt, wie viele Worker-[[Thread|Threads]] zur Verfügung stehen.
 ![[ThreadPool.png]]
 
 

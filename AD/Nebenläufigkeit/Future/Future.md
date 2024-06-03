@@ -4,9 +4,9 @@ Das Interface liefer neben dem Ergebnis auch den Status einer Berechnung.
 
 ![[FutureUML 1.png]]
 
-## [[Task|Runnable]] oder [[Callable]]?
+## [[AD/Nebenläufigkeit/Thread/Task|Runnable]] oder [[Callable]]?
 ### `Future<?> sumbit(Runnable task)`
-Wird ein von einem [[Executors|Executor]] erzeugt, welcher nur ein [[Task|Runnable]] enthält, kann die Methoden `isDone()`, `cancle()`, `isCanelled()` verwendend.
+Wird ein von einem [[Executors|Executor]] erzeugt, welcher nur ein [[AD/Nebenläufigkeit/Thread/Task|Runnable]] enthält, kann die Methoden `isDone()`, `cancle()`, `isCanelled()` verwendend.
 Die Methode `get()` ist ein [[Blockierender Aufruf| blockierender Aufruf]] welcher `null` liefert, sobald der Task fertig ist.
 
 ### `Future<T> sumbit(Runnable task, T result)`

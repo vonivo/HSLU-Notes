@@ -8,4 +8,4 @@ Suche nach dem Element 3
 
 ![[BinarySearchTree_search.png]]
 
-Der [[Komplexität|Aufwand]] für die Suche beträgt somit $O(\log n)$ unter der Bedingung, dass der Baum balanciert ist.
+Der [[AD/Algorithmen/Komplexität|Aufwand]] für die Suche beträgt somit $O(\log n)$ unter der Bedingung, dass der Baum balanciert ist.

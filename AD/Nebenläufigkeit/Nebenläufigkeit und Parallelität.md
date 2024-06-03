@@ -25,4 +25,4 @@ Das Abstraktionskonzept in Java für Nebenläufigkeit ist der [[Thread]].
 - Zahlreiche Aufgaben, die nebenläufig ausgeführt werden, treten nicht regelmässig auf und sind meist von kurzer Dauer.
 - Für jede Aufgabe einen [[Thread]] zu erezeugen belastet das [[Betriebssystem]] unnötig.
 - Eine grosse Anzahl an konventionellen [[Thread|Threads]] wirkt sich negativ auf die Leistung des Systems aus. -> Daher werden oft [[Threadpool|Threadpools]] verwendet.
-- Jede nebenläufige Aufgabe ([[Task]]) benötigt einen [[Thread]]. Der [[Task]] wird dem [[Thread]] über den [[Konstruktor]] vermittelt.
+- Jede nebenläufige Aufgabe ([[AD/Nebenläufigkeit/Thread/Task]]) benötigt einen [[Thread]]. Der [[AD/Nebenläufigkeit/Thread/Task]] wird dem [[Thread]] über den [[Konstruktor]] vermittelt.

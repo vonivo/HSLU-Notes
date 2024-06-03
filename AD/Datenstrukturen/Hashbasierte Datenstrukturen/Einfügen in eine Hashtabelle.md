@@ -8,11 +8,11 @@ Index-Berechnung: `hashCode % 10 = index`
 Nun werden die Buchstaben `o` (`index('o') = 4`), `o` (`index('x') = 3`) und `h` (`index('h') = 7`) eingefügt.
 ![[HashTable_insert.png]]
 
-Die [[Komplexität]] für das Einfügen ist $O(1)$.
+Die [[AD/Algorithmen/Komplexität]] für das Einfügen ist $O(1)$.
 
 ### Kollision
 Nun soll das Element `d` (`index('d') = 3`) eingefügt werden.
 Da der Platz `3` schon besetzt ist, wird der nächst freie auf der rechten Seite gesucht, in diesem Fall `5`.
 ![[HashTablle_insert_collision.png]]
 $\implies$ Es entsteht eine **Sondierungskette** (x -> o -> d).
-[[Komplexität]]: im Schlimmsten Fall $O(n)$.
+[[AD/Algorithmen/Komplexität]]: im Schlimmsten Fall $O(n)$.

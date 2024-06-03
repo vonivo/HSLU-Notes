@@ -4,7 +4,7 @@ Sortieralgorithmen werden unterteilt in:
 - [[Radix Sortieralgorithmen]]
 
 Unsortierte Daten haben:
-- Eine [[Komplexität]] der Suche von $O(n)$
+- Eine [[AD/Algorithmen/Komplexität]] der Suche von $O(n)$
 - eine mühsamen und langsamen Zugriff.
 
 Sortierte Daten bieten:

@@ -1,4 +1,4 @@
-Die binäre Suche ist ein Such-[[Algorithmus]] welcher das Suchen eines Elements mit einer [[Komplexität|Zeitkomplexität]] von $O(\log n)$ ermöglicht.
+Die binäre Suche ist ein Such-[[Algorithmus]] welcher das Suchen eines Elements mit einer [[AD/Algorithmen/Komplexität|Zeitkomplexität]] von $O(\log n)$ ermöglicht.
 
 >[!warning]
 >Damit die binäre Suche angewandt werden kann, muss die Datenstruktur **sortiert** vorliegen.

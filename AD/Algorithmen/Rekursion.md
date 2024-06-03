@@ -46,7 +46,7 @@ $$
 Dies kann extrem einfach rekursiv implementiert werden.
 Das Problem dabei ist jedoch, dass viele Zahlen doppelt berechnet werden:
 ![[Fibonacci.png]]
-Die [[Komplexität]]-Klasse der Aufrufe entspricht hier $O(2^{n})$.
+Die [[AD/Algorithmen/Komplexität]]-Klasse der Aufrufe entspricht hier $O(2^{n})$.
 
 
 ## Rekursionstypen

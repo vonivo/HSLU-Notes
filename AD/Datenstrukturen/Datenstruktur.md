@@ -43,4 +43,4 @@ Datenstrukturen bedingen meist spezifische [[Algorithmus|Algorithmen]].
 	
 - **Aufwand der Operationen**: Wie gross ist der Aufwand für die einzelnen Operationen, speziell in Abhängigkeit zur Datenmenge.
 	- Aufwand variiert für verschiedene Operationen als auch in Abhängigkeit der Datenmenge und Datenstruktur.
-	- Meistens interessiert nur die [[Komplexität|Ordnung]]
+	- Meistens interessiert nur die [[AD/Algorithmen/Komplexität|Ordnung]]

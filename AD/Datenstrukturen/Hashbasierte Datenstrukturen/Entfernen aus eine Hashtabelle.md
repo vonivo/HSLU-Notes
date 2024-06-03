@@ -5,13 +5,13 @@ Aus dem folgendenden [[Array]] soll das Element `h` entfernt werden.
 
 1. Suche nach Index 7 -> Treffer
  ![[Hastable_remove_search.png]]
- [[Komplexität]] für die Suche $O(1)$
+ [[AD/Algorithmen/Komplexität]] für die Suche $O(1)$
  
 2. Element entfernen
 ![[Hastable_remove.png]]
-[[Komplexität]] für Entfernen $O(1)$
+[[AD/Algorithmen/Komplexität]] für Entfernen $O(1)$
 
-[[Komplexität]] Allgemein: $O(1) + O(1) \implies O(1)$
+[[AD/Algorithmen/Komplexität]] Allgemein: $O(1) + O(1) \implies O(1)$
 
 Diese Vorgehen funktioniert **im algemeinen nicht!!**, da eine Sondierungskette gebrochen werden kann.
 

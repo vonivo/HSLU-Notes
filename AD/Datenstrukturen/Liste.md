@@ -34,7 +34,7 @@ Sie ist nicht öffentlich zugänglich und enthaltet:
 
 
 ## Suchen
-Da kein direkter Zugriff besteht, beträgt die [[Komplexität|Zeitkomplexität]] der Suche eines Elementes $O(n)$ da immer durch die Liste iteriert werden muss. Dies ist dabei **unabhängig,** ob die Liste **sortiert oder unsortiert** ist.
+Da kein direkter Zugriff besteht, beträgt die [[AD/Algorithmen/Komplexität|Zeitkomplexität]] der Suche eines Elementes $O(n)$ da immer durch die Liste iteriert werden muss. Dies ist dabei **unabhängig,** ob die Liste **sortiert oder unsortiert** ist.
 
 Durch ein Hilfskonstrukt der **Skiplist** kann jedoch auch eine Laufzeit von $O(\log n)$ erreicht werden.
 

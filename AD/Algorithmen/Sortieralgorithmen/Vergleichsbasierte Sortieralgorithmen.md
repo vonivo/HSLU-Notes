@@ -1,5 +1,5 @@
-Bei vergleichsbasierten [[Sortieralgorithmus|Sortieralgorithmen]] sind die Vergleichsoperationen massgebend für die [[Komplexität|Rechenzeit]].
-Sie sind **bestenfalls** (wenn überhaupt möglich) mit der [[Komplexität|Zeitkomplexität]] vom $O(n \times\log n)$ lösbar.
+Bei vergleichsbasierten [[Sortieralgorithmus|Sortieralgorithmen]] sind die Vergleichsoperationen massgebend für die [[AD/Algorithmen/Komplexität|Rechenzeit]].
+Sie sind **bestenfalls** (wenn überhaupt möglich) mit der [[AD/Algorithmen/Komplexität|Zeitkomplexität]] vom $O(n \times\log n)$ lösbar.
 
 ## Beispiel
 Es existieren die Datenelemente D1, D2, D3, D4 ($n = 4$).
@@ -10,7 +10,7 @@ Mit $n=4$ sind insgesamt $n! = 24$ verschiedene Ausgangssituationen für das Sor
 ### Entscheidungsbaum
 Im Entscheidungsbaum repräsentiert jedes Blatt **genau eine der $n!$ möglichen Ausgangssituationen**, welche durch die Konten (Vergleiche) differenziert werden.
 ![[Sort_Decision_tree.png]]
-Die Pfeile zeigen an, wie welche Elemente vertausch werden müssen, damit diese sortiert sind. Dies könnte man fix einprogrammieren und dann sortieren (mit einer [[Komplexität]] von $O(1)$. (Nur für das Sortieren anhand der Pfeile)).
+Die Pfeile zeigen an, wie welche Elemente vertausch werden müssen, damit diese sortiert sind. Dies könnte man fix einprogrammieren und dann sortieren (mit einer [[AD/Algorithmen/Komplexität]] von $O(1)$. (Nur für das Sortieren anhand der Pfeile)).
 
 Mit einem [[Binäre Bäume|binären Baum]] kann man alle $n!$ Ausgangssituationen differenzieren, wobei jeder innere Knoten einem Vergleich entspricht.
 
@@ -48,7 +48,7 @@ $$
 &\gg \frac{n}{2}(\log_{2}(n+2)-\log_{2}(2))
 \end{align}
 $$
-Lässt man hier nun die Konstanten Faktoren weg und beachtet nur den mächtigsten Summanden (vgl. [[Komplexität]]) erhält man: $n\log n$.
+Lässt man hier nun die Konstanten Faktoren weg und beachtet nur den mächtigsten Summanden (vgl. [[AD/Algorithmen/Komplexität]]) erhält man: $n\log n$.
 Somit wächst $\log_{2}(n!)$ **mindestens** so schnell wie $n\log n$.
 
 $\implies$ Daraus resultiert: Vergleichsbasierte Sortierprobleme können bestenfalls mit einer Komplexität von $O(n\log n)$ gelöst werden.

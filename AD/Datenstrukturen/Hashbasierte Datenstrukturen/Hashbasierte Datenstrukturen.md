@@ -1,5 +1,5 @@
 >[!info]
->Man berechnet aufgrund von Daten eine Hashwert (z.B. int) welcher direkt auf den Speicherort der Daten innerhalb der [[AD/Datenstrukturen/Datenstruktur|Datenstruktur]] zeigt. Somit wird ein Lesezugriff mit einer [[Komplexität]] von $O(1)$ möglich.
+>Man berechnet aufgrund von Daten eine Hashwert (z.B. int) welcher direkt auf den Speicherort der Daten innerhalb der [[AD/Datenstrukturen/Datenstruktur|Datenstruktur]] zeigt. Somit wird ein Lesezugriff mit einer [[AD/Algorithmen/Komplexität]] von $O(1)$ möglich.
 
 Um die Datenstruktur weiter zu optimieren, verwendet man zu Berechnung des Hashwertes nur Daten, welche den Identifikationsschlüssel repräsentieren. $\implies$ Weniger Daten ergibt eine schneller Berechnung des Hashwertes.
 

@@ -19,7 +19,7 @@ Ein Array ist eine **geordnete**, **statische** [[AD/Datenstrukturen/Datenstrukt
 ## Suchen
 **Fall 1**
 Daten sind **nicht sortiert**, aber **fortlaufend** befüllt.
-Das Array kann nun sequenziell durchsucht werden mit der [[Komplexität]] von $O(n)$.
+Das Array kann nun sequenziell durchsucht werden mit der [[AD/Algorithmen/Komplexität]] von $O(n)$.
 ![[linearSearch.png]]
 **Fall 2**
 Daten sind **sortiert** und **fortlaufend**.

@@ -31,4 +31,4 @@ private void swap(int i, int j, int[] data) {
 ## Analyse
 Da zum Ermitteln des kleinsten Schlüssels immer der gesamte unsortierte Teil durchsucht werden muss, erübrigt sich die Differenzierung in Best-, Worst- und Average-Case.
 
-=> [[Komplexität]] von $O(n^{2})$.
+=> [[AD/Algorithmen/Komplexität]] von $O(n^{2})$.

@@ -19,8 +19,8 @@ Ein Thread gilt als beendet wenn:
 Wird ein Thread beendet, stellen sich folgende Anforderungen an den Thread:
 - Benutzte Objekte werde in einem konsistenten Zustand hinterlassen.
 - Ressourcen werden freigegeben.
-- [[Task]] wird zu Ende geführt.
-- Kein neuer [[Task]] wird begonnen.
+- [[AD/Nebenläufigkeit/Thread/Task]] wird zu Ende geführt.
+- Kein neuer [[AD/Nebenläufigkeit/Thread/Task]] wird begonnen.
 
 ### Aktives Beenden
 Ein Thread kann durch eine anderen Programmteil wie folgt beendigt werden:

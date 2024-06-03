@@ -1,5 +1,5 @@
 >[!info]
->Die Big-O-Notation ist eine form der Notation der **Ordnung** eines [[Algorithmus]] bezüglich seiner [[Komplexität]].
+>Die Big-O-Notation ist eine form der Notation der **Ordnung** eines [[Algorithmus]] bezüglich seiner [[AD/Algorithmen/Komplexität]].
 
 ## Beispiel
 Die Ordnung $O(n^{2})$ bedeutet, dass:

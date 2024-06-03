@@ -61,7 +61,7 @@ C_{min} &= \sum_{i=2}^{n}1 \\
 &=n-1
 \end{align}
 $$
-=> [[Komplexität]] von $O(n)$.
+=> [[AD/Algorithmen/Komplexität]] von $O(n)$.
 
 ## Worstcase
 Der Worstcase für Insertion-Sort ist, wenn die Daten umgekehrt sortiert vorliegen.
@@ -74,7 +74,7 @@ C_{max} &= \sum_{i=2}^{n}i \\
 &=\frac{n^{2}}{2}+\frac{n}{2} -1
 \end{align}
 $$
-=> [[Komplexität]] von $O(n^{2})$.
+=> [[AD/Algorithmen/Komplexität]] von $O(n^{2})$.
 
 ### Averagecase
 Im Durchscnitt kommt das Element etwa in die Mitte des sortierten Teils.
@@ -91,5 +91,5 @@ C_{avg} &= \sum_{i=2}^{n}\left(1+\frac{i-1}{2}\right) \\
 &=\frac{1}{4}(n^{2}+3n-4)
 \end{align}
 $$
-=> [[Komplexität]] von $O(n^{2})$
+=> [[AD/Algorithmen/Komplexität]] von $O(n^{2})$
 

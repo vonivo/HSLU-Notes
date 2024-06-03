@@ -50,4 +50,4 @@ Alle Implementationen basieren auf Euklid, verwenden aber:
 - unterschiedliche Ansätzen Schleifen vs Rekursion
 - Abkürzung mit Modulo
 
-Daher unterscheidet sich die [[Komplexität|Laufzeitkomplexität]] der Algorithmen so wie der Speicherbedarf.
+Daher unterscheidet sich die [[AD/Algorithmen/Komplexität|Laufzeitkomplexität]] der Algorithmen so wie der Speicherbedarf.

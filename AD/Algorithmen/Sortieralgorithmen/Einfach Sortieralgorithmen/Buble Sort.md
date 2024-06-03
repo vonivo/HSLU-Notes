@@ -23,4 +23,4 @@ public void sort(int data[]) {
 ```
 
 ## Analyse
-Der Algorithmus arbeitet mit einer [[Komplexität]] von $O(n^{2})$, lässt sich aber so modifizieren, dass er im Bestcase mit $O(n)$ durchläuft. Sobald keine Elemente mehr vertauscht werden, sind die Daten sortiert.
+Der Algorithmus arbeitet mit einer [[AD/Algorithmen/Komplexität]] von $O(n^{2})$, lässt sich aber so modifizieren, dass er im Bestcase mit $O(n)$ durchläuft. Sobald keine Elemente mehr vertauscht werden, sind die Daten sortiert.
