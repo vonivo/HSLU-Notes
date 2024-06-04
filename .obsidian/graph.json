@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "path:LIAL  ",
@@ -74,6 +74,6 @@
   "repelStrength": 14.5833333333333,
   "linkStrength": 0.625,
   "linkDistance": 200,
-  "scale": 0.3003387451171875,
+  "scale": 0.059326171875,
   "close": false
 }
