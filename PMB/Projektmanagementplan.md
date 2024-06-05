@@ -5,5 +5,5 @@ Zum Projektmanagementplan gehören folgende Aspekte:
 - Roadmap
 - Release Plans
 - [[Risikomanagement|Risk Management]]
-- [[Projektcontrolling|Controlling]]
+- [[Project Controlling|Controlling]]
 - Project Support

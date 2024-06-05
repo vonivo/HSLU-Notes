@@ -3,6 +3,7 @@
 
 Eine Requirement-Spezifikation ist jede Repräsentation eines oder meherern Requirements.
 
+
 ## Strukturierung
 Die Strukturierung von Requirements werde grundsätzlich in diese drei Ebenen unterteilt:
 - High-Level-Ebene -> um den Überblick über das [[Projekt]] zu erlangen bzw. behalten.
@@ -32,3 +33,25 @@ Da sie Qualitätsaspekte beschreiben, besitzen sie Wiederverwendungspotential ü
 
 Nichtfunktionale Anforderungen müssen unbedingt messbar formuliert werden.
 ![[NichtfunktionaleAnforderungen.png]]
+
+## Struktur
+Ein Anforderungskatalog (Klassisch) oder ein [[Product Backlog]] (agil) sollte folgende Informationen enthalten:
+- Titel -> Kurzer aussagekräftiger Name / Title der Anforderung
+- Beschreibung -> Eine stichwortartige aber präzise Beschreibung der Anforderung.
+- Priorität
+	- 1 = Hight (Höchste Priorität)
+	- 2 = Medium (Könnte in nächsten Release verschoben werden)
+	- 3 = Low Priorität ist tief (eventuell ganz wegglassen)
+- Status
+	Der Status einer Anforderung wird üblicherweise in:
+	- proposed -> Engegengenommen aber noch nicht akzeptiert.
+	- Accepted -> Geprüft und akzeptiert.
+	- postponed -> Geprüft und verschoben.
+	unterteilt.
+
+	Bei einem [[Agiles Vorgehensmodell|agilen Vorgehensmodell]] ist jede Anforderung im Status "proposed" bis sich bei einem Sprint-Planing dazu entschieden wird die Anforderung umzusetzen.
+- Quelle -> Person oder Organisation welche die Anfroderung gestellt hat.
+- Komplexität -> Die Einschätzugn des Aufwandes für die Umsetzung
+	- Klassisch durch den Projektleiter
+	- Agil durch Plaing-Poker
+- Nutzen -> Stichwortartige beschreibung des Nutzens.
