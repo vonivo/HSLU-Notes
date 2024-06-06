@@ -1,6 +1,6 @@
 Damit das Sortieren und Ordnen in Java funktioniert müssen unbedingt die [[Equals & Hashcode]]-Methoden überschrieben werden.
 
-## [[Arrays]] sortieren
+## [[Array|Arrays]] sortieren
 Arrays kännen mit den Methoden von `java.util.Arrays` sortiert werden:
  - `static void srot(int[] a)`
  - `static void srot(int[] a)`
