@@ -29,14 +29,14 @@
       }
     },
     {
-      "query": "path:ENGTCS  ",
+      "query": "path:PLAB  ",
       "color": {
         "a": 1,
         "rgb": 6084188
       }
     },
     {
-      "query": "path:PLAB  ",
+      "query": "path:ENGTCS  ",
       "color": {
         "a": 1,
         "rgb": 6084269
@@ -65,15 +65,15 @@
     }
   ],
   "collapse-display": true,
-  "showArrow": true,
+  "showArrow": false,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1.08255208333333,
-  "lineSizeMultiplier": 0.725260416666667,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0.369791666666667,
-  "repelStrength": 14.375,
-  "linkStrength": 0.541666666666667,
-  "linkDistance": 200,
-  "scale": 0.059326171875,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.13348388671875,
   "close": false
 }
