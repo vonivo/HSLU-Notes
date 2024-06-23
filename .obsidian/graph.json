@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "path:LIAL  ",
@@ -62,6 +62,13 @@
         "a": 1,
         "rgb": 11361494
       }
+    },
+    {
+      "query": "path:LIOS  ",
+      "color": {
+        "a": 1,
+        "rgb": 14048429
+      }
     }
   ],
   "collapse-display": true,
@@ -74,6 +81,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.200225830078125,
+  "scale": 0.03955078125,
   "close": false
 }

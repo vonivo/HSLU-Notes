@@ -1,3 +1,9 @@
+---
+aliases:
+  - Baum
+---
+
+
 Ein Baum ist eine [[AD/Datenstrukturen/Datenstruktur|Datenstruktur]] welche aus Knoten und Kanten besteht. Dabei ist der Wurzelkonten der zentrale Einstiegspunkt und von dort aus wird weiter navigiert.
 
 **Beispiel Unix-Dateisystem**

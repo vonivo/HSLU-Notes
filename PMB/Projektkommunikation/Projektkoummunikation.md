@@ -13,7 +13,7 @@ Von diesen Fähigkeiten ist nur die Nummer 7 nicht kommunikativer natur.
 
 
 ## Kommunikationsinstrumente im Projekt
-1. Projektstandssitzung / erweitertes "Daily Scrum"
+1. bProjektstandssitzung / erweitertes "Daily Scrum"
 	Kommunikation **innerhalb** des Projekts:
 	- Fürhung
 	- Problemlösung
