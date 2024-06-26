@@ -1,4 +1,4 @@
-Der Zugriff auf ein [[Linux]] [[Dateisystem]] erfolgt über den Dateibaum.
+[](Bash%20Shellextension.md)Der Zugriff auf ein [[Linux]] [[Dateisystem]] erfolgt über den Dateibaum.
 Externe Festplatten oder andere Dateisysteme werden in diesem Baum eingefügt.
 
 Bei weiteren Dateisystemen wird ein Verzeichnis eingefügt, anstelle des Blockgeräts. (Meist unter `/mnt`)
