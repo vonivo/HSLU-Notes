@@ -11,21 +11,21 @@ Bei der Datenübertragungsrate wird unterschieden in:
 
 # Typische Datenübertragungsraten
 
-| Technologie                    | Rate                     |
-| ------------------------------ | ------------------------ |
-| Moden / Dialup                 | bis 56 kbit/s            |
-| Mobildfunk GSM-GPRS            | bis 53,6 kbit/s          |
-| ADSL                           | 8-24 Mbit/s              |
-| Ethernet ([[Koaxial,]], Cat 3) | 10 Mbit/s                |
-| Mobilfunkt 3G: UMTS /HSPA      | 384 kbit/s bis 42 Mbit/S |
-| WLAN 802.11g                   | 54 Mbit/s                |
-| Fast Ethernet                  | 100 Mbit/s               |
-| USB 2.0 / 3.0                  | 480 Mbit/s / 2.4 Gbit/s  |
-| HDMI1.3                        | 8.1 bis 10.2 Gbit/s      |
-| HDMI 2.1                       | 38.4 Gbit/s              |
-| WLAN 802.11n                   | bis 600 Mbit/s           |
-| Mobilfunk 4G: LTE / LTE-A      | 300 Mbit/s / 1000 Mbit/s |
-| Mobilfunk 5G                   | Bis 10 Gbit/s            |
+| Technologie                        | Rate                     |
+| ---------------------------------- | ------------------------ |
+| Moden / Dialup                     | bis 56 kbit/s            |
+| Mobildfunk GSM-GPRS                | bis 53,6 kbit/s          |
+| ADSL                               | 8-24 Mbit/s              |
+| Ethernet ([[Koaxialkabel]], Cat 3) | 10 Mbit/s                |
+| Mobilfunkt 3G: UMTS /HSPA          | 384 kbit/s bis 42 Mbit/S |
+| WLAN 802.11g                       | 54 Mbit/s                |
+| Fast Ethernet                      | 100 Mbit/s               |
+| USB 2.0 / 3.0                      | 480 Mbit/s / 2.4 Gbit/s  |
+| HDMI1.3                            | 8.1 bis 10.2 Gbit/s      |
+| HDMI 2.1                           | 38.4 Gbit/s              |
+| WLAN 802.11n                       | bis 600 Mbit/s           |
+| Mobilfunk 4G: LTE / LTE-A          | 300 Mbit/s / 1000 Mbit/s |
+| Mobilfunk 5G                       | Bis 10 Gbit/s            |
 
 # Typische Bitraten bei Anwendungen
 
