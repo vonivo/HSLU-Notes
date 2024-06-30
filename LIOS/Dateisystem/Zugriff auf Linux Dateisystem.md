@@ -16,7 +16,7 @@ Bei weiteren Dateisystemen wird ein Verzeichnis eingefügt, anstelle des Blockge
 **Gerät** -> `/dev/XY`
 **Mountpoint** -> Verzeichnis, z.B. `/mnt`
 
-# Partition
+# [[Partition]]
 Eine Partition ist ein eigenständiges *logisches* Blockgerät.
 Bei Laufwerken, welche über SATA angeschlossen sind, erfolgt die Benennung so:
 - Erste Partition auf Gerät `/dev/sda` -> `/dev/sda1`
