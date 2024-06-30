@@ -7,9 +7,9 @@ Es ist aufgebaut in:
 
 ## Protokolle
 
-| Schicht       | Protokoll                    |
-| ------------- | ---------------------------- |
-| Application   | HTTP, SMTP, RTP, DNS         |
-| Transport     | TCP, UDP                     |
-| Internet      | IP, ICMP                     |
-| Networkaccess | DSL, SONET, 802.11, Ethernet |
+| Schicht       | Protokoll                                           |
+| ------------- | --------------------------------------------------- |
+| Application   | HTTP, SMTP, RTP, DNS                                |
+| Transport     | TCP, UDP                                            |
+| Internet      | IP, ICMP                                            |
+| Networkaccess | DSL, SONET, 802.11, [[IEEE-802#Ethernet\|Ethernet]] |
