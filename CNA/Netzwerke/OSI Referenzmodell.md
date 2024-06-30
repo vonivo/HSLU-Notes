@@ -1,5 +1,5 @@
 Das OSI-Modell (Open System intercommunication) ist ein [[Modelle|Referenzmodell]], welches in sieben Schichten unterteilt ist:
-1. Physical-Layer
+1. [[Physical-Layer]]
 	-> Festlegung des Übertragungsmediums: elektrische und mechanische Eigenschaften.
 2. Data-Link-Layer
 	-> Sicherstellung eines korrekten Datenstroms durch Festlegung der Kanalkodierung und der Zugriffsart auf das Netzwerk.
