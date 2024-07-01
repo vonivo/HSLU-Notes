@@ -36,9 +36,6 @@ Was nun die möglichen Adressen extrem vergrössert -> von $2^{32}$ auf $2^{128}
 
 # IPv6 Header
 ![[IPv6Header.png]]
-- Version -> 4 Bit -> IP-Versionsnummer 6
-- Traffic-Class -> 8 Bit -> [[Quality of Service]]
-- Flow lable -> 
 
 | Feld                | Länge   | Inahlt                                                                                               |
 | ------------------- | ------- | ---------------------------------------------------------------------------------------------------- |

@@ -5,7 +5,7 @@ Das OSI-Modell (Open System intercommunication) ist ein [[Modelle|Referenzmodell
 	-> Sicherstellung eines korrekten Datenstroms durch Festlegung der Kanalkodierung und der Zugriffsart auf das Netzwerk.
 3. [[Network-Layer]]
 	-> Festlegung eines Weges für einen Datenstrom durch das Netzwerk.
-4. Transport-Layer
+4. [[Transport-Layer]]
 	-> Bereitstellung von fehlerfreien logischen Kanälen auf dem physikalischen Transportsystem.
 5. Application-Layer
 	-> Kommunikationsauf- und -abbau, d.h. Auf- und Abbau von logischen Kanälen auf dem physikalischen Transportsystem.
