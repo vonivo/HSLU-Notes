@@ -1,0 +1,1 @@
+Das ARP-Protokoll (Address-Resolution-Protocol) regelt die Zuordnung von [[IP-Adresse]] zu den [[Adressräume#MAC-Adressen|MAC-Adressen]].

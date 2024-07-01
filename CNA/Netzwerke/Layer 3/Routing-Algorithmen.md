@@ -47,9 +47,9 @@ Im Anschluss Berechnung mit dem [[Algorithmus von Dijkstra]].
 
 
 # OSPF
-Der [[Algorithmus von Dijkstra]](SPF) ist der reine Algorithmus mit welchem der Pfad bestimmt wird.
+Der [[Algorithmus von Dijkstra]](SPF) ist der reine Algorithmus, mit welchem der Pfad bestimmt wird.
 
-OSPF (Open Shortest Path First) ist ein Protokoll, welches durch Link State-Routing den Graf des Netzwerks bestimmt um danach mit SPF den Weg zu bestimmen.
+OSPF (Open Shortest Path First) ist ein Protokoll, welches durch Link State-Routing den Graf des Netzwerks bestimmt, um danach mit SPF den Weg zu bestimmen.
 
 # Spezielle Routing Algorithmen
 **Hierarchisches Routing**
@@ -68,8 +68,8 @@ OSPF (Open Shortest Path First) ist ein Protokoll, welches durch Link State-Rout
 - Router berechnet Spanning-Tree
 
 **Routing für mbile Hosts**
-- z.B. Mobile-IP (Station die sich bewegen. IPv4 -> schwierig, IPv6 -> einfacher)
+- z.B. Mobile-IP (Stationen die sich bewegen. IPv4 -> schwierig, IPv6 -> einfacher)
 
 **Routing in Ad-Hoc-Netzen**
-- Keine feste Topolige, Hosts werden spontan (ad-hoc) vernetzt.
+- Keine feste Topologie, Hosts werden spontan (ad-hoc) vernetzt.
 - IOT-Schwärme, Automobilnetze, Notfallnetze.
