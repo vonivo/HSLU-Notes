@@ -11,3 +11,7 @@ Diese Kabel besitzt eine Wellenwiderstand **Impedanz**. Je nach Impedanz wird da
 
 Das Koaxialkabel wird nur noch in wenigen Spezialfällen für die reine Datenübertragung verwendet.
 Mit diesem Kabel ist eine Übertragung auf vielen Kanälen in beide Richtungen gleichzeitig möglich.
+
+
+Dieses Kabel kann mehrere Frequenzen gleichzeitig übertragen und kann so z.B für mehrere Dienste gleichzeitig genutzt werden:
+![[Coax.png]]
