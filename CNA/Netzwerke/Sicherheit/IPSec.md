@@ -1,0 +1,1 @@
+IPSec ist eine Verbesserung des [[IP|IP-Protokolls]] um Vertraulichkeit, Authentizität und Integrität. IPSec wurde mit [[IPv6]] eingefürht aber für IPv4 nachgebaut.

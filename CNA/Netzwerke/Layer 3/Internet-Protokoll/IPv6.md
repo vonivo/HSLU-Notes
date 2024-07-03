@@ -28,7 +28,7 @@ Was nun die möglichen Adressen extrem vergrössert -> von $2^{32}$ auf $2^{128}
 	- `2000::/3` (200... bis 3fff): von IANA bisher eindeutig Vergeben.
 
 # Features
-- Unterstüzung für Authentifizierung, Security, Verschlüsselung, z.B. neuer Dienst IPSec
+- Unterstüzung für Authentifizierung, Security, Verschlüsselung, z.B. neuer Dienst [[IPSec]]
 - Vereinfachung und Verbesserung der Protokollheader -> Einfacher für [[Router]]
 - Unterstüzung für Mobile IP und vereinfachte Umnummerierung (beim Umzug von Rechner)
 - Autokonfiguration von IPv6-Adressen ([[DHCP]] wird überflüssig)
