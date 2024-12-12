@@ -1,0 +1,2 @@
+- Einfach zu Bruteforce
+- Frequenzanalyse → Häufigkeit der Buchstaben Analysieren

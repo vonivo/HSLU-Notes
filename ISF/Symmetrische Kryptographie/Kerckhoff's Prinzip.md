@@ -1,0 +1,1 @@
+Ein Angreifer kennt den Algorithmus und alle Details des Systemes. Nur der Schlüssel ist geheim

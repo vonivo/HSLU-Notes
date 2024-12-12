@@ -1,0 +1,3 @@
+- Je nach Risiko andere Funktionen:
+    - Smartphone nur lesen
+    - Nur vom PC aus Überweisungen

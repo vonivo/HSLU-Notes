@@ -1,0 +1,1 @@
+Ein [[Betriebssysteme|Betriebssystem]] wird als Multiuser bezeichnet wenn es mehre Benutzer verwalten kann. Ein Multiusersystem ist nicht zwingen ein [[Multisession]]system.

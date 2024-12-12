@@ -1,0 +1,1 @@
+ALs Readers and Writers bezeichnet man ein Problem der [[Interprocess Communication]]. Dabei geht es darum Schreib-/Lesekonflikte zu vermeiden (z.B. auf einer Datenbank)

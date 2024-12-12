@@ -11,7 +11,7 @@ $$
 \lim_{ x \to 0^- } f(x)=\lim_{ x \to x^- }\frac{\lvert x \rvert }{x}=\lim_{ x \to 0^- } \frac{-x}{x}=\lim_{ x \to 0^- } \frac{-1}{1}=-1
 $$
 
-Wohingegen die Funktion $f(x)=\frac{\sin x}{x}$ biede Grenzwerte gelich sind:
+Wohingegen die Funktion $f(x)=\frac{\sin x}{x}$ biede Grenzwerte gleich sind:
 ![[Pasted image 20231229142910.png]]$$
 \lim_{ x \to 0^- } f(x)=1
 $$

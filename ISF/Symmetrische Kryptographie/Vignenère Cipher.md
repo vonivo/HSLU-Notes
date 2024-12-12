@@ -1,0 +1,3 @@
+- Ein Wort wird gewählt, jeder Buchstabe des zu verschlüsselnden Text wird mit dem Entsprechenden Stellen Wert aus dem Schlüsselwort verschoben
+- Lange Schlüssel erhöht die Sicherheit nicht
+- Problem: (Intervall-)Frequenzanalyse

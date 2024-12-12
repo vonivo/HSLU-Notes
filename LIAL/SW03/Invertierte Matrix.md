@@ -41,14 +41,16 @@ $$ AIA^{-1}= AA^{-1} = I$$
 
 ## Invertieren von 2x2-Matrizen
 Eine 2x2-Matrix wird invertiert, indem die Zahlen auf der Hauptdiagonale vertauscht werden, das Vorzeichen der restlichen getauscht wird und die Matrix  durch ihre [[Determinante]] geteilt wird:
+
+Falls $ad -bc \neq 0$
 $$
 \begin{pmatrix}
-1 & 3 \\
-1 & 7
-\end{pmatrix}^{-1} = \frac{1}{1\cdot 7 - 1 \cdot 3}
+a & b \\
+c & d
+\end{pmatrix}^{-1} = \frac{1}{a\cdot d - b \cdot c}
 \begin{pmatrix}
-7 & -3 \\
--1  & 1
+d & -b \\
+-c  & a
 \end{pmatrix}$$
 
 ## Inverse von Diagonalen Matrizen

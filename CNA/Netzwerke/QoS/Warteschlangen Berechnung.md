@@ -1,4 +1,4 @@
-Mit dem Warteschlangenmodell können die Netzwerk-Kanalkapazität als Entscheidungsgrundlage genutzt werden um ein Modell zu berechnen.
+Mit dem KEWarteschlangenmodell können die Netzwerk-Kanalkapazität als Entscheidungsgrundlage genutzt werden um ein Modell zu berechnen.
 
 Damit lässt sich die erwartete Verarbeitungszeit des Servers/Routers berechnen.
 

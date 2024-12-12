@@ -18,7 +18,7 @@ $$ \left \{
 Den ersten Eintrag einer Zeile, der nicht verschwindet (nicht 0) nennt man **Leitkoeffizient**. (Hier eingeklammert.)
 $$  \left(\begin{array}{rrr|r}
     (2)&5&-2&-3\\
-    (3)&0&2&7 \\
+    0&(3)&2&7 \\
     0&0&(5)&10
   \end{array}\right)$$
 Steht in einer [[Matrizen |Matrix]] jeder Leitkoeffizient weiter rechts als der Leitkoeffizient in der Zeile darüber, und stehen alle Zeilen Ohne Leitkoeffizient (diejenige mit lauter Nullen) ganz unten, hat die Matrix die Zeilenstufenform. In diesem Fall nennt man die Leitkoeffizienten auch Pivotelemente (hier eingekreist)

@@ -1,0 +1,2 @@
+Der Kernel Mode ist eine Betriebsart des Prozessors mit erweiterten Rechten. 
+Der Kernel Mode hat einen dedizierten Bereich im [[Speicher|Arbeitsspeicher]] der reserviert ist für das [[Betriebssysteme |Betriebssystem]]

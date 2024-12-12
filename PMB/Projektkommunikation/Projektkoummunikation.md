@@ -37,7 +37,7 @@ Im [[Klassische Vorgehendsmodelle|klassischen Vorgehensmodell]] ist das Instrume
 #### Agil
 Im [[Agiles Vorgehensmodell|agilen Vorgehensmodell]] gibt es das "Daily Scrum", welches einen Teil einer Projektstandssitzung abdeckt.
 
-Es empfiehlt sich aber einmal pro Sprint anstelle des "Daily Scrum" eine eigentliche Projektstandssitzung durchzuführen, welche dann auch Themen wie Personelles, Fachthemen und [[Risiko|Risiken]] beinhaltet.
+Es empfiehlt sich aber einmal pro Sprint anstelle des "Daily Scrum" eine eigentliche Projektstandssitzung durchzuführen, welche dann auch Themen wie Personelles, Fachthemen und [[PMB/Risikomanagement/Risiko|Risiken]] beinhaltet.
 
 #### Eigenschaften
 - Klare und fixe Agenda.

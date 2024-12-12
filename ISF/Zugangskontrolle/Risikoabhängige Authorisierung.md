@@ -1,0 +1,7 @@
+- Unproblematische Zahlungen benötigen keinen zweite Faktor
+- Globale Allow Liste
+    - vertrauenswürdige Empfänger
+    - Empfänger an welche häufig Zahlungen getätigt werden
+- Persönliche Allow Liste
+    - Zahlungen mit kleinem Betrag
+    - Empfänger an welche bereits Zahlung getätigt wurden

@@ -1,4 +1,4 @@
-Eine [[Risiko]] besitzt eine **Eintrittwahrscheinlichkeit** und eine Schadensmass.
+Eine [[PMB/Risikomanagement/Risiko]] besitzt eine **Eintrittwahrscheinlichkeit** und eine Schadensmass.
 **Eintrittsindikatoren** zeigen frühzeitig an, dass ein eventuell Risiko eintreten wird.
 
 ## Eintrittswahrscheinlichkeit
@@ -13,7 +13,7 @@ Die Eintrittswahrscheinlichkeit wird wie folgt quantifiziert:
 | 1     | fast unmöglich         | sehr unwahrscheinlich, dass das Problem eintritt.       |
 
 ## Auswirkung
-Die Auswirkungen eines [[Risiko]] werden wie folgt quantifiziert:
+Die Auswirkungen eines [[PMB/Risikomanagement/Risiko]] werden wie folgt quantifiziert:
 
 | Stufe | Auswirkung       | Technik                             | Kosten      | Zeit                      |
 | ----- | ---------------- | ----------------------------------- | ----------- | ------------------------- |

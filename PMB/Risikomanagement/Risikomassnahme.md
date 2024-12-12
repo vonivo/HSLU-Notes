@@ -1,4 +1,4 @@
-Es existieren insgesamt vier Massnahmen welche auf ein [[Risiko]] angewant werden können
+Es existieren insgesamt vier Massnahmen welche auf ein [[PMB/Risikomanagement/Risiko]] angewant werden können
 
 **Vermeiden**
 Dem Risiko wird aus dem Weg gegangen, indem eine andere Variante angepeilt wird.
