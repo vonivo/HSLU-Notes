@@ -33,7 +33,7 @@ $$
 Am Punkt $(1,1)$ ergibt das:$\begin{bmatrix}6 \\3\end{bmatrix}$.
 
 ## Eigenschaften
-Ist $f$ eine [[Stetigkeit|stetige]] [[Funktion]], d.h. insbesondere im Punkt $(x_{0},y_{0})$ [[Ableitung|differenzierbar]] mit dem Gradienten $\nabla f(x_{0},y_{0}\neq 0)$, dann 
+Ist $f$ eine [[Stetigkeit|stetige]] [[ANLIS/SW01/Funktionen/Funktion]], d.h. insbesondere im Punkt $(x_{0},y_{0})$ [[Ableitung|differenzierbar]] mit dem Gradienten $\nabla f(x_{0},y_{0}\neq 0)$, dann 
 - ist die Richtung des Gradienten $\nabla f(x_{0},y_{0}\neq 0)$
 	- **senkrecht (orthogonal)** zu den [[Konturlinien]] von $f$ durch $(x_{0},y_{0})$, d. h. den Kurven mit $f(x_{0},y_{0})=f(x,y)$.
 	- gleich der **Richtung der maximalen Zunahme von $f$**

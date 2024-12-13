@@ -65,7 +65,7 @@ $$
 &=2\left( 2+\frac{t}{\sqrt{ 5 }} \right)^{2}+3(1)^{3}+\left(3-\frac{2t}{\sqrt{ 5 }}\right)^{2} \\
 \end{align}
 $$
-Änderungsrate der gewöhnliche [[Funktion]] $\bar{f}$ zur Zeit $t$:
+Änderungsrate der gewöhnliche [[ANLIS/SW01/Funktionen/Funktion]] $\bar{f}$ zur Zeit $t$:
 $$
 \begin{align}
 D_{e}f(x_{0}) &= \lim_{ t \to 0+ } \frac{\bar{f}(t)-\bar{f}(x_{0})}{t}\\

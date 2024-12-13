@@ -17,7 +17,7 @@ $$
 
 
 ## Wachstumsfaktor
-Exponentialfunktionen ist eine Form von [[Funktion|Funktionen]] bei welchen der **Wachstumsfaktor** $b$ (z. B. $1.3\%$) konstant bleibt.
+Exponentialfunktionen ist eine Form von [[ANLIS/SW01/Funktionen/Funktion|Funktionen]] bei welchen der **Wachstumsfaktor** $b$ (z. B. $1.3\%$) konstant bleibt.
 Er ist definiert durch:
 $$
 b = \frac{P(t)}{P(t-1)} = \text{konstant}

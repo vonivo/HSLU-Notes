@@ -1,4 +1,4 @@
-Die Kurvendiskussion ist ein Verfahren, um ein ungefähres Bild des Graphen einer [[Funktion]] oder [[Kurve]] zeichnen zu können.
+Die Kurvendiskussion ist ein Verfahren, um ein ungefähres Bild des Graphen einer [[ANLIS/SW01/Funktionen/Funktion]] oder [[Kurve]] zeichnen zu können.
 
 Sie beinhaltet:
 - [[Definitionsbereich]] und [[Wertebereich]], **Definitionslücken** und [[Stetigkeit|Unstetigkeitstellen]]

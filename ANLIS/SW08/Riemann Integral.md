@@ -1,4 +1,4 @@
-Das bestimmte Integral wird benutzt, um die Fläche unter einer [[Funktion]] zu bestimmen:
+Das bestimmte Integral wird benutzt, um die Fläche unter einer [[ANLIS/SW01/Funktionen/Funktion]] zu bestimmen:
 ![[Bestimmtes_Integral.png]]
 Hier wird die Fläche von $x_{0} = 1$ bis $x_{5}=2$ bestimmt. Nun werden immer Rechtecke gebildet wie obigen Bild ersichtlich. Dabei wird dann die Fläche dieser Rechte addiert und man bekommt eine Näherung an die Fläche unterhalb des Grafen.
 

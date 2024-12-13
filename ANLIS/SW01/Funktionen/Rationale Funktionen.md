@@ -1,4 +1,4 @@
-Rationale Funktionen sind [[Funktion|Funktionen]] die Quotienten von [[Potenzfunktion|Polynomen]] $p$ und $q$ sind.
+Rationale Funktionen sind [[ANLIS/SW01/Funktionen/Funktion|Funktionen]] die Quotienten von [[Potenzfunktion|Polynomen]] $p$ und $q$ sind.
 $$
 r:\mathbb{D} \to \mathbb{R}, x \mapsto y = r(x)=\frac{p(x)}{q(x)}
 $$

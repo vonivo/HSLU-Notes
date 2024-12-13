@@ -1,4 +1,4 @@
-Eine [[Funktion]] $f$ heisst dann stetig, wenn man ihren Graphen zeichnen kann, ohne den Stift absetzen zu müssen.
+Eine [[ANLIS/SW01/Funktionen/Funktion]] $f$ heisst dann stetig, wenn man ihren Graphen zeichnen kann, ohne den Stift absetzen zu müssen.
 
 Genauer ist eine Funktion $f$ stetig an der Stelle $a$ falls:
 1. Die Funktion $f$ dort existiert, d. h. falls $f(a)$ definiert ist ($a$ in der [[Definitionsbereich|Definitionsmenge]])
@@ -33,5 +33,5 @@ Eine Funktion heisst stetig, falls sie überall in ihrem [[Definitionsbereich]],
 - Sinusfunktionen und Kosinusfunktion sind stetig.
 - Der Tanges ($\tan x = \frac{\sin x}{\cos x}$) ist stetig, falls $\cos x\ne 0$, d. h. $x\ne \frac{\pi}{2} + k\pi, k\in\mathbb{Z}$
 - [[Exponentialfunktionen|Exponential]]- und [[Logarithmusfunktionen]] sind in ihren [[Definitionsbereich|Definitionsberichen]] stetig.
-- Zusammensetzung stetiger [[Funktion]] ist stetig.
+- Zusammensetzung stetiger [[ANLIS/SW01/Funktionen/Funktion]] ist stetig.
 - Eine [[Zusammengesetzte Funktionen|zusammengesetzt Funktion]] kann dort unstetig sein, wo eine der verwendeten Funktionen nicht stetig ist.

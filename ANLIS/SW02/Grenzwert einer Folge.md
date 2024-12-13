@@ -44,7 +44,7 @@ $$
 $$
 - gilt zudem $b\ne 0$ und $b_{n}\ne 0, \forall n$, dann konvergiert die Folge $\left( \frac{a_{n}}{b_{n}} \right)$ gegen $\frac{a}{b}$
 $$\lim_{ n \to \infty }\left( \frac{a_{n}}{b_{n}} \right) = \frac{\lim_{ n \to \infty }(a_{n})}{\lim_{ n \to \infty }(b_{n})}= \frac{a}{b}$$
-- für jede stetige [[Funktion]] $f$ gilt $\lim_{ n \to \infty }f(a_{n})=f(\lim_{ n \to \infty }a_{n})$
+- für jede stetige [[ANLIS/SW01/Funktionen/Funktion]] $f$ gilt $\lim_{ n \to \infty }f(a_{n})=f(\lim_{ n \to \infty }a_{n})$
 
 ## Nützliche Grenzwerte
 #grenzwerte

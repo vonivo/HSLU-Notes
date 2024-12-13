@@ -1,4 +1,4 @@
-[[Kurve|Kurven]] der Form $y=f(x)$ liegen in **expliziter Form** (man spricht von einer [[Funktion]]) vor, d.h. man kann für jede $x$ den Funktionswert berechnen und damit die Kurve sofort zeichnen.
+[[Kurve|Kurven]] der Form $y=f(x)$ liegen in **expliziter Form** (man spricht von einer [[ANLIS/SW01/Funktionen/Funktion]]) vor, d.h. man kann für jede $x$ den Funktionswert berechnen und damit die Kurve sofort zeichnen.
 
 Liegen Kurven in der Form $F(x,y) = 0$ vor, spricht man von der **impliziten Form**. Oft ist eine Auflösung nach $y$ nicht möglich. Trotzdem will man $y'$ berechnen.
 

@@ -1,4 +1,4 @@
-Potenzfunktionen sind [[Funktion|Funktionen]] mit der Form:
+Potenzfunktionen sind [[ANLIS/SW01/Funktionen/Funktion|Funktionen]] mit der Form:
 $$
  f(x) = kx^p, \space\space k,p \in \mathbb{R}
 $$

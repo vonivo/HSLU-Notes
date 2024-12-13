@@ -1,4 +1,4 @@
-Logarithmusfunktionen sind [[Funktion|Funktionen]] welche die [[Umkehrfunktion]] zu einer [[Exponentialfunktionen|Exponentialfunktion]] darstellen.
+Logarithmusfunktionen sind [[ANLIS/SW01/Funktionen/Funktion|Funktionen]] welche die [[Umkehrfunktion]] zu einer [[Exponentialfunktionen|Exponentialfunktion]] darstellen.
 ![[Logarithmusfunktion.png]]
 
 ## Logarithmus

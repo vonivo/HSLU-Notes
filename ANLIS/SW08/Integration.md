@@ -1,4 +1,4 @@
-Eine differenzierbare [[Funktion]] ($F(x)$) **heisst Stammfunktion** von $f(x)$ falls,
+Eine differenzierbare [[ANLIS/SW01/Funktionen/Funktion]] ($F(x)$) **heisst Stammfunktion** von $f(x)$ falls,
 $$
 F'(x)=f(x)
 $$

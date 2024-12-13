@@ -1,4 +1,4 @@
-Der Schnittwinkel zweier [[Funktion]] kann wie folgt berechnet werden:
+Der Schnittwinkel zweier [[ANLIS/SW01/Funktionen/Funktion]] kann wie folgt berechnet werden:
 ![[Schnittwinkel_von_Funktionen.png]]
 
 Für den Steigungswinkel $\alpha_{1}$ und $\alpha_{2}$ gilt:

@@ -1,9 +1,9 @@
-Die Frage ist, ob [[Taylor-Reihe]] einer [[Funktion]] **gleich** der [[Funktion]] ist ($T(x)=f(x)$)?
+Die Frage ist, ob [[Taylor-Reihe]] einer [[ANLIS/SW01/Funktionen/Funktion]] **gleich** der [[ANLIS/SW01/Funktionen/Funktion]] ist ($T(x)=f(x)$)?
 
-Genau dafür ist das Restglied nach Lagrange: Es ist gleich dem Fehler, den wir machen, wenn wir die [[Funktion]] $f$ durch das $n$-ten [[Taylor-Polynom]] ersetzen.
+Genau dafür ist das Restglied nach Lagrange: Es ist gleich dem Fehler, den wir machen, wenn wir die [[ANLIS/SW01/Funktionen/Funktion]] $f$ durch das $n$-ten [[Taylor-Polynom]] ersetzen.
 
 ## Definition
-Falls die [[Funktion]] $f:[a,b] \to \mathbb{R},x\mapsto f(x)$ mindestens $n+1$ mal stetig [[Ableitung|differenzierbar]] ist, dann gilt:
+Falls die [[ANLIS/SW01/Funktionen/Funktion]] $f:[a,b] \to \mathbb{R},x\mapsto f(x)$ mindestens $n+1$ mal stetig [[Ableitung|differenzierbar]] ist, dann gilt:
 $$
 f(x)=\sum_{k=0}^{n} \frac{f^{(k)}(x_{0})}{k!}(x-x_{0})+R_{n}(x)
 $$
@@ -40,7 +40,7 @@ Für ein festes $x$ muss nur $n$ genügend gross gewählt werden, damit $\lvert 
 >Wir schreiben dann $f(x)=\sum_{k=0}^{\infty} \frac{f^{(k)}(x_{0})}{k!}(x-x_{0}^{k})$
 
 >[!info]
->Eine beliebig oft differenzierbare [[Funktion]] $f$ lässt sich in einer Umgebung $(x_{0}-R, x_{0}+R)$ von $x_{0}$ in eine konvergente [[Taylor-Reihe]] entwickeln, falls gilt:
+>Eine beliebig oft differenzierbare [[ANLIS/SW01/Funktionen/Funktion]] $f$ lässt sich in einer Umgebung $(x_{0}-R, x_{0}+R)$ von $x_{0}$ in eine konvergente [[Taylor-Reihe]] entwickeln, falls gilt:
 >$$
 >\lvert f^{(n)}(x) \rvert\leq KM^{n} \space\space\space \text{für alle } n \in \mathbb{N} \text{ und alle } x \in (x_{0}-R, x_{0}+R) 
 >$$

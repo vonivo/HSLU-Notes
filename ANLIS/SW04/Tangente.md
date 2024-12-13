@@ -1,4 +1,4 @@
-Eine Tangente ist eine Gerade, welche eine [[Funktion]] genau in einem Punkt berührt.
+Eine Tangente ist eine Gerade, welche eine [[ANLIS/SW01/Funktionen/Funktion]] genau in einem Punkt berührt.
 ![[Tangente.png]]
 
 ## Tangentengleichung
@@ -14,6 +14,6 @@ y-f(x_{0})&=f'(x_{0})(x-x_{0}) \\
 y&=f(x_{0})+f'(x_{_{0}})(x-x_{0})
 \end{align}
 $$
-Dieser Vorgang stellt eine Approximation (Annäherung) der [[Funktion]] $f(x)$ durch eine [[Lineare Funktion]] dar und **Linearisierung von $f$ in $x_{0}$** bezeichnet.
+Dieser Vorgang stellt eine Approximation (Annäherung) der [[ANLIS/SW01/Funktionen/Funktion]] $f(x)$ durch eine [[Lineare Funktion]] dar und **Linearisierung von $f$ in $x_{0}$** bezeichnet.
 #linearisierung
 Die Linearisierung ist im Punkt $x_{0}$ exakt, wird aber je weiter entfernt von $x_{0}$ ungenauer.

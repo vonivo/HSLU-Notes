@@ -1,4 +1,4 @@
-Die logarithmische Differentiation hilft beim [[Ableitung|Ableiten]] von [[Funktion]] wie $f(x)=x^x$ (Form $f(x)=[u(x)]^{v(x)}$)
+Die logarithmische Differentiation hilft beim [[Ableitung|Ableiten]] von [[ANLIS/SW01/Funktionen/Funktion]] wie $f(x)=x^x$ (Form $f(x)=[u(x)]^{v(x)}$)
 
 ## Vorgehen
 1. Auf beiden Seiten logarithmieren:

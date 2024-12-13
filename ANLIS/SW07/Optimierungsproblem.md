@@ -1,4 +1,4 @@
-Bei **Extremwertproblemen** sucht man den Extremwert einer [[Funktion]] für ein bestimmtes Problem, z.B. maximales Volumen, minimale Distanz, etc.
+Bei **Extremwertproblemen** sucht man den Extremwert einer [[ANLIS/SW01/Funktionen/Funktion]] für ein bestimmtes Problem, z.B. maximales Volumen, minimale Distanz, etc.
 
 ## Allgemeines Vorgehen
 1. Zuerst bestimmt man die Funktion, welche das Problem beschreibt.

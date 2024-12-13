@@ -1,4 +1,4 @@
-[[Funktion|Funktionen]] können verschoben und gestreckt werden.
+[[ANLIS/SW01/Funktionen/Funktion|Funktionen]] können verschoben und gestreckt werden.
 
 ## Verschiebungen
 ### Verschiebung an der x-Achse

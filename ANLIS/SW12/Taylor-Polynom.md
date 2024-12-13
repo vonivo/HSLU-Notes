@@ -1,4 +1,4 @@
-Task Taylor-Polynom ist ein Polynom $T_{n}(x)$, welches mit einer gegebenen [[Funktion]] $f(x)$ an der Stelle $x_{0}$ möglichst gut übereinstimmt. Dies ist das **Taylor-Polynom $n$-ten Grades** $T_{n}(x)$ von $y=f(x)$ an der Stelle $x_{0}$.
+Task Taylor-Polynom ist ein Polynom $T_{n}(x)$, welches mit einer gegebenen [[ANLIS/SW01/Funktionen/Funktion]] $f(x)$ an der Stelle $x_{0}$ möglichst gut übereinstimmt. Dies ist das **Taylor-Polynom $n$-ten Grades** $T_{n}(x)$ von $y=f(x)$ an der Stelle $x_{0}$.
 
 Alle [[Ableitung|Ableitungen]] von $T_{n}(x)$ stimmen mit den Ableitungen von $f(x)$ an der Stelle $x_{0}$ überein.
 $$

@@ -6,7 +6,7 @@ $$
 I(x) = \int _{a}^{x} f(t)\, dt 
 $$
 ![[Unbestimmtest_Integral_2.png]]
-Mann nennt diese Funktion **unbestimmtes Integral** oder **[[Funktion|Flächenfunktion]]** von $f(t)$, da die obere Grenze variabel ist.
+Mann nennt diese Funktion **unbestimmtes Integral** oder **[[ANLIS/SW01/Funktionen/Funktion|Flächenfunktion]]** von $f(t)$, da die obere Grenze variabel ist.
 
 Wählt man nun die untere Grenze $a^{*} \gt a$ so ist auch 
 $$

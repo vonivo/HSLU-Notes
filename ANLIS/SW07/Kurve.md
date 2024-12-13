@@ -1,4 +1,4 @@
-Die Kurve ist ähnlich einer [[Funktion]] jedoch kann sie mehrere **Variablen** besitzen.
+Die Kurve ist ähnlich einer [[ANLIS/SW01/Funktionen/Funktion]] jedoch kann sie mehrere **Variablen** besitzen.
 Neben der Form $y=f(x)$ kann man Kurven auch in der **Parameterform** beschreiben. Jedem Wert des Parameters $t$ wird dabei ein Punkt $\vec{x}(t)$ in der Ebenen (oder auch im Raum) zugeordnet. Man nennt dies auch **Parameterdarstellung** , der Kurve, welche gleich ist wie die Schreibweise eines [[Vektoren]] ist.
 
 ![[Kurve.png]]

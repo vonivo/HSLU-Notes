@@ -1,4 +1,4 @@
-Der lineare Mittelwert $\bar{y}_{linear}$ der [[Funktion]] $y=f(x)$ über dem Intervall $[a,b]$ gibt an, welchen Wert diese Funktion im Mittel hat.
+Der lineare Mittelwert $\bar{y}_{linear}$ der [[ANLIS/SW01/Funktionen/Funktion]] $y=f(x)$ über dem Intervall $[a,b]$ gibt an, welchen Wert diese Funktion im Mittel hat.
 
 Die Fläche des Rechtecks der Höhe $\bar{y}$ ist gleich der Fläche unter der Kurve ([[Bestimmtes Integral]]) $y=f(x)$
 ![[Linearer_Mittelwert 1.png]]$$

@@ -1,4 +1,4 @@
-Die Umkehrfunktion einer [[Funktion]] existiert, falls für jedes $y$ genau ein $x$ existiert.
+Die Umkehrfunktion einer [[ANLIS/SW01/Funktionen/Funktion]] existiert, falls für jedes $y$ genau ein $x$ existiert.
 Sodass:
 $$
 f(x) = y \Longleftrightarrow f^{-1}(y)=x

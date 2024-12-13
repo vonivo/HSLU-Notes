@@ -1,4 +1,4 @@
-Die Summe zweier [[Funktion|Funktionen]] darf summandenweise abgeleitet werden:
+Die Summe zweier [[ANLIS/SW01/Funktionen/Funktion|Funktionen]] darf summandenweise abgeleitet werden:
 $$
 [u(X)+v(x)]'=u'(x) + v'(x)
 $$

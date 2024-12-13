@@ -7,7 +7,7 @@
 
 ![[Squeezing_theorem.png]]
 
-Um den Grenzwert einer [[Funktion]] $f(x)$ an der Stelle $c$ zu bestimmen, werden zwei Funktionen gesucht, welche die Funktion $f(x)$ einschließen (hier $g(x)$ und $h(x)$) und an der Stelle $c$ denselben Grenzwert haben.
+Um den Grenzwert einer [[ANLIS/SW01/Funktionen/Funktion]] $f(x)$ an der Stelle $c$ zu bestimmen, werden zwei Funktionen gesucht, welche die Funktion $f(x)$ einschließen (hier $g(x)$ und $h(x)$) und an der Stelle $c$ denselben Grenzwert haben.
 
 ## Beispiel
 Wir bestimmen den Grenzwert von der Funktion $f(x)=\frac{\sin x}{x}$ Ergibt dann $\lim_{ x \to 0 } \frac{\sin x}{x}$.

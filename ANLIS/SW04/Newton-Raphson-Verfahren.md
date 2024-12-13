@@ -1,4 +1,4 @@
-Das Newton-Raphson-Verfahren ist eine iterative Methode zur Bestimmung einer Nullstelle einer [[Funktion]]. Anders als bei der [[Regula Falsi]] wird nicht die [[Sekante]], sondern die [[Tangente]] verwendet.
+Das Newton-Raphson-Verfahren ist eine iterative Methode zur Bestimmung einer Nullstelle einer [[ANLIS/SW01/Funktionen/Funktion]]. Anders als bei der [[Regula Falsi]] wird nicht die [[Sekante]], sondern die [[Tangente]] verwendet.
 
 ![[Newton_Raphson.png]]
 In einem ersten Schritt wird die Tangente an der Stelle $x_{0}$ gebildet. Danach wird die Nullstelle der Tangente berechnet, welche $x_{1}$ benannt wird.

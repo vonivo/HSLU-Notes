@@ -1,4 +1,4 @@
-Um das Krümmungsverhalten eines Graphen einer [[Funktion]] zu bezeichnen, existieren folgende beiden Begriffe:
+Um das Krümmungsverhalten eines Graphen einer [[ANLIS/SW01/Funktionen/Funktion]] zu bezeichnen, existieren folgende beiden Begriffe:
 
 ## Konvex
 Der Graf beschreibt eine Linkskurve. Vergleichbar mit dem Schliff von Brillengläsern.

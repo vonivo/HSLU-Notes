@@ -1,4 +1,4 @@
-Wir betrachten eine (allgemeine) reellwertige [[Funktion]], welche von zwei Variablen abhängt:
+Wir betrachten eine (allgemeine) reellwertige [[ANLIS/SW01/Funktionen/Funktion]], welche von zwei Variablen abhängt:
 $$
 f:\mathbb{R}^{2}\to \mathbb{R}, (x,y)\mapsto z=f(x,y)
 $$

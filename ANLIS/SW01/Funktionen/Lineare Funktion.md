@@ -1,4 +1,4 @@
-Eine lineare Funktion ist eine Spezialform einer [[Funktion]]. Bei der linearen Funktion ist die Steigung immer konstant.
+Eine lineare Funktion ist eine Spezialform einer [[ANLIS/SW01/Funktionen/Funktion]]. Bei der linearen Funktion ist die Steigung immer konstant.
 ![[Linearefunktion.png]]
 Sprich die Änderung der Funktion ist überall dieselbe:
 $$

@@ -1,4 +1,4 @@
-Zusammengesetzte Funktionen sind [[Funktion]] die von einer oder meheren zweiten Funktion abhängen.
+Zusammengesetzte Funktionen sind [[ANLIS/SW01/Funktionen/Funktion]] die von einer oder meheren zweiten Funktion abhängen.
 
 ## Beispiel 
 Ein kreisförmiger Ölteppich dehne Sich mit der Zeit $t$ aus. Ausgehend vom (zeitabhängigen)  Radius $r=g(t) = 1 +t$ ergibt sich die Fläche A:  

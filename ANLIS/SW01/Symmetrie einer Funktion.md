@@ -1,4 +1,4 @@
-Für [[Funktion]] existieren zwei Symmetrien:
+Für [[ANLIS/SW01/Funktionen/Funktion]] existieren zwei Symmetrien:
 - **gerade Funktion**
 - **ungerade Funktion**
 

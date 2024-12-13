@@ -1,5 +1,5 @@
 ## Allgemein
-Der **Grenzwert** einer [[Funktion]] ist der Wert an einer bestimmten Stelle, dem sich die Funktion in der Umgebung der betrachteten Stelle annähert.
+Der **Grenzwert** einer [[ANLIS/SW01/Funktionen/Funktion]] ist der Wert an einer bestimmten Stelle, dem sich die Funktion in der Umgebung der betrachteten Stelle annähert.
 
 Dabei muss zwischen **linksseitigem Grenzwert** und **rechtsseitigem Grenzwert** unterschieden werden.
 Die Sprungfunktion $f(x)=\frac{\lvert x \rvert}{x}=\left\{\begin{align}1, &x\gt 0\\-1, &x\lt 0\end{align}\right.$ hat zwei verschieden Grenzwerte.

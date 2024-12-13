@@ -1,6 +1,6 @@
 Die Kettenregel wird benötigt um [[Zusammengesetzte Funktionen|zZusammengesetzte Funktionen]] abzuleiten.
 ## 1. Form
-Ist die (innere) [[Funktion]] $u=g(x)$ an der Stelle $x$ und die äussere Funktion $y=f(u)$ an der Stelle $u=g(x)$ differenzierbar, dann ist die zusammengesetzte Funktion $(f\circ g)(x) = f(g(x))$ an der Stelle $x$ differenzierbar.
+Ist die (innere) [[ANLIS/SW01/Funktionen/Funktion]] $u=g(x)$ an der Stelle $x$ und die äussere Funktion $y=f(u)$ an der Stelle $u=g(x)$ differenzierbar, dann ist die zusammengesetzte Funktion $(f\circ g)(x) = f(g(x))$ an der Stelle $x$ differenzierbar.
 $$
 \frac{dy}{dx}=\frac{dy}{du}\cdot \frac{du}{dx} \text{ oder } \frac{d}{dx}[f(g(x))]=\frac{d}{du}[f(u)]_{u=g(x)}\cdot  \frac{d}{dx}[g(x)]
 $$

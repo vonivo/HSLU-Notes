@@ -1,4 +1,4 @@
-Eine Sekante ist eine Gerade, welche eine [[Funktion]] in zwei punkten Schneidet.
+Eine Sekante ist eine Gerade, welche eine [[ANLIS/SW01/Funktionen/Funktion]] in zwei punkten Schneidet.
 ![[Differenzequotient.png]]
 ## Gleichung der Sekanten
 Gegeben ist die Funktion $f:\mathbb{R} \to \mathbb{R}$ $x \mapsto f(x)=\frac{x^3}{4} +x +2$ und die Punkte $P(1,f(1))$ und $Q(2,f(2))$.

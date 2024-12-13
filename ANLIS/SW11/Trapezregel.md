@@ -10,7 +10,7 @@ Der bei der Trapezregel
 $$
 \int _{a}^{b}f(x) \, dx = \frac{b-a}{2n}(fx_{0}+2f(x_{1})+2f(x_{2})+\dots+2f(x_{n-1})+f(x_{n})) = I_{T}(h)
 $$
-gemachte Fehler $\varepsilon_{T}$ ist für gegenüber anständigen (z. B. stückweise [[Stetigkeit|steigen]]) [[Funktion|Funktionen]] $f$ beschränkt durch
+gemachte Fehler $\varepsilon_{T}$ ist für gegenüber anständigen (z. B. stückweise [[Stetigkeit|steigen]]) [[ANLIS/SW01/Funktionen/Funktion|Funktionen]] $f$ beschränkt durch
 $$
 \lvert \varepsilon_{T} \rvert = \left\lvert  \int _{a}^{b}f(x) \, dx -I_{T}(h)  \right\rvert \leq \frac{(b-a)^{3}}{12n^{2}} \max_{\xi \in [a,b]}\lvert f''(\xi) \rvert 
 $$
