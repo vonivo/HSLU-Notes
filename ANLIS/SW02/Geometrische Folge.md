@@ -35,5 +35,5 @@ S &= \frac{q^n-1}{q-1}
 $$
 Nun hat man die **Summe der endlichen geometrischen Reihe**:
 $$
-a_{1}+a_{1}q+a_{1}q^2+\dots+a_{1}1^n=\sum_{k=0}^{n-1}a_{1}q^n=a_{1}\frac{(q^n-1)}{q-1}
+a_{0}+a_{0}q+a_{0}q^2+\dots+a_{0}1^{n-1}=\sum_{k=0}^{n-1}a_{1}q^n=a_{1}\frac{(q^n-1)}{q-1}
 $$

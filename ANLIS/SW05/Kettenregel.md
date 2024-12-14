@@ -1,4 +1,4 @@
-Die Kettenregel wird benötigt um [[Zusammengesetzte Funktionen|zZusammengesetzte Funktionen]] abzuleiten.
+Die Kettenregel wird benötigt um [[ANLIS/SW01/Zusammengesetzte Funktionen|zZusammengesetzte Funktionen]] abzuleiten.
 ## 1. Form
 Ist die (innere) [[ANLIS/SW01/Funktionen/Funktion]] $u=g(x)$ an der Stelle $x$ und die äussere Funktion $y=f(u)$ an der Stelle $u=g(x)$ differenzierbar, dann ist die zusammengesetzte Funktion $(f\circ g)(x) = f(g(x))$ an der Stelle $x$ differenzierbar.
 $$

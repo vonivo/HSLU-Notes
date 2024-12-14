@@ -34,4 +34,4 @@ Eine Funktion heisst stetig, falls sie überall in ihrem [[Definitionsbereich]],
 - Der Tanges ($\tan x = \frac{\sin x}{\cos x}$) ist stetig, falls $\cos x\ne 0$, d. h. $x\ne \frac{\pi}{2} + k\pi, k\in\mathbb{Z}$
 - [[Exponentialfunktionen|Exponential]]- und [[Logarithmusfunktionen]] sind in ihren [[Definitionsbereich|Definitionsberichen]] stetig.
 - Zusammensetzung stetiger [[ANLIS/SW01/Funktionen/Funktion]] ist stetig.
-- Eine [[Zusammengesetzte Funktionen|zusammengesetzt Funktion]] kann dort unstetig sein, wo eine der verwendeten Funktionen nicht stetig ist.
+- Eine [[ANLIS/SW01/Zusammengesetzte Funktionen|zusammengesetzt Funktion]] kann dort unstetig sein, wo eine der verwendeten Funktionen nicht stetig ist.
