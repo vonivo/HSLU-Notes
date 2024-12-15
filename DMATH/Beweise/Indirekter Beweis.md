@@ -1,6 +1,6 @@
 Falls ein [[Direkter Beweis|direkter Beweis]] schwierig ist, kann man versuchen einen indirekten Beweis zu führen.
 
-## Beweis durch Kontradiktion
+## Beweis durch Kontraposition
 Statt zu zeigen, dass $p\to q$ gilt, zeigen wir, dass $\neg q\to \neg p$ gilt. Da diese beiden [[Proposition|Propositionen]] logisch äquivalent sind kann so indirekt bewiesen werden, dass $p\to q$ gilt.
 
 ### Beispiel
