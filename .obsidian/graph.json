@@ -29,14 +29,14 @@
       }
     },
     {
-      "query": "path:PLAB  ",
+      "query": "path:ENGTCS  ",
       "color": {
         "a": 1,
         "rgb": 6084188
       }
     },
     {
-      "query": "path:ENGTCS  ",
+      "query": "path:PLAB  ",
       "color": {
         "a": 1,
         "rgb": 6084269
@@ -55,46 +55,18 @@
         "a": 1,
         "rgb": 6053078
       }
-    },
-    {
-      "query": "path:PMB  ",
-      "color": {
-        "a": 1,
-        "rgb": 11361494
-      }
-    },
-    {
-      "query": "path:LIOS  ",
-      "color": {
-        "a": 1,
-        "rgb": 14048429
-      }
-    },
-    {
-      "query": "path:ISF  ",
-      "color": {
-        "a": 1,
-        "rgb": 14048348
-      }
-    },
-    {
-      "query": "path:DMATH  ",
-      "color": {
-        "a": 1,
-        "rgb": 8523044
-      }
     }
   ],
-  "collapse-display": false,
-  "showArrow": false,
+  "collapse-display": true,
+  "showArrow": true,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 0.814583333333333,
-  "lineSizeMultiplier": 1,
+  "nodeSizeMultiplier": 1.08255208333333,
+  "lineSizeMultiplier": 0.725260416666667,
   "collapse-forces": false,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
-  "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.039628450911150304,
+  "centerStrength": 0.403645833333333,
+  "repelStrength": 13.0729166666667,
+  "linkStrength": 0.6015625,
+  "linkDistance": 200,
+  "scale": 0.05932617187500025,
   "close": true
 }
