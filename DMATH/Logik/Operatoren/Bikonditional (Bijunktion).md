@@ -7,7 +7,7 @@ aliases:
 
 
 ## Wahrheitstabelle
-Die bikonditionale [[Proposition]] ist eine [[Konjunktion]] von zwei [[Implikation (Subjunktion)|Implikationen]] oder der [[Negation|negation]] von einem [[XOR]]
+Die bikonditionale [[Proposition]] ist eine [[DMATH/Logik/Operatoren/Konjunktion]] von zwei [[Implikation (Subjunktion)|Implikationen]] oder der [[Negation|negation]] von einem [[XOR]]
 
 | $p$ | $q$ | $p\to q$ | $q\to p$ | $(p\to q) \land(q\to p)$ | $p\leftrightarrow q$ | $p\oplus q$ | $\neg (p\oplus q)$ |
 | --- | --- | -------- | -------- | ------------------------ | -------------------- | ----------- | ------------------ |

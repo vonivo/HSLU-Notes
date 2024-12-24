@@ -19,7 +19,7 @@ n^{2}&=(2k+1)^{2} \\
 \end{align}
 $$
 ## Beweis durch Kontradiktion
-Um die Aussage $p$ zu beweisen nimmt man an $\neg p$ sei wahr und führt diese Aussage durch [[logisches Schliessen]] auf den Widerspruch $q(q=F)$, d.h. $\neg p \to p$ also $\neg p\to F$ somit muss $\neg p$ falsch sein und dadurch $p$ wahr.
+Um die Aussage $p$ zu beweisen nimmt man an $\neg p$ sei wahr und führt diese Aussage durch [[Schlussregeln|logisches Schliessen]] auf den Widerspruch $q(q=F)$, d.h. $\neg p \to p$ also $\neg p\to F$ somit muss $\neg p$ falsch sein und dadurch $p$ wahr.
 
 ### Beispiel
 **Behauptung**: Schwere Objekte fallen nicht schneller als leichtere.

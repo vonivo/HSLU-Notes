@@ -9,5 +9,5 @@ In einem logischen Ausdruck wird der Operator mit der **höchsten Priorität** m
 | $\to$             | 3         |
 Also:
 - [[Implikation (Subjunktion)|Implikation]] und [[Bikonditional (Bijunktion)|Bikonditional]] als erstes
-- [[Konjunktion]] und [[Disjunktion]] als zweites
+- [[DMATH/Logik/Operatoren/Konjunktion]] und [[Disjunktion]] als zweites
 - [[Negation]] am Schluss
