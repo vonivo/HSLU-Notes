@@ -17,3 +17,10 @@ $$
 \end{align}
 $$
 => Also ergibt das:$128+64-32=160$.
+
+### Mehrere Mengen
+$$
+\begin{align}
+p(A_{1}\cup A_{2}\cup A_{3}) &= |A_{1}|+|A_{2}|+|A_{3}|-|A_{1} \cap A_{2}|-|A_{1}\cap A_{3}|-|A_{2}\cap A_{3}|+|A_{1}\cap A_{2}\cap A_{3}|
+\end{align}
+$$
