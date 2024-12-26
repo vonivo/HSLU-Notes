@@ -26,3 +26,17 @@ $$
 \end{align}
 $$
 
+# Erweitertes Schubfachprinzip
+>[!Theorem]
+>Falls man $N$ Objekte auf $k$ Schubfächer aufteilt, dann gibt es mindestens ein Schubfach mit $\left\lceil  \frac{N}{k}  \right\rceil$ Objekte.
+
+## Beispiel
+Wie gross ist die Mindestzahl $N$ von Studierenden in DMATH, damit mit absoluter Sicherheit mindestens 5 Studienende dieselbe Note ($A, B, C, D, E ,F$) erhalten?
+$$
+\begin{align}
+5 &= \left\lceil  \frac{N}{6}  \right\rceil  \\
+4&< \frac{N}{6} \\
+4*6 &< N \\
+N&=25
+\end{align}
+$$
