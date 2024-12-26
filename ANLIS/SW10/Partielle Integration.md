@@ -1,4 +1,4 @@
-Nach dem [[Fundamentalsatz der Differential- und Integralrechnung]] folgt aus der [[Produktregel]] der Differenzialrechnung
+Nach dem [[Fundamentalsatz der Differential- und Integralrechnung]] folgt aus der [[ANLIS/SW04/Ableitungsregeln/Produktregel]] der Differenzialrechnung
 $$
 \frac{d}{dx}[u(x)*v(x)] = u'(x)v(x)+u(x)v'(x)
 $$

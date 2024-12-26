@@ -4,7 +4,7 @@ aliases:
 ---
 Bei mathematischen [[Beweise|Beweisen]] geht es darum, mit gültigen Argumenten die Richtigkeit einer Aussage zu begründen.
 
-Dabei ist ein Argument eine folgen von Aussagen die mit einer Konklusion endet.
+Dabei ist ein Argument eine folgen von Aussagen, die mit einer Konklusion endet.
 
 Gültig heisst, dass die Folgerung aus der Wahrheit der vorhergegangenen Aussagen des Arguments folgt.
 

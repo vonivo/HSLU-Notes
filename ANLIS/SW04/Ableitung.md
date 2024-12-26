@@ -11,8 +11,8 @@ $$
 
 ## Ableitungsregeln
 - [[Faktorenregel]]
-- [[Summenregel]]
-- [[Produktregel]]
+- [[ANLIS/SW04/Ableitungsregeln/Summenregel]]
+- [[ANLIS/SW04/Ableitungsregeln/Produktregel|Produktregel]]
 - [[Quotientenregel]]
 - [[Kettenregel]]
 - [[Ableiten von Exponentialfunktionen|Exponentialfunktionen]]
