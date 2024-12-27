@@ -55,6 +55,13 @@
         "a": 1,
         "rgb": 6053078
       }
+    },
+    {
+      "query": "path:DMATH  ",
+      "color": {
+        "a": 1,
+        "rgb": 16514816
+      }
     }
   ],
   "collapse-display": true,
@@ -67,6 +74,6 @@
   "repelStrength": 13.0729166666667,
   "linkStrength": 0.6015625,
   "linkDistance": 200,
-  "scale": 0.05932617187500025,
+  "scale": 0.026367187500000083,
   "close": true
 }
