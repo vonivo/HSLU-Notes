@@ -1,0 +1,53 @@
+---
+aliases:
+  - RZ
+---
+## Gefährungen
+- Einbruch/Diebstahl/Vandalismus/Sturmschäden/Trümmer
+	- bauliche Massnahmen
+- Fremdzugriff
+	- Zugriffskontrolle, Abhörsicherheit, Firewall
+- Feuer / Rauch
+	- Brandfrüherkennung, Löschung, Abschottung
+- Netzausfälle und Netzstörungen
+	- Netzfiler, [[USV]], [[Generator]]
+- elektromagnetische Störfelder
+	- Abschirmung
+- Staub / Schmutz /Wasser
+	- Filteranlagen, Schleusen, Standortwahl, Abschottung, Pumpenanlagen
+
+## Überwachungsgebiete
+- Gebäude
+	- Türen öffnen- und schliessen, 
+	- Türen verschlossen 
+	- Kameras 
+	- Bewegungsmelder
+	- Zutritt.
+- Räume
+	- Temperatur
+	- Luftfeuchtigkeit
+	- Bewegung
+	- Rauch
+	- Wasser
+	- Brand
+- Energieversorgung
+	- Netzausfall
+	- Strom
+	- Spannung
+	- Leistung
+- Einzelne Geräte
+	- Niederspannungverteilung
+	- Schalterstellungen
+- Generator
+	- Tank
+	- Funktionsbereitschaft
+	- Temperatur
+	- Überlast
+- Klimagerät
+	- Kühlleistung
+- USV
+	- Normalbetrieb
+	- Batteriebetrieb, Bypass
+	- Ladezustand
+- Brandmelde- und Löschanlage
+	- Zusantandsanzeige.
