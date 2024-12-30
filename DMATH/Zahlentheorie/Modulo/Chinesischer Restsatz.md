@@ -17,7 +17,7 @@ Eine solche Gleichung kann wie folgt gelöst werden:
 $$
 M_{i}=\frac{m}{m_{i}}, \text{ wobei } m = m_1\cdot m_{2}\cdot\dots \cdot m_{k}
 $$
-2. Für $i=1,2,\dots ,k$ hat $M_{i}$ ein [[Modulare Inverse|moulares Inverse]] (berechne mit den [[Erweiterter Euklidischer Algorithmus]])$y_{i} \text{ mod }m_{i}$, d.h.
+2. Für $i=1,2,\dots ,k$ hat $M_{i}$ ein [[Multiplikative Inverse|moulares Inverse]] (berechne mit den [[Erweiterter Euklidischer Algorithmus]])$y_{i} \text{ mod }m_{i}$, d.h.
 $$
 M_{i}\cdot y_{i} \equiv 1 \text{ (mod }m_{i})
 $$

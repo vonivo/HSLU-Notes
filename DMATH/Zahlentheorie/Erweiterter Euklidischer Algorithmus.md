@@ -43,7 +43,7 @@ Löse die [[Diophantische Gleichung]] für die Zahlen $211$ und $13$:
 | ${\color{red}13}\text{ mod }{\color{yellow}3} = 1$              |                                                                                       | ${\color{brown}0}-{\color{teal}4}\cdot {\color{lime}1} = -4$<br>=> $x=-4$    | ${\color{orange}1}-{\color{teal}4}\cdot{\color{cyan}-16} =65$<br>$y=65$      |
 => $-4 \cdot 211 + 65 \cdot{1}3 = 1$
 
-Jetzt lässt sich auch gut die [[Modulare Inverse]] berechnen:
+Jetzt lässt sich auch gut die [[Multiplikative Inverse]] berechnen:
 $$
 \begin{align}
 -4 \cdot 211 + 65 \cdot{1}3 &= 1 \\
