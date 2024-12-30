@@ -12,6 +12,12 @@ r_{t}&=q_{t+1}\cdot r_{t}&&ggT(r_{t-1},r_{t}) &=ggT(r_{t},0)
 >$$
 >Dabei is $r_{t}$ der letze nicht verschwindende Rest und dieser ist gleich dem $ggT(a,b)$.
 
+>[!Theorem]
+>Sien $a$ und $b$ natürliche Zahlen mit $a\geq b>0$. Dann ist die **Anzahl Divisionen** im Euklidischen Algorithmus um das $ggT(a,b)$ zu finden **nicht grösser als 5-Mal die Anzahl Ziffern von $b$**.
+
+
+
+
 ![[Pasted image 20241215201921.png]]
 Der Euklidische Algrorithmus kann mit Modulo verschnellert werden:
 $$

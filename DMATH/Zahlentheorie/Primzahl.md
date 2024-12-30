@@ -1,5 +1,6 @@
 >[!Info]
->Eine positive Zahl $n\in\mathbb{Z}$ grösser als $1$ heisst Primzahl, wenn sie lediglich die Faktoren $1$ und $n$ hat. Andernfalls heisst die Zahl *zusammengefasst*. In diesem Fall gilt: $\exists a(a\mid n \land(1<a<n))$.(siehe. [[Quantor#Existenzquantor|Existenzquantor]], [[Division]]).
+>Eine positive Zahl $n\in\mathbb{Z}$ grösser als $1$ heisst Primzahl, wenn sie lediglich die Faktoren $1$ und $n$ hat. 
+>Andernfalls heisst die Zahl *zusammengefasst*. In diesem Fall gilt: $\exists a(a\mid n \land(1<a<n))$.(siehe. [[Quantor#Existenzquantor|Existenzquantor]], [[Division]]).
 
 Primzahlen lassen sich z.B. mit dem [[Sieb von Eratosthenes]] finden.
 
@@ -17,6 +18,15 @@ Primzahlen lassen sich z.B. mit dem [[Sieb von Eratosthenes]] finden.
 >$$
 >\pi(x) \approx \frac{x}{\ln x}
 >$$
+
+>[!Theorem]
+>Es gilt:
+>$$
+>\lim_{ n \to \infty } \frac{\pi(n)}{\frac{n}{\ln n}}=1
+>$$
+
+=> die Anzahl der Primzahlen wächst ungefährt so schnell wie die Funktion $\frac{n}{\ln(n)}$.
+Daher $\pi(n)\approx \frac{n}{\ln(n)}$
 
 ## Beispiel
 **Aufgabe**: Berechne die ungefähre Anzahl aller Primzahlen 200-Stelliger Primzahlen.

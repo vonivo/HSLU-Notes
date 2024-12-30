@@ -1,6 +1,18 @@
 >[!Definition]
 >Sei $m\in\mathbb{N}/{0}$. Dann nennt man zwei gerade Zahlen $a$ und $b$ **kongruent modulo** $m$, falls $m\mid(a-b)$ d.h. $a$ und $b$ **liegen ein Vielfaches von $m$ auseinander**. Man schreibt dann $a\equiv b \text{ mod } m$ und sagt "$a$ ist kongruent zu $b$ modulo $m$".
 
+>[!Theorem]
+>Seien $a,b\in \mathbb{Z}$ und $n\in \mathbb{Z}^{+}$, dann gilt:
+>$$
+>\begin{align}
+a\equiv b (\text{ mod n}) &\Longleftrightarrow n|(a-b) \\
+&\Longleftrightarrow \exists q\in\mathbb{Z}:a-b=q\cdot n \\
+&\Longleftrightarrow \exists q\in\mathbb{Z}:a=b+q\cdot n
+\end{align}
+>$$
+
+
+> 
 ## Beispiele
 $$
 \begin{align}
