@@ -1,0 +1,3 @@
+Die Algorithmen zur [[DMATH/Zahlentheorie/Kryptographie/Symmetrische Verschlüsselung|symmetrischen Verschlüsselung]] von Daten unterteilen sich typischerweise in Block- und Stromchiffren.
+- Bei der **Blockchiffre** wird die Nachricht in Blöcke $m_{1},m_{2},m_{3},\dots$ fester Länge (z.B. 64 Bit bei DES oder 128 Bit bei AES) eingeteilt und jeder Block wird mit dem Schlüssel $k$ verschlüsselt: $c_{i}=f(k,m_{1})$ für $i=1,2,3,\dots$
+- Bei der **Stromchiffre** wird die Nachricht zeichenweise (z.B. bit- oder byteweise) verschlüsselt, wobei sich in der Regel der aktuell verwendete Schlüsselstrom von Zeichen zu Zeichen ändert. (Bsp. [[One Time Pad]])

@@ -4,7 +4,7 @@
 Oder $\frac{p(A\cap B)}{P(B)} \neq P(A)$
 
 **Beispiel**
-Zeige, dass die folgenden Gleichungen (unter bestimmten Bedingungen) gleichwertig sind.
+Zeige, dass die folgenden Gleichungen (unter bestimmten Bedingungen) gleichwertig sind. (siehe [[Bedingte Wahrscheinlichkeit]])
 $$
 \begin{align}
 p(A\cap B)&=p(A)p(B) \\
