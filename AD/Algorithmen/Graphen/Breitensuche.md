@@ -1,5 +1,5 @@
 >[!info]
->Die Breitensuche ist ein [[Graphenalgorithmen|Graphenalgorithmus]] für das Traversieren eines [[Graph|Graphen]].
+>Die Breitensuche ist ein [[Graphenalgorithmen|Graphenalgorithmus]] für das Traversieren eines [[AD/Algorithmen/Graphen/Graph|Graphen]].
 
 Bei der Breitensuche werden vom Startknoten aus in der Reihenfolge mit kürzester zunehmender Pfadlänge (Anzahl Kanten) besucht:
 - Nachdem alle Knoten mit der Pfadlänge $d$ verarbeitet wurden, werden jene mit $d + 1$ angegangen

@@ -1,6 +1,6 @@
 Der Algorithmus von S. Warshall ist ein [[Graphenalgorithmen|Graphenalgorithmus]] welcher alle möglichen Pfade findet.
 
-Die transitive Hülle $G^{*}$ eines [[Graph]] $G$ gibt an, zwischen wlechen Knoten einen direkten oder indirekten Pfad existiert. Damit wird die [[Adjazenzmatrix]] erweitert.
+Die transitive Hülle $G^{*}$ eines [[AD/Algorithmen/Graphen/Graph|Graph]] $G$ gibt an, zwischen wlechen Knoten einen direkten oder indirekten Pfad existiert. Damit wird die [[AD/Algorithmen/Graphen/Adjazenzmatrix|Adjazenzmatrix]] erweitert.
 
 $G^{*}$ besitzt daher zusätzlich jeweils eine Kanten $(x,y)$ wenn $y$ von Knoten $x$ aus erreichbar ist.
 ![[TransitiveHülle.png]]
@@ -24,7 +24,7 @@ for knoten : V
 ```
 
 ## Implementation
-Mit einer [[Adjazenzmatrix]] lässt sich der Algorithmus einfach implementieren.
+Mit einer [[AD/Algorithmen/Graphen/Adjazenzmatrix|Adjazenzmatrix]] lässt sich der Algorithmus einfach implementieren.
 ```java
 public boolean transitiveClosure() {
 	boolean[][] transClosure = new boolean[numNodes][numNodes];

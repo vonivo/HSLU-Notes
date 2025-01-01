@@ -2,7 +2,7 @@ Das Internet ist eine Ansammlung von [[Netzwerke|Teilnetzen]], welche hierarchis
 ![[Backbone.png]]
 Der hierarchische Aufbau dieser Nezte wird von den Unternehmungen **IANA** und **ICANN** gemacht. Ohne diesen Aufbau wäre das Routing fast unmöglich.
 
-Damit das Routing funktioniert, muss das Teilnetz in einen [[Graph]] umgewandelt werden:
+Damit das Routing funktioniert, muss das Teilnetz in einen [[AD/Algorithmen/Graphen/Graph]] umgewandelt werden:
 ![[Routing_1.png]]
 - Jeder Router kann auf jeden Router zugreiffen, der am gleichen Teilnetz angeschlossen ist.
 
@@ -60,7 +60,7 @@ OSPF (Open Shortest Path First) ist ein Protokoll, welches durch Link State-Rout
 
 **Broadcast-Routing**
 - Versand einer Nachricht an alle Hosts (eines Teilnetzes)
-- Methoden: Multidestination-Routing, [[Graph#Spanning Tree|Spanning Tree]]
+- Methoden: Multidestination-Routing, [[AD/Algorithmen/Graphen/Graph#Spanning Tree|Spanning Tree]]
 
 **Multicast-Routing**
 - Versand an eine Gruppe von Hosts.

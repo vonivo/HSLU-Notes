@@ -1,5 +1,5 @@
 >[!info]
->Die Tiefensuche ist ein [[Graphenalgorithmen|Graphenalgorithmus]] für das Traversieren eines [[Graph|Graphen]].
+>Die Tiefensuche ist ein [[Graphenalgorithmen|Graphenalgorithmus]] für das Traversieren eines [[AD/Algorithmen/Graphen/Graph|Graphen]].
 
 Die Knoten werden vom Startknonten aus sukzessive **so weit wie möglich** besucht, bis es nicht mehr weiter geht. Dann wird einen Schritt zurückgegangen und den zurückliegenden Optionen nachzugehen.
 

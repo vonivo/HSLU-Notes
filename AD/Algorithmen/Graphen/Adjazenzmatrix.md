@@ -1,4 +1,4 @@
-Die Adjazenzmatrix beschreibt alle Kanten eines [[Graph|Graphen]].
+Die Adjazenzmatrix beschreibt alle Kanten eines [[AD/Algorithmen/Graphen/Graph|Graphen]].
 
 Sei:
 - $G = (V,E)$
@@ -7,14 +7,14 @@ Ist die $n\times n$ **Adjazenzmatrix $A$** von $G$ gebeben durch:
 - $A[i,j] = 1$ bzw. `true`, falls $(i,j) \in E$
 - $A[i,j]$ = 0 bzw. `false`, falls $(i,j) \notin E$ 
 
-Falls $G$ [[Graph#Bewerteter Graph|bewertet]] ist:
+Falls $G$ [[AD/Algorithmen/Graphen/Graph#Bewerteter Graph|bewertet]] ist:
 - $A[i,j] = f(i,j)$, falls $(i,j) \in E$
 - $A[i,j] = \infty$, falls $(i,j) \notin E$
 
 ## Eigenschaft
 - [[AD/Algorithmen/Komplexität|Speicherkomplexität]] -> $O(|V|^{2})$.
 - Bei ungerichteten Graphen resultiert ein [[Symmetrische Matrix|symmetrisches]] $A$ -> Hälfte der Matrix kann gespart werden.
-- Vorteilhaft bei [[Graph#Dicht|dicht]] besiedelten Graphen
+- Vorteilhaft bei [[AD/Algorithmen/Graphen/Graph#Dicht|dicht]] besiedelten Graphen
 
 ![[AdjazenzMatrix.png]]
 

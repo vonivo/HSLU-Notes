@@ -1,10 +1,10 @@
 >[!info]
->Der [[Graphenalgorithmen|Graphenalgorithmus]] von R. Floyd berechnet die kürzeste Distanz zweier Konten eines [[Graph|Graphen]].
+>Der [[Graphenalgorithmen|Graphenalgorithmus]] von R. Floyd berechnet die kürzeste Distanz zweier Konten eines [[AD/Algorithmen/Graphen/Graph|Graphen]].
 
 
 Um die kürzeste Entfernung zwischen zwei Knoten zu finden, kann der [[Algorithmus von S. Warshall]] geringfügig angepasst werden.
 Daraus resultierte ein **all Pair Shortest Path Problem**.
-Anstelle der booleschen [[Adjazenzmatrix]] verwendet man die bewertete Adjazenzmatrix.
+Anstelle der booleschen [[AD/Algorithmen/Graphen/Adjazenzmatrix|Adjazenzmatrix]] verwendet man die bewertete Adjazenzmatrix.
 ![[Floyd_1.png]]
 Für jeden Pfad, welcher zwischen zwei Knoten neu ausgemacht wird, überschreibt den bisherigen Pfad.
 Nun muss angepasst werden, dass der bestehende nur angepasst wird, wenn der aktuelle kleiner ist.

@@ -1,11 +1,11 @@
 >[!info]
->Der [[Graphenalgorithmen|Graphenalgorithmus]] von Dijkstra berechnet die kürzeste Distanz zweier Konten eines [[Graph|Graphen]].
+>Der [[Graphenalgorithmen|Graphenalgorithmus]] von Dijkstra berechnet die kürzeste Distanz zweier Konten eines [[AD/Algorithmen/Graphen/Graph|Graphen]].
 
 Der Algorithmus von Dijkstra berechnet die kürzeste Entfernung von **einem Knoten** zu allen anderen -> **Singel Source Shortes Path Problem**.
 
 Ist man nur an einer Distanz zu einem spezifischen Knoten interessiert, kann man den Algorithmus abbrechen sobal dieser gefunden wurde.
 
-Ein Nebenprodukt diese Algroithmus ist ein [[Graph#Spanning Tree|Spanning Tree]].
+Ein Nebenprodukt diese Algroithmus ist ein [[AD/Algorithmen/Graphen/Graph#Spanning Tree|Spanning Tree]].
 
 ## Prinzip
 Geben:
@@ -22,7 +22,7 @@ Gewichtungsfunktion:
 Voraussetzungen:
 - Gewichte sind positiv.
 
-- Eine Knotenmenge $T \subseteq V$ beschreibt den bereits bearbeiteten [[Graph#Teilgraph|Teilgraphen]] von $G$.
+- Eine Knotenmenge $T \subseteq V$ beschreibt den bereits bearbeiteten [[AD/Algorithmen/Graphen/Graph#Teilgraph|Teilgraphen]] von $G$.
 - $T$ wird schrittweise um einen Knoten erweitert, sodass für alle $k \in T$ gilt: Der Weg mit der kürzesten Entfernung von $s$ nach $k$ verläuft ausschliesslich über Knoten von $T$
 - $NK = \{ nk | \text{nk is mindestens einem  }k \in T \text{ direkt verbunden} \}$ ist die Menge der Nachbar- bzw. Kandidatenknoten zur Erweiterung von $T$. Aus $NK$ wird jeweils der Knoten ausgewählt und $T$ hinzugefügt welcher die kürzeste entfernung zu $s$ hat. (Gieriger Algorithmus)
 
@@ -67,7 +67,7 @@ Voraussetzungen:
 ![[Dijkstra_10.png]]
 => Keine neuen Nachbarn mehr -> **ENDE**
 
-Die Kürzesten Pfade liefern einen [[Graph#Spanning Tree|Spanning Tree]]:
+Die Kürzesten Pfade liefern einen [[AD/Algorithmen/Graphen/Graph#Spanning Tree|Spanning Tree]]:
 ![[Dijkstra_SpanningTree.png]]
 
 ## Analyse

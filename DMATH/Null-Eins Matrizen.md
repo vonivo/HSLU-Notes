@@ -1,4 +1,4 @@
-Null-Eins Matrizen sind [[Matrizen]] welche nur aus Nullen und Einsen bestehen. Sie werden auch bei [[Graph|Graphen]] verwendet.
+Null-Eins Matrizen sind [[Matrizen]] welche nur aus Nullen und Einsen bestehen. Sie werden auch bei [[AD/Algorithmen/Graphen/Graph|Graphen]] verwendet.
 
 ## Und/Oder Operation
 Die **Und/Oder**-Verknüpfung zweier $(n\times m)$-Matrizen $A$ und $B$ wird definiert durch:

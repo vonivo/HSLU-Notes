@@ -1,4 +1,4 @@
-Die Adjazenzliste beschreibt alle Kanten eines [[Graph|Graphen]].
+Die Adjazenzliste beschreibt alle Kanten eines [[AD/Algorithmen/Graphen/Graph|Graphen]].
 
 Sei:
 - $G = (V,E)$
@@ -14,8 +14,8 @@ Die Adjazenzliste kann unterschiedliche Implementiert werden:
 
 [[AD/Algorithmen/Komplexität|Speicherkomplexität]] von $O(|V|+|E|)$
 
-=> Bei [[Graph#Gerichteter vs. ungerichteter Graph|ungerichteten]] Graphen wird jede Kante doppelt gespeichert.
-=> Vorteilhaft bei [[Graph#Dünn|dünn]] besiedelten Graphen.
+=> Bei [[AD/Algorithmen/Graphen/Graph#Gerichteter vs. ungerichteter Graph|ungerichteten]] Graphen wird jede Kante doppelt gespeichert.
+=> Vorteilhaft bei [[AD/Algorithmen/Graphen/Graph#Dünn|dünn]] besiedelten Graphen.
 ![[AdjazenzListe.png]]
 
 ## Implementation

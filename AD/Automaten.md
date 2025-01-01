@@ -35,7 +35,7 @@ Beim Moore-Automat bewirkt ein Zustand direkt eine Ausgabe.
 
 ## Darstellung
 Ein Automat kann mit verschiedenen Mitteln dargestellt werden:
-- als [[Graph]],
+- als [[AD/Algorithmen/Graphen/Graph]],
 ![[Statemachine_Graph.png]]
 - als Tabelle.
 ![[Statemachine_table.png]]

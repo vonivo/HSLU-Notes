@@ -1,4 +1,4 @@
-Wenn ein Problem mit einem [[Graph]] gelöst werden soll wird folgendes Vorgehen angewandt:
+Wenn ein Problem mit einem [[AD/Algorithmen/Graphen/Graph]] gelöst werden soll wird folgendes Vorgehen angewandt:
 1. Graph modellieren
 2. Zielfunktion als Eigenschaft des Graphen formulieren.
 3. Mit Hilfe eines [[Graphenalgorithmen|Graphenalgorithmus]] das Problem lösen.
@@ -8,7 +8,7 @@ Wenn ein Problem mit einem [[Graph]] gelöst werden soll wird folgendes Vorgehen
 - Kürzester Web (Shortest-Path)
 - Rundweg finden, dabei alle Knoten besucehn -> Travelling Salesman Problem
 - Rundweg finden, dabei alle Kanten traversieren -> Chinese Postman Problem
-- Alle Knoten aufspannen ([[Graph#Spanning Tree|Spanning Tree]])
+- Alle Knoten aufspannen ([[AD/Algorithmen/Graphen/Graph#Spanning Tree|Spanning Tree]])
 ![[Graphen_Problemem.png]]
 
 - Grösste Clique finden (jedes Knotenparr ist mit einer Kante verbunden)
