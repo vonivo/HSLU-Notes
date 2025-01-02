@@ -26,7 +26,7 @@ $$
 >$$
 
 ## Beispiel
-Eine bestimmte Krankheit kommt bei 0.5 % der Bevölkerung vo. Ein Test zu Auffindung der Krankheit führt bei 999 % (Sensitivität) der Krankheit zu einer positiven Testreaktion, aber auch bei 2 % der Gesunden. Wie gross  ist die Wahrscheinlichkeit, dass eine zufällige ausgewählte Person, deren Test positiv ist, die Krankheit wirklich hat?
+Eine bestimmte Krankheit kommt bei 0.5 % der Bevölkerung vor. Ein Test zu Auffindung der Krankheit führt bei 99.9 % (Sensitivität) der Kranken zu einer positiven Testreaktion, aber auch bei 2 % der Gesunden. Wie gross ist die Wahrscheinlichkeit, dass eine zufällige ausgewählte Person, deren Test positiv ist, die Krankheit wirklich hat?
 
 Wir definieren folgenden Mengen:
 $$
@@ -50,11 +50,12 @@ Nun wenden wir den Satz von Bayes und den [[Satz der Totalen Wahrscheinlichkeit]
 $$
 \begin{align}
 p(B|A)&=\frac{p(A|B)p(B)}{P(A|B)p(B)+p(A|\bar{B})p(\bar{B})} \\
-&=\frac{p(T+|K)p(K)}{p(T+|K)p(K)+p(T+|\bar{K})p(\bar{K})} \\
+p(K|T+)&=\frac{p(T+|K)p(K)}{p(T+|K)p(K)+p(T+|\bar{K})p(\bar{K})} \\
 &=\frac{\left( \frac{99}{100}* \frac{5}{100} \right)}{\frac{99}{100} \frac{5}{1000} +\frac{2}{100} \frac{995}{10000} } \\
 &=\frac{495}{2485} \\
 &\approx {0}.2
 \end{align}
 $$
+
 
 
