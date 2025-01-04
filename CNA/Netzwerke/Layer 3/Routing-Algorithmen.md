@@ -9,7 +9,7 @@ Damit das Routing funktioniert, muss das Teilnetz in einen [[AD/Algorithmen/Grap
 Danach erfolgen die Routing-Algorithmen.
 
 # Statisches Routing
-Beim Statischen Routing wird beim Konfigurieren des [[Router]] die Routing-Tabelle fix erstellt, welche sich dann auch nicht mehr ändernt.
+Beim Statischen Routing wird beim Konfigurieren des [[CNA/Netzwerke/Layer 3/Router|Router]] die Routing-Tabelle fix erstellt, welche sich dann auch nicht mehr ändernt.
 
 Dementsprechend ist das statische Routing "einfacher" da es keine Anpassungen mehr gibt.
 

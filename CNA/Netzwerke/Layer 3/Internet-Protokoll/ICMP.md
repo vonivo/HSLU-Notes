@@ -1,1 +1,1 @@
-Das ICMP (Internet Control Message Protocol) ist ein Protokoll, welches für die Kommunikation zwischen [[Router]] und für PING genutzt wird.
+Das ICMP (Internet Control Message Protocol) ist ein Protokoll, welches für die Kommunikation zwischen [[CNA/Netzwerke/Layer 3/Router|Router]] und für PING genutzt wird.

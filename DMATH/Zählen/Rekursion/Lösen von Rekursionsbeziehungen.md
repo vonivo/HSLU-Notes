@@ -27,6 +27,8 @@ $$
 a_{n}-c_{1}a_{n-2}-c_{2}a_{n-2}-c_{k}a_{n-k} =r(n)
 $$
 	Hier wird für $r(n)$ eine möglichst ähnliche Form verwendent:
+	**Konstant**
+	$k$
 	**Lineare**
 	$c_{1}n+c_{0}$
 	**Quadratisch**

@@ -76,6 +76,13 @@
         "a": 1,
         "rgb": 15861703
       }
+    },
+    {
+      "query": "path:ITEO  ",
+      "color": {
+        "a": 1,
+        "rgb": 14069084
+      }
     }
   ],
   "collapse-display": true,
@@ -88,6 +95,6 @@
   "repelStrength": 13.0729166666667,
   "linkStrength": 0.6015625,
   "linkDistance": 200,
-  "scale": 0.07265942474320264,
+  "scale": 0.026367187500000187,
   "close": false
 }

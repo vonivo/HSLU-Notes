@@ -1,4 +1,4 @@
-Als Cloud Computing wird das anbieten von Dienstleistungen über das [[Netzwerk]] beschrieben. 
+Als Cloud Computing wird das anbieten von Dienstleistungen über das [[Provider]] beschrieben. 
 
 Dabei werden drei Cloud Arten unterschieden:
 - Private Cloud

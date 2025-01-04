@@ -2,7 +2,7 @@ Die Paketvermittlung, die zentrale Aufgabe des [[Network-Layer]]. Sie bestimmt, 
 # [[Verbindungslose und verbindungsorientierte Dienste#Verbindungslos|Verbindungslos]]
 - Jedes Paket wird einzeln verschickt.
 - Paket wird auch Datagramm genannt.
-- Dei [[Router]] geben das Paket jeweils an den nächsten [[Router]] weiter.
+- Dei [[CNA/Netzwerke/Layer 3/Router|Router]] geben das Paket jeweils an den nächsten [[CNA/Netzwerke/Layer 3/Router|Router]] weiter.
 - Die Auswahl des nächsten Routers erfolgt dynamisch aufgrund der Paketadresse.
 
 ## Beispiel

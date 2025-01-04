@@ -1,1 +1,1 @@
-Das Store-and-Forward-Verfahren beschreibt das Verfahren, in dem Pakete jeweils den nächsten [[Router]] im [[Netzwerke|Netzwerk]] geschickt werden. Dieser Router speichert die Pakete und verarbeitet diese. Im Anschluss werden sie weiter geschickt.
+Das Store-and-Forward-Verfahren beschreibt das Verfahren, in dem Pakete jeweils den nächsten [[CNA/Netzwerke/Layer 3/Router|Router]] im [[Netzwerke|Netzwerk]] geschickt werden. Dieser Router speichert die Pakete und verarbeitet diese. Im Anschluss werden sie weiter geschickt.

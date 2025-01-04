@@ -2,4 +2,4 @@ Ein Vritual Private Network (VPN) ist ein virtuelles privates [[Netzwerke|Netz]]
 
 ![[VPN.png]]
 
-VPNs können z.B. mit [[Router]] oder [[Gateway und Firewall|Firewalls]] erstellt werden.
+VPNs können z.B. mit [[CNA/Netzwerke/Layer 3/Router|Router]] oder [[Gateway und Firewall|Firewalls]] erstellt werden.

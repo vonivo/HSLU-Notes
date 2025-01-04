@@ -1,7 +1,7 @@
 Der Network-Layer ist der dritte Layer im [[OSI Referenzmodell]] und ist für den Transport von Paketen von der Quelle bis zum Ziel durch das gesamte Netzwerk, bzw. durch alle Teilnetze durch (End-To-End) verantwortlich.
 
 Der Dienst des Network-Layers ist unabhängig von der:
-- Anzahl der [[Router]]
+- Anzahl der [[CNA/Netzwerke/Layer 3/Router|Router]]
 - Routertechnologie
 - [[Netzwerktopologien]]
 
