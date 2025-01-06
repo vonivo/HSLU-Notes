@@ -9,5 +9,5 @@
 
 Die Lösungen $x$ und $y$ der diophantischen Gleichun $n_{1}x+n_{2}y=1$ sind nicht eindeutig; für jede ganze Zahl $k$ gilt:
 $$
-n_{1}(x+kn_{2})+n_{2}(y-kn_{1})=n_{1}x+n_{1}kn_{2}+n_{2}y=n_{1}x+n_{2}y=1
--n_{2}kn_{1}$$
+n_{1}(x+kn_{2})+n_{2}(y-kn_{1})=n_{1}x+n_{1}kn_{2}+n_{2}y-n_{2}kn_{1}=n_{1}x+n_{2}y=1
+$$
