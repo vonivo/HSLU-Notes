@@ -25,6 +25,6 @@ Das Betriebssystem macht auch Benutzer/Rechteverwaltung
 
 Das OS läuft im [[Kernel Mode]]
 Applikationen laufen im [[User Mode]]
-Mithilfe von OS Aufrufen welche Software [[Interrupts]] (Trap) verwenden kann zwischen den beiden Modi umgeschaltet werden. 
+Mithilfe von OS Aufrufen welche Software [[CNA/Betriebssystem/Interrupts]] (Trap) verwenden kann zwischen den beiden Modi umgeschaltet werden. 
 
 Für Konkrete Informationen über einzelne Betriebssysteme sieh [[Konkrete Betriebssysteme]]

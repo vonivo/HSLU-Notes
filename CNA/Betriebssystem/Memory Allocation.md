@@ -8,7 +8,7 @@ Füllt das Programm den ganzen Platz aus muss es im Memory gemoved werden zu ein
 ![[Programme im Speicher.png]]
 
 # Dynamische Memory Allocation
-Memory Allocation ändert sich laufend während [[Prozesse]] ins Memory geladen werden und das Memory wieder verlassen. 
+Memory Allocation ändert sich laufend während [[CNA/Betriebssystem/Prozesse]] ins Memory geladen werden und das Memory wieder verlassen. 
 
 Die folgende Illustration beschreibt diesen Vorgang: 
 ![[Pasted image 20240526151126.png]]

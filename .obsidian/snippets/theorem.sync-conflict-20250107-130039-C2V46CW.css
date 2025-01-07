@@ -1,0 +1,18 @@
+/* Custom style for [!Theorem] callout */
+.callout[data-callout="theorem"] {
+  --callout-color: #e57373; /* Custom color for the border and icon */
+  --callout-icon: lucide-book-open; /* Custom icon */
+  background-color: #ffebee; /* Light background color */
+  border-left: 4px solid var(--callout-color);
+}
+
+.callout[data-callout="theorem"] .callout-title {
+  font-weight: bold;
+  font-size: 1.1em;
+  color: var(--callout-color);
+}
+
+.callout[data-callout="theorem"] .callout-content {
+  font-style: italic;
+  color: #2a2a2a;
+}

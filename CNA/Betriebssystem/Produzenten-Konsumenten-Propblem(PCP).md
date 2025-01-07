@@ -1,4 +1,4 @@
-Als PCP Problem bezeichnet man ein Problem der [[Interprocess Communication]]. Dabei geht es darum das mehrere [[Prozesse]] auf gemeinsame Daten zugreifen und zwar in dem die einen [[Prozesse]] diese Daten erzeugen (produce) und die anderen diese Daten verbrauchen (consume). 
+Als PCP Problem bezeichnet man ein Problem der [[Interprocess Communication]]. Dabei geht es darum das mehrere [[CNA/Betriebssystem/Prozesse]] auf gemeinsame Daten zugreifen und zwar in dem die einen [[CNA/Betriebssystem/Prozesse]] diese Daten erzeugen (produce) und die anderen diese Daten verbrauchen (consume). 
 
 Es wird auch das [[Bounded Buffer]] Problem genannt
 

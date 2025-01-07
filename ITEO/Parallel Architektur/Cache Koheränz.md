@@ -11,7 +11,11 @@ Beim Write Through Cache wird $X$ direkt im Hauptspeicher verändert. Jedoch wei
 Beim Writeback Cache wird der Hauptspeicher nicht sofort verändert, daher kann $P_{2}$ immer noch den falschen Wert auslesen.
 ![[Pasted image 20250106202349.png]]
 
-Wie kann nun gelöst, werden, dass alle Caches denselben Stand haben?
-[[Snoopy]]
-[[Directory]]
+## Wie kann das Problem gelöst werden?
+Grundsätzlich existieren zwei Wege:
+1. Cache-Protokoll:
+	1. [[Snoopy]]
+	2. [[Directory]]
+2. Verwendung von gemeinsamen Cache.
+
 

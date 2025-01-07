@@ -9,7 +9,7 @@ Heute: UEFI-BIOS mehr Optionen, ermöglicht Secure Boot → Alternative Coreboot
 Beim Einschalten des Rechners wird folgendermassen forgegangen:
 - Start des BIOS
 - POST (Power On Self-Tests)
-- Abfrage aller angeschlossenen Geräten und statischen Adressbereichen (für [[Interrupts|Interrupt]] Requests und I/O)
+- Abfrage aller angeschlossenen Geräten und statischen Adressbereichen (für [[CNA/Betriebssystem/Interrupts|Interrupt]] Requests und I/O)
 - Optionaler Start des Benutzerinterfaces mittels F1, F2, F10, F11, F12, Esc, Del
 - Rückübermittlung der dynamisch zugewiesenen Adressbereiche an Gerätecontroller
 - Ermittlung des Boot Device

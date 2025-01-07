@@ -1,0 +1,18 @@
+/* Custom style for [!Definition] callout in light yellow */
+.callout[data-callout="definition"] {
+  --callout-color: #fbc02d; /* Light yellow color for the border and icon */
+  --callout-icon: lucide-book; /* Custom icon */
+  background-color: #fffde7; /* Very light yellow background */
+  border-left: 4px solid var(--callout-color);
+}
+
+.callout[data-callout="definition"] .callout-title {
+  font-weight: bold;
+  font-size: 1.1em;
+  color: var(--callout-color);
+}
+
+.callout[data-callout="definition"] .callout-content {
+  font-style: italic;
+  color: #4a4a4a; /* Slightly darker text for readability */
+}

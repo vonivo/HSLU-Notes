@@ -25,7 +25,7 @@ Der Treiber initiiert die I/O Operation und möchte Daten liefern/empfangen
 Nun programmiert der [[Gerätetreiber]] den [[Gerätetreiber]] aber so das dieser einen Interrupt auslöst sobald er ready ist. 
 Der Treiber gibt danach bereits schon zurück an die Anwendung
 Die Anwendung wird vom OS blockiert (blocked), da sie ja auf das I/O Gerät wartet. 
-Im Unterschied zum Busy Waiting **können in dieser Zeit aber andere [[Prozesse]] ausgeführt werden**
+Im Unterschied zum Busy Waiting **können in dieser Zeit aber andere [[CNA/Betriebssystem/Prozesse]] ausgeführt werden**
 
 Ist das Gerät nun ready, sendet es einen Interrupt an die [[Prozessor|CPU]]. Die [[Prozessor|CPU]] suspendiert die momentane Aktion und ruft den Interrupthandler im [[Gerätetreiber]] auf. Dieser bestimmt dann die weiteren Aktionen. 
 

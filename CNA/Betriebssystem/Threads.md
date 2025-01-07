@@ -1,4 +1,4 @@
-Als Thread bezeichnet man einen Ausführungsstrang.  So können zwei Threads unterschiedliche, fast gleichzeitige Aufgaben in einem [[Prozesse|Prozess]] übernehmen. Die Threads teilen sich dann einen Adressraum. 
+Als Thread bezeichnet man einen Ausführungsstrang.  So können zwei Threads unterschiedliche, fast gleichzeitige Aufgaben in einem [[CNA/Betriebssystem/Prozesse|Prozess]] übernehmen. Die Threads teilen sich dann einen Adressraum. 
 
 Handhabung von Threads, weniger aufwendig als bei Prozessen. 
 

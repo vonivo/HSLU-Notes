@@ -2,7 +2,7 @@ Als Interprocess Communication (IPC) bezeichnet man die Kommunikation zwischen P
 
 Das Ziel ist ein strukturierter und konfliktfreier Ablauf von Prozessen. Das wird durch **Prozesssynchronisation** bewerkstelligt. 
 
-- Wie kommunizieren [[Prozesse]]?
+- Wie kommunizieren [[CNA/Betriebssystem/Prozesse]]?
 	- [[Message Passing]]
 - Wie verhindert man [[Deadlocks]] oder Konflikte zwischen Prozessen?
 	- Es werden kritische Regionen definiert, nur ein Prozess darf sich zur gleichen Zeit in einer kritischen Region befinden.
@@ -14,7 +14,7 @@ Das Ziel ist ein strukturierter und konfliktfreier Ablauf von Prozessen. Das wir
 		- [[Semaphor]]
 		- [[Mutex]]
 		- [[Monitor]]
--  Wie kann man [[Prozesse]] abarbeiten unter Berücksichtigung ihrer Abhängigkeiten?
+-  Wie kann man [[CNA/Betriebssystem/Prozesse]] abarbeiten unter Berücksichtigung ihrer Abhängigkeiten?
 
 > Kritische Regionen sind Abschnitte in denen auf gemeinsame Ressourcen (Datenbanken, [[Speicher]]) zugegriffen wird
 

@@ -1,0 +1,1 @@
+Da alle Main-Memory-Zugriffe über dasselbe Medium laufen, kann jeder einzenlne Cache-Kontroller auf dem Medium mithören und falls nötig Variabeln in dem eigenen Speicher aktualisieren.

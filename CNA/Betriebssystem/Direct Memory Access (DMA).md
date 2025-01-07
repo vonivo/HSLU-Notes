@@ -6,7 +6,7 @@ Dadurch kann die [[Prozessor|CPU]] ihre Ressource anderweitig einsetzen.
 
 Vor der Nutzung teilt die [[Prozessor|CPU]] dem DMA-Controller mit wie viele Bits von welcher Quelle zu welchem Ziel befördert werden müssen. 
 
-Ist der DMA Controller fertig sendet er einen [[Interrupts|Interrupt]] zu der [[Prozessor|CPU]]. 
+Ist der DMA Controller fertig sendet er einen [[CNA/Betriebssystem/Interrupts|Interrupt]] zu der [[Prozessor|CPU]]. 
 
 Der DMA Controller ist im Memory Controller integriert. 
 
