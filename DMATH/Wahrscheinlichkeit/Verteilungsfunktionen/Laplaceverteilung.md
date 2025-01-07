@@ -40,7 +40,7 @@ $$
 **Beispiel 4**
 Es werden $3$ Briefe mit entsprechenden Umschlägen an $3$ verschiedene Personen geschrieben. Leider werden die Briefe per Zufall in die jeweiligen Umschläge gesteckt. Wie gross ist die Wahrscheinlichkeit, dass **wenigstens** einer der Briefe in den richtigen Umschlag ist.
 
-$A_{k}=\text{"Ker k. Brief ist im Richtigen Umschlage}$
+$A_{k}=\text{"Der k. Brief ist im Richtigen Umschlage}$
 $$
 \begin{align}
 p(A_{1}\cup A_{2}\cup A_{3}) &= p(A_{1})+p(A_{2})+p(A_{3})-p(A_{1} \cap A_{2})-p(A_{1}\cap A_{3})-p(A_{2}\cap A_{3})+p(A_{1}\cap A_{2}\cap A_{3}) \\

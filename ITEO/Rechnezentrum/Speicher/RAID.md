@@ -16,3 +16,14 @@ Redundant, dafür 50 % zusätzlicher verbrauch.
 Kombination von R1 und R2
 Ausfallsicherheit und Gewschwindigkeit steigen
 ![[Pasted image 20250105210026.png]]
+
+## RAID 5
+- Ein Teil des Diskplatzes wird für **Partity** reserviert.
+- Parity über alle Disks verteilt, keine Engpässe beim Write.
+- Bei Ausfall einer Festplatte können die Daten mit hilfe der anderen und der Parity wieder hergestellt werden.
+- Min 3 Disks max ca. 10-12
+- W langsamer, R schneller als eine HD.
+
+## RAID 6
+- 2 Parity-Platten auch verteilt.
+- Doppeldiskausfälle abgedeckt
