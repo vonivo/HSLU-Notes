@@ -11,7 +11,14 @@ $$
 
 Daraus folgt:
 $$
-  
+\begin{align}
+PR_{1}&=PR_{2} \\
+PR_{2}&=\frac{1}{3}PR_{3}+PR_{4}+PR_{5} \\
+PR_{3}&=PR_{1} \\
+PR_{4}&=\frac{1}{3}PR_{3} \\
+PR_{5}&=0 \\
+PR_{6}&=\frac{1}{3}PR_{3}
+\end{align}
 $$
 Daraus entsteht folgende [[Matrizen|Koeffizientenmatrix]]:
 $$
