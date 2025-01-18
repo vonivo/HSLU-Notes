@@ -17,5 +17,5 @@ Diese Sprache definiert binäre Ausdrücke ohne eine führende 0.
 ## Darstellungsarten
 - [[Syntaxbaum]]
 - [[Syntaxdiagramm]]
-- [[BNF/EBNF]]
+- [[EBNF]]
 - [[Regulärer Ausdruck]]

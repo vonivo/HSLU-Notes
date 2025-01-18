@@ -22,6 +22,6 @@ $s\to s*s\to a*s\to a*a$
 ## Darstellungsarten
 - [[Syntaxbaum]]
 - [[Syntaxdiagramm]]
-- [[BNF/EBNF]]
+- [[EBNF]]
 
 
