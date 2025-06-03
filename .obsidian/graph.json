@@ -83,6 +83,20 @@
         "a": 1,
         "rgb": 14069084
       }
+    },
+    {
+      "query": "path:ISF",
+      "color": {
+        "a": 1,
+        "rgb": 11392604
+      }
+    },
+    {
+      "query": "path: ASTAT  ",
+      "color": {
+        "a": 1,
+        "rgb": 6084188
+      }
     }
   ],
   "collapse-display": true,
@@ -95,6 +109,6 @@
   "repelStrength": 13.0729166666667,
   "linkStrength": 0.6015625,
   "linkDistance": 200,
-  "scale": 0.0078125,
+  "scale": 0.03018289506732421,
   "close": false
 }
