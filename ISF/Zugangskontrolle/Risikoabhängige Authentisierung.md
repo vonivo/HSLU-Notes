@@ -1,3 +1,5 @@
 - Je nach Risiko andere Funktionen:
     - Smartphone nur lesen
-    - Nur vom PC aus Überweisungen
+    - Smartphone mit PW -> Lese von Konto- und Karteninformationen, Aktienhandel, Zahlungen scannen & registrieren
+    - Smartphone mit Access Card -> E-Bills, Problemlos Zahlungenausführen
+    - Nur vom PC aus Überweisungen -> alles

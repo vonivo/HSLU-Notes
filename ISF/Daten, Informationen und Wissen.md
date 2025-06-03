@@ -31,5 +31,12 @@ aliases:
 	- Unwetter, Erdbeben, Überschwemmungen, Vulkanausbrüche
 	- Feuer, Wasser
 	- Ausschreitungen, Geiselnahme, Krieg
+- Willentliche, vorsätzliche Angriffe
+	- Unerlaubter Zugriff auf Systeme
+	- Abhören und Modifizieren von Daten
+	- Angriff auf die Verfügbarkeit von Systemene
+	- Missbrauch von Systemen, Distributed Denial-of-Service
+	- Vire, Würemer und Trojaner
+	- Drive-by-infections
 
 

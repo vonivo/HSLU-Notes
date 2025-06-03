@@ -7,6 +7,8 @@ Die Akzeptanzlinie gibt an, welches Risiko ein Unternehmen bereit ist anzunehmen
 - Reduzieren
 - Vermeiden
 
+
+Es gibt Präventive Massnahmen und Korrektive Massnahmen.
 #### Kriterien für Verschiebbarkeit
 
 | Kriterium                                      | Bemerkung                                              |

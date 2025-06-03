@@ -27,3 +27,8 @@ Hier wird mit einer Risikomatrix gearbeitet
 | ------------- | -------------------------------------------------- |
 | Übersichtlich | Tendiert alles zu Gelb                             |
 | Schnell       | Tendenz zu Best-Pratices anstatt kritischem Denken |
+
+## Risikoportfolio
+Eine Menge von Risiken, welche im Rahmen einer Risikoanalyse identifiziert worden ist, wird als Risiko-Portfolio bezeichnet.
+
+Risiko-Portfolios werden oft einzelnen Geschäftsfeldern zugeordnet. Jedes Geschäftsfeld hat sein Portfolio.

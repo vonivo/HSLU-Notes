@@ -11,10 +11,26 @@ Ziel der Informationssicherheit ist es, mögliche [[Bedrohungen]] und [[Schwachs
 Die Grundschutzziele werden mit **C-I-A** beschrieben:
 - Confidentiality -> Vertraulichkeit
 	[[Daten, Informationen und Wissen|Informationen]] können nicht von unautorisierten Personen, Instanzen oder Prozessen eingesehen werden.
+	**Bell-LaPadula Prinzip**
+	![[Pasted image 20250123100831.png]]
+	-> no-read-up
+	-> no write down
 - Integrity -> Integrität
 	[[Daten, Informationen und Wissen|Daten]] oder Systeme können nicht unautorisiert oder zufällig manipuliert oder verändert werden.
+	**Technische Massnahmen**
+	- HMC: AES
+	- Digitale Signaturen
+	- Biba-Prinzip
+	![[Pasted image 20250123101022.png]]
+	-> No-Write-UP
+	-> No-Read-Down
+![[Pasted image 20250123101237.png]]
+	**Organisatorische Massnahmen**
+	- PKI
+	- Blockchain
 - Availability -> Verfügbarkeit
 	Der Benutzer kann jederzeit auf Dienste oder [[Daten, Informationen und Wissen|Informationen]] zugreiffen.
+	![[Pasted image 20250123101253.png]]
 
 Alle Sicherheitsbetrachtungen müssen sich **mindestens** auf diese 3 Schutzziele beziehen
 
@@ -28,10 +44,30 @@ Alle Sicherheitsbetrachtungen müssen sich **mindestens** auf diese 3 Schutzziel
 - Authenticity
 - Verbindlichkeit
 - Kopierschutz
+- Zutrittskontrolle -> Schutz des physischen Systems
+- Zugangskontrolle -> Schutz des logischen Systems
+- Zugriffskontrolle Schutzer der Operationen
 
 ## Schritte der Informationssicherheit
 1. Sichern (Backups)
-2. Schützen (Virenschutz)
-3. Überwachen (Firewall)
+2. Schützen (DMZ, Firewall, Paketfilter, etc.)
+3. Überwachen (Virenscanner, IDS, IPS, WAF)
 4. Vorbeugen (Softwareupdates)
+	1. Forensic Readyness
+		1. Stragety
+		2. Policy and Procedures
+		3. Technology
+		4. Digital Forensic Response
+		5. Compliance and Monitoring
 5. Aufpassen (Persönliches Verhalten)
+
+## Weitere Sicherheitsziele
+- Authentizität
+- Autorisierung
+- Zugriffskontrolle
+- Zugreifbarkeit
+- Zuverlässigkeit
+- Verbindlichkeit
+- Unbeobachtbarkeit
+- Wirksamkeit, Effektivität
+- Kopierschutz
