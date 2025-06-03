@@ -4,7 +4,7 @@ Die zuverlässige Übertragung wird realisiert durch:
 - [[Fehlersicherung]].
 - Fehlerkorrektur falls möglich.
 - Falls Empfang ok -> positive Rückmeldung.
-- Kommt keine Meldung nach Timeout -> Frame nochmals senden.
+- Kommt keine Meldung nach Timeout -> [[Frame]] nochmals senden.
 - Durchnummerieren der Frames -> Verlorene Frames werden erkannt.
 
 Der Datalinklayer wird of noch in die zwei Sublayer:

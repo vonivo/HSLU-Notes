@@ -97,6 +97,13 @@
         "a": 1,
         "rgb": 6084188
       }
+    },
+    {
+      "query": "path:NETW2  ",
+      "color": {
+        "a": 1,
+        "rgb": 6084269
+      }
     }
   ],
   "collapse-display": true,
@@ -109,6 +116,6 @@
   "repelStrength": 13.0729166666667,
   "linkStrength": 0.6015625,
   "linkDistance": 200,
-  "scale": 0.16348370567220555,
+  "scale": 0.015355906606692818,
   "close": false
 }

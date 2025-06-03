@@ -43,7 +43,7 @@ Nachricht: $\color{green}1101$
 => Nachricht: ${\color{yellow}1101}\color{blue}10$
 
 ## Überprüfen
-Frame: `1101011011`
+[[Frame]]: `1101011011`
 Generator: `1001`
 N: `4`
 ![[CRC_2.png]]
