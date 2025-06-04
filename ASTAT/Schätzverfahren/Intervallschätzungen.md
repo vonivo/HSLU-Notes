@@ -18,13 +18,4 @@ Die Wahrscheinlichkeit $\alpha$ wird Konfidenzniveau genannt. (Meist $99\%$ oder
 
 
 ## Bootstrapverfahren
-Um $\delta$ zu bestimmen, kann der Bootstrap-Algorithmus verwendet werden:
-1. Ziehe eine [[Stichprobe#Zufallsstichprobe|Zufallsstichprobe]] (Resample) mit Zurücklegen aus dem bestehenden Sample der Grösse $n$.
-2. Erfasse den im Fokusstehende Parameter für das Resample.
-3. Wiederhole Schritt 1 & 2 viele Male.
-4. Zur Ermittlung des $\alpha\%$-Konfidenzintervalls müssen wir nun
-$$
-\left( \frac{100-\alpha}{2} \right)\%
-$$
-	der **geordneten** Werte des Resamples an beiden Enden abschneiden.
-5. Die zwei Werte an den geordneten Enden ergeben nun das Konfidenzintervall.
+Um $\delta$ zu bestimmen, kann das [[Bootstrap-Verfahren]] verwendet werden:
