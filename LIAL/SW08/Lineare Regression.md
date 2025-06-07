@@ -34,14 +34,14 @@ Unschwer erkennbar ist diese nicht lösbar. Nun geht es darum, eine Gerade so zu
 Nur wird diese Gerade mithilfe von Geometrie ermittelt:
 ![[Lineare_Regression_3.png]]
 ### Spaltenraum
-Rote Fläche -> Spaltenraum $X = \begin{pmatrix}1&0\\1&1\\1&2\end{pmatrix}$ abgelesen aus obiger Gleichung. Ist die Auflistung aller Messwerte in [[Matrizen|Matrixform]] plus eine Spalte aus lauter eines ganz links.
+Rote Fläche -> Spaltenraum $X = \begin{pmatrix}1&0\\1&1\\1&2\end{pmatrix}$ abgelesen aus obiger Gleichung. Ist die Auflistung aller Messwerte in [[Matrizen|Matrixform]] plus eine Spalte aus lauter Einsen ganz links.
 
 ### Lösungsvektor
 Grüner Pfeil -> [[Vektoren|Lösungsvektor]] $y=\begin{pmatrix}6\\0\\0\end{pmatrix}$
 Vektorielle Auflistung aller Zielgrößen.
 
 ### $\hat{y}$ Vorhersage Vektor
-Hellgrüner Pfeil -> Zeit die Datenpunkte welche durch die das lineare Regressionsmodell vorhergesagt wurden. $\hat{y} = X \hat{b} = y -e$.
+Hellgrüner Pfeil -> Zeigt die Datenpunkte welche durch die das lineare Regressionsmodell vorhergesagt wurden. $\hat{y} = X \hat{b} = y -e$.
 
 $\hat{y}$ erhält man, wenn man den Vektor b auf die Spalten der Datenmatrix [[Orthogonale Projektionen|projiziert]].
 $$

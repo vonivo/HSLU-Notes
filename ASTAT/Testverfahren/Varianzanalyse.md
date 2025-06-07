@@ -1,4 +1,4 @@
-Bei einem [[ABCD-Test]] kann der [[p-Wert]] nicht mehr einfach berechnet werden.
+Bei einem [[ABCD-Test]] kann der [[ASTAT/Testverfahren/p-Wert]] nicht mehr einfach berechnet werden.
 In diesem Fällen nutzen wir die **Varianzanalyse.**
 
 **Ablauf (mit vier Gruppen)**

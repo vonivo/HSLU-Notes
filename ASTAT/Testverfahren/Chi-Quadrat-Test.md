@@ -29,4 +29,4 @@ $$
 $$
 
 4. Wiederhole 1000 Mal die Schritte 2 und 3
-5. Wie oft ist die **Summe der quadrierten Pearson-Residuen** grösser als die beobachtete? Das ist der [[p-Wert]]
+5. Wie oft ist die **Summe der quadrierten Pearson-Residuen** grösser als die beobachtete? Das ist der [[ASTAT/Testverfahren/p-Wert]]
