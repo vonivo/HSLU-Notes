@@ -34,7 +34,7 @@ Die Routing Tabelle beinhaltete mindestens **Netzwerkadresse** (Prefix), **Egres
 | --------------------- | -------------------------------------- | --------------------- |
 | Configuration Komplex | Unabhänign von Netz-Grösse             | Wächst mit Netzgrösse |
 | Topology Changes      | automatisch                            | manuell               |
-| Scalability           | Für komplexe Netzwerke                 | einfach topologien    |
+| Scalability           | Für komplexe Netzwerke                 | einfache Topologien   |
 | Security              | Muss konfiguriert werden               | inherent              |
 | Resource Usage        | Braucht CPU, Bandbreite, speicher link | keine                 |
 | Path predicability    | dynamisch                              | explizit.             |

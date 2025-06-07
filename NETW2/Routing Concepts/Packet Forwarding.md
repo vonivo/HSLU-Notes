@@ -2,7 +2,7 @@ Standardablauf eines Routers, wenn er einIP-Pakett erhält:
 1.Pakett kommt auf Ingress-Interface an
 1. Routeruntersuchtt Dest.-IP und konsultiert [[Routing-Tabelle]]
 2. Router findet [[Path Determination|Longest Match]]
-3. Routerverpacktt IP-Paket in Layer-2 Paket.
+3. Routerverpackt IP-Paket in Layer-2 Paket.
 4. Senden zu Next-Hop oder Destination.
 
 Es gibt 3 Szenarien:
