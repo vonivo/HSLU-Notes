@@ -107,3 +107,14 @@ h_Brand = kontingenzTafel.sum(axis=0).reshape(1,j) # horizontal
 chi_square = ((kontingenzTafel - rand)**2/(rand)).sum()
 C_korr = np.sqrt(1+1/C_max)*np.sqrt(chi_square/(1+chi_square))
 ```
+
+## Visualisierung
+Die Verteilungen können in einem Stab-Diagramm visualisiert werden:
+
+>[!error]
+>Wenn die Verteilungen gleich sind, sind die beiden Merkmale unabhängig.
+
+
+**abhängige Merkmale:**
+![[Abhängige_Merkmale.png]]**abhängige Merkmale**
+![[Unabhängige_Merkmale.png]]

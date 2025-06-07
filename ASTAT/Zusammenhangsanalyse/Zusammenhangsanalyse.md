@@ -6,4 +6,6 @@ Das Ziel ist es die **Beziehung zwischen Variablen** zu erkennen, zu beschreiben
 - [[Statistisches Merkmal|Ordinales Merkmale]] -> Zusätzliche Prüfung, ob es einen gerichteten Zusammenhang gibt:
 	- **positiv:** Steigt das eine Merkmal, steigt das andere,
 	- **negativ:** Steigt das eine Merkmal, sinkt das andere.
+	- [[Rangkorrelationskoeffizient]]
 - [[Statistisches Merkmal|Metrische Merkmale]] -> Untersuchung, ob ein linearer Zusammenhang, als eine Korrelation besteht.
+	- [[Korrelation]]

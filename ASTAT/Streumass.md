@@ -60,7 +60,7 @@ $$
 np.sqrt(1/len(df["Alter"]) * sum((df["Alter"]-df["Alter"].mean())**2))
 > 160.69
 ```
-verwendet.
+verwendet. **Varianz**
 
 Dieser Wert hat den Nachteil, dass die Dimension nicht mehr stimmt. Die Zahl $MQD$ hat quadratische Einhieten. Wenn wird aber aus $MQD$ die Wurzel ziehen erhalten wir die sogenannte Standardabweichung
 $$
