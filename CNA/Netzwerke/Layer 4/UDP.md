@@ -18,6 +18,6 @@ Typische UDP-Anwendungen sind:
 - Kommunikation im Client-Server-Betrieb
 	- Client sendet kurze Anforderung an Server
 	- Server führt Anfrage aus und sendet kurze Antwort
-- [[RPC]]
+- [[CNA/Netzwerke/RPC]]
 - [[RTP]]
 - DNS

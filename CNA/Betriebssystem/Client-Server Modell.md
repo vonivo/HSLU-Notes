@@ -18,4 +18,4 @@ Dabei übernimmt der Client die Benutzeroberfläche, ein Applikationsserver die 
 ![[Pasted image 20240530114002.png]]
 
 # Kommunikation
-Die Kommunikation kann dabei über [[Socket|Sockets]] und [[RPC]] erfolgen
+Die Kommunikation kann dabei über [[Socket|Sockets]] und [[CNA/Netzwerke/RPC]] erfolgen
