@@ -1,17 +1,22 @@
-
+## Standardfehler
+### Einfache Regression
 Um ein Modell einer [[Regressionsanalyse]] zu bewerten, wird der Standardfehler der Residuen berechnet:
 $$
-RSE = \sqrt{ \frac{RSS}{n} }=\sqrt{ \frac{r_{1}^{2}+r_{2}^{2}+\dots+r_{n}^{2} }{n}}
+RSE = \sqrt{ \frac{RSS}{n-2} }=\sqrt{ \frac{r_{1}^{2}+r_{2}^{2}+\dots+r_{n}^{2} }{n-2}}
 $$
 **$RSE$** ist ein Gütemass für ein angepasstes Regressionsmodell.
 
 ```python
-RSE = np.sqrt(1/df.shape[0] * ((B-model(A, fit.x[0], 
+RSE = np.sqrt(1/(df.shape[0]-2) * ((B-model(A, fit.x[0], 
 										fit.x[1]))**2).sum())
-RSE = np.sqrt(fit.fun/df.shape[0])
+RSE = np.sqrt(fit.fun/(df.shape[0]-2))
 ```
 
-
+## [[Multiple Regressionsanalyse]]
+Um ein Modell einer [[Multiple Regressionsanalyse|multiplen Regressionsanalyse]] zu bewerten, wird der Standardfehler der Residuen berechnet. Zusätzlich werden die Anzahl **Präditoren $p$** miteinbezogen:
+$$
+RSE=\sqrt{ \frac{RSS}{n-p-1} }
+$$
 ### Bestimmtheitsmass
 Das Bestimmtheitsmass:
 $$

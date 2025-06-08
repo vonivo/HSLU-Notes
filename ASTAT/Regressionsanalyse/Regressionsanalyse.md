@@ -10,7 +10,7 @@ Die einfachste Form ist die [[Lineare Regression]] bei der eine abhängige Varib
 $$
 y = predict(x) = a \cdot x+b
 $$
-In viele Anwendungen ist auch die multiple lineare Regression relevant, bei der mehrere Einflussgrössen gleichzeitig berechnet werden:
+In viele Anwendungen ist auch die [[Multiple Regressionsanalyse|multiple lineare Regression]] relevant, bei der mehrere Einflussgrössen gleichzeitig berechnet werden:
 $$
 y=predict(x_{1},x_{2},\dots,x_{n})=a_{1}\cdot x_{1}+a_{2}\cdot x_{2}+\dots+a_{n}\cdot x_{n}+b
 $$
