@@ -57,7 +57,7 @@ In LACP können folgende Modi konfiguriert werden:
 - Alle Ports müssen im selben VLAN sein.
 - Bei einem Trunk-Etherchannel ([[Trunk-Link]]) müssen dieselben allowed [[NETW2/VLAN/VLAN|VLAN]] sein.
 
-1. Interfaces auswählen und mittles `range` alle gleichzeigitg bearbeiten.
+1. Interfaces auswählen und mittles `range` alle gleichzeitig bearbeiten.
 2. Channel Gruppe erstellen
 3. Um Layer2 Settings auf dem Port-Channel zu setzen `interface port-channel <id>` nutzen. (z.B. für VLAN allow list)
 
