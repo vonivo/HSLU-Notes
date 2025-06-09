@@ -3,7 +3,7 @@ Damit ein Switch über Remote-Management-Access verwaltet werden kann, benötigt
 - Default Gateway
 - Switch Virtual Interface (SVI)
 
-Standardmässig wird ein Switch über [[VLAN]] 1 konfiguriert. Dies sollte jedoch geändert werden.
+Standardmässig wird ein Switch über [[NETW2/VLAN/VLAN|VLAN]] 1 konfiguriert. Dies sollte jedoch geändert werden.
 
 Ein SVI erscheint erst als Up/Up wenn ein Gerät an einem VLAN 99 Port angeschlossen ist und das VLAN existiert.
 
