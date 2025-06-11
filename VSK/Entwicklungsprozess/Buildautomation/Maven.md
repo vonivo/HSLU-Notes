@@ -37,4 +37,111 @@ Alle heruntergeladenen Artefakte werden in einem lokalen Repository (`$HOME/.m2`
 Das `.m2` ist hierarchisch nach der Maven-Koordinaten aufgebaut.
 Firmen können auch eingene Repositories verwenden.
 
-Maven selbst erlaubt eine Modularisierung des eigenen Codes.
+- Maven selbst erlaubt eine Modularisierung des eigenen Codes.
+- Maven erlaubt die Auflösung von [[Transitive Dependency|transitiven Dependencies]] und kann auch Versionskonflikte beheben.
+- Erkennt Zyklische Dependencies
+- Maven erlabut auch das Auswerten von Dependencies als Graph [[Graphenalgorithmen]]
+
+
+
+### Maven Koordinaten
+Ein Maven Projekt wird über 3-Punkte global eindeutig identifiziert:
+1. **Group-ID**: Meistens "reverse doamin name" der Organisation und einen Zusatz für eine Projektgruppe `ch.hslu` + `vsk`
+2. **ArtifactId**: Entspricht häuffig dem Namen des Projekts. `stringpersistor-api`.
+3. **Version**: Empehlung: [[Semantic Versioning]]
+
+**Im POM**
+```xml
+<groupId>ch.hslu.vsk</groupId>
+<artifactId>stringpersistor-api</artifactId>
+<version>8.0.3</version>
+```
+
+**Kurzform**
+```
+org.slf4j:slf4j-api:2.1.0
+```
+
+### Deklaration im POM
+Benötigte Dependencies werden als Kind des Tags `<dependencies>` angegeben:
+
+```xml
+<dependencies>
+...
+	<dependency>
+		<groupId>ch.hslu.vsk</groupId>
+		<artifactId>stringpersistor-api</artifactId>
+		<version>8.0.3</version>
+		<scope>compile</scope>
+	</dependency>
+...
+</dependencies>
+```
+- Beim Build werden diese Dependencies nun automatisch heruntergeladen und ins lokale `.m2`-Repo gespeichert.
+- Der Build referenziert diese JARs dann über den Class-Path
+
+#### Scopes
+Da beim Testen oft spezielle Dependenies verwendet, welche man im Produktions-Code nicht haben möchte kennt Maven Scopes.
+Diese Scopes definieren den Gültigkeitsbereich einer Dependency.
+
+**geläuffigste Scopes**
+- **compile** -> Dependency wird für die Kompilation und zur Laufzeit des Programms benögitg (Default)
+- **test** -> Dependecy ausschliesslich für die Kompilation und Ausführung der Testfälle.
+- **runtime**: Dependency nur für Laufzeit, aber nicht für Kompilation (dynamisch geladenen Implementationen)
+
+Aus den Scopes werden spezifische Classpaths gebaut -> implizite Verifikation des Design.
+
+#### Multimodule Projekt
+Damit die verschiedenen Versionen von Dependencies in einem Multi-Modul-Projekt zentral an einem Ort definiert werden können existiert der Tag `<dependencyManagemnt>`. Dieser Tag ist im Parent-POM zu finden und erstellt eine Base-Line mit allen Dependencies und deren Versionen.
+
+Im Sub-Moudl muss dann nur noch die GroupId und und die ArtifactId spezifiziert werden:
+
+**Parent pom.xml**
+```xml
+<dependencyManagement>
+	<dependencies>
+		<dependency>
+			<groupId>org.slf4j</groupId>
+			<artifactId>slf4j-api</artifactId>
+			<version>2.1.0</version>
+			<scope>compile</scope>
+		</dependency>
+	</dependencies>
+...
+</dependencyManagement>
+```
+
+**Child pom.xml**
+```xml
+<dependencies>
+	<dependency>
+		<groupId>org.slf4j</groupId>
+		<artifactId>slf4j-api</artifactId>
+	</dependency>
+</dependencies>
+```
+
+Alternative Technickt [[Bill of Material]]
+### Quell-Repos definieren
+Wenn ein eigenes [[Binary-Repo]] verwendet wird, kann dies wie folgt definiert werden:
+```
+<repositories>
+	<repository>
+		<id>gitlab-maven-repo-vsk-stringpersistor-api</id>
+		<url>https://gitlab.com/api/…/…/packages/maven</url>
+	</repository>
+</repositories>
+```
+
+### SNAPSHOT-Version
+Druch die Versionierung kann Maven:
+- neuen Versionen erkennen.
+- Automatische Verwendung des neusten Bugfixes.
+- Angabe von Versionbreich welche Kompatibel sind etc.
+
+Da [[Binary-Repo|binäre Repos]] es nicht erlauben bestehende Versionen zu bearbeiten, müsste in der Entwicklung für jede "Entwicklungs-Version" eine neue Version erstellt werden.
+
+Um dies zu verhindern, existieren die SNAPSHOT-Versionen. Snapshot versionen sind "unstable-Versionen" "überschrieben werden können".
+
+Um eine Snapshot-Version zu erstellen wird `-SNAPSHOT` der Version angehängt.
+
