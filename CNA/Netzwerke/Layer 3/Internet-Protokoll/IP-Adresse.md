@@ -51,4 +51,4 @@ Es wurden folgende Private-Adressen definiert:
 | 172.16.x.x-172.31.x.x | 172.16.0.0/12  |
 | 192.168.x.x           | 192.168.0.0/16 |
 Spezialbereich
-**169.254.0.0/16** -> APIPA (Automatic Private IP Adressing ohne [[DHCP]])
+**169.254.0.0/16** -> APIPA (Automatic Private IP Adressing ohne [[CNA/Netzwerke/Layer 3/Internet-Protokoll/DHCP]])

@@ -31,7 +31,7 @@ Was nun die möglichen Adressen extrem vergrössert -> von $2^{32}$ auf $2^{128}
 - Unterstüzung für Authentifizierung, Security, Verschlüsselung, z.B. neuer Dienst [[IPSec]]
 - Vereinfachung und Verbesserung der Protokollheader -> Einfacher für [[CNA/Netzwerke/Layer 3/Router|Router]]
 - Unterstüzung für Mobile IP und vereinfachte Umnummerierung (beim Umzug von Rechner)
-- Autokonfiguration von IPv6-Adressen ([[DHCP]] wird überflüssig)
+- Autokonfiguration von IPv6-Adressen ([[CNA/Netzwerke/Layer 3/Internet-Protokoll/DHCP]] wird überflüssig)
 - [[Quality of Service]]
 
 # IPv6 Header
