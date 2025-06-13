@@ -1,4 +1,4 @@
-ARP-Spoofing und ARP-Poisoning wird mittels [[DHCP Attacks|DHCP-Spoofing]] **Dynamic ARP Inspection (DAI)** verhindert.
+ARP-Spoofing und ARP-Poisoning wird mittels [[DHCP Snooping|DHCP-Spoofing]] **Dynamic ARP Inspection (DAI)** verhindert.
 
 Dadruch werden keine schädlichen ARP-Nachrichten mehr propagiert.
 

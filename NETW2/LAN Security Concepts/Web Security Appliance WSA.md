@@ -1,0 +1,5 @@
+- Sichert und kontrolliert Web Traffic
+- Verbindet Advanced Malware Protection, Application visibility und control, use policy controls und reporting
+- Funktionen und Applikationen (chat, video und audio) können erlaubt, eingeschränkt oder geblockt werden
+	- Zeit-, Bandbreite Limit
+- URL Blacklisting, URL Filtering, Malware Scanning, URL Categorization, Web application filtering, encryption und decryption von Web Traffic
