@@ -27,7 +27,7 @@ Es gibt zwei Ansätze für die Konfiguration einer Build-Piepline:
 - Konfiguration ist im Repository:
 	- Eher für Cloud-Hosting
 	- Konfiguration direkt durch Entwickler
-	- Weniger restriktiv, sehr häufig mit [[Docker]]
+	- Weniger restriktiv, sehr häufig mit [[ITEO/Virtualisierung/OS-Virtualisierung/Docker]]
 		-> Mehr Freiheit und Eigenverantwortung
 
 Variante 1 eher bei Organisationen und Variante 2 eher bei OSS.
