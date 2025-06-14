@@ -2,8 +2,8 @@
 2. Don’t Repeat Yourself (DRY).  
 3. Favor Composition over [[Vererbung|Inheritance]] (FCoI).  
 4. Design for [[Vererbung|inheritance]], oder prohibit it.  
-5. Achten Sie auf hohe [[Kohäsion]] und lose [[Kopplung]].  
-6. Differenzieren Sie [[Kopplung#Datenkapselung|Datenkapselung]] von [[Kopplung#Information Hiding|Information Hiding]].  
+5. Achten Sie auf hohe [[OOP/Kohäsion]] und lose [[OOP/Kopplung]].  
+6. Differenzieren Sie [[OOP/Kopplung#Datenkapselung|Datenkapselung]] von [[OOP/Kopplung#Information Hiding|Information Hiding]].  
 7. Verwenden Sie [[Interface|Schnittstellen]] zur Entkopplung und Abstraktion.  
 8. Testen Sie mit [[Unit Testing|Unit Tests]] nach dem [[Unit Testing#Test First|Test First]] Prinzip.  
 9. Viele kleine Einheiten sind besser als wenige Grosse.  
@@ -34,19 +34,19 @@
 # Design for Inheritance of prohibit it
 - Gute Basis Klassen designen oder sie [[Schlüsselwörter#Final|finalisieren]]
 
-# Hohe [[Kohäsion]] und lose [[Kopplung]]
-- Hohe [[Kohäsion]]
+# Hohe [[OOP/Kohäsion]] und lose [[OOP/Kopplung]]
+- Hohe [[OOP/Kohäsion]]
 	- Das zusammenfassen was zussamengehört
-- Lose [[Kopplung]]
+- Lose [[OOP/Kopplung]]
 	- So wenig und schwache Beziehungen wie möglich und so viele starke Beziehungen wie nötig
-- Siehe [[Kopplung#Datenkapselung|Datenkapselung]] und [[Kopplung#Information Hiding|Information Hiding]]
+- Siehe [[OOP/Kopplung#Datenkapselung|Datenkapselung]] und [[OOP/Kopplung#Information Hiding|Information Hiding]]
 
-# [[Kopplung#Datenkapselung|Datenkapselung]] und [[Kopplung#Information Hiding|Information Hiding]]
-- [[Kopplung#Datenkapselung|Datenkapselung]]
+# [[OOP/Kopplung#Datenkapselung|Datenkapselung]] und [[OOP/Kopplung#Information Hiding|Information Hiding]]
+- [[OOP/Kopplung#Datenkapselung|Datenkapselung]]
 	- Exlizierte und Bewusster Umgang mit [[Zugriffsmodifizierer|Zugriffsmodifizieren]]
 	- [[Attribut|Attribute]] möglichst private
 	- [[Methode|Methoden]] public oder private gut abwägen
-- [[Kopplung#Information Hiding|Information Hiding]]
+- [[OOP/Kopplung#Information Hiding|Information Hiding]]
 	- Schnittstelle und Implementation möglichst strikt trennen
 	- Keine Rückschlüsse auf interne Implementation zu lassen
 
@@ -75,5 +75,5 @@
 - Ein guter Name...  
 	- hilft, den Sinn und die Absicht schneller zu verstehen.  
 	- reduziert Aufwand für die Dokumentation.  
-	- erhält die [[Kohäsion]] (weil man Verletzungen schneller erkennt)
+	- erhält die [[OOP/Kohäsion]] (weil man Verletzungen schneller erkennt)
 - Quellcode immer sauber und automatisch korrekt formatiert

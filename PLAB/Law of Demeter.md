@@ -1,6 +1,6 @@
 Die Law of Demeter besagt, dass Objekte nur zu Freunden und nicht zu Unbekannten sprechen soll.
 
-Durch diese Regel wird verhindert, dass Objekte ihre interne Struktur über Accessor-Methoden exponieren, was dem [[Kopplung#Information Hiding|Information Hiding]] widerspricht.
+Durch diese Regel wird verhindert, dass Objekte ihre interne Struktur über Accessor-Methoden exponieren, was dem [[OOP/Kopplung#Information Hiding|Information Hiding]] widerspricht.
 
 Dass heisst:
 

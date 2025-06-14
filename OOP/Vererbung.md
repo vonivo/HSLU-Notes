@@ -13,8 +13,8 @@ Bei einer guten Vererbung stimmt die folgende Aussage:
 	- Ein Apfel ist ein Obst
 
 
-**Vererbung ist die stärkste Art der [[Kopplung]] innerhalb der Objektorientierung**
-- Eine lose [[Kopplung]] ist aber das Ziel
+**Vererbung ist die stärkste Art der [[OOP/Kopplung]] innerhalb der Objektorientierung**
+- Eine lose [[OOP/Kopplung]] ist aber das Ziel
 - [[Designprinzipien|Designprinzip]]: Favor Composition over Inheritance (FCoI)
 
 

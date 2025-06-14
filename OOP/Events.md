@@ -1,4 +1,4 @@
-- Obeserverpattern zum verhindern von zirkulären Beziehungen (starke [[Kopplung]])
+- Obeserverpattern zum verhindern von zirkulären Beziehungen (starke [[OOP/Kopplung]])
 - Beispiel: Ein Objekt will ein anderes Objekt darüber informieren das es einen Status Change gab
 
 

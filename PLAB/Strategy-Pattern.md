@@ -1,4 +1,4 @@
-Das Strategy-Pattern ist ein Design-Pattern, welches zusammengehörige Algorithmen gruppieren kann. Mit der Anwendung können Conditional-Statements wie Bsp. [[Switch als Go-To]] umgangen werden. Dies führt zu einer erhöhten [[Kohäsion]] sowie einer loseren [[Kopplung]].
+Das Strategy-Pattern ist ein Design-Pattern, welches zusammengehörige Algorithmen gruppieren kann. Mit der Anwendung können Conditional-Statements wie Bsp. [[Switch als Go-To]] umgangen werden. Dies führt zu einer erhöhten [[OOP/Kohäsion]] sowie einer loseren [[OOP/Kopplung]].
 
 **Beispiel** 
 Es wird ein `TaxCaluclator` benötigt, welcher die Steuern in einem spezifischen Land berechnet.

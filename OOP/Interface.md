@@ -4,7 +4,7 @@
 - Definieren einen validen Typ
 - Interfaces sind besonders nützlich da man Klassen als Interface [[Subtyping und Casting|casten]] kann und so über unterschiedliche Objekte die selbe Operation ausgeführt werden kann nur weil die alle dasselbe Interface implementieren ([[Polymorphie]])
 - Interfaces können überall wo eine [[Klasse]] deklariert wird genutzt werden ([[Lokale Variable|Lokale Variablen]], [[Attribut|Attribute]], [[Parameter]], etc.)
-- Interfaces tragen zu einer losen [[Kopplung]] bei
+- Interfaces tragen zu einer losen [[OOP/Kopplung]] bei
 	
 - Interfaces enthalten:
 	- Ausschliesslich [[Methode#Methodenkopf|Methodenköpfe]]

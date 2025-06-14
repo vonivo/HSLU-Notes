@@ -41,12 +41,12 @@ Der Methodenrumpf enthält die eigentlichen Implementation der Methode
 # Getter und Setter
 Getter und Setter sind standardmässige Methoden auf einer Klasse um auf den Inhalt von [[Zugriffsmodifizierer#private|private]] [[Attribut|Attributen]] zugreifen zu können. 
 
-[[Kopplung#Datenkapselung|Datenkapselung]] dadurch gegeben das durch die Getter und Setter Methoden die interne Implementation der Klasse verborgen wird. 
+[[OOP/Kopplung#Datenkapselung|Datenkapselung]] dadurch gegeben das durch die Getter und Setter Methoden die interne Implementation der Klasse verborgen wird. 
 
 Getter und Setter sollten [[Schlüsselwörter#Final|finalisiert]] werden.
 
 Sie sollte immer nur dann erstellt werden wenn sie wirklich gebraucht werden
-- Nicht Standardmässig für jedes Attribut erzeugen sonst wir das Prinzip der [[Kopplung#Datenkapselung|Datenkapselung]] verletzt. 
+- Nicht Standardmässig für jedes Attribut erzeugen sonst wir das Prinzip der [[OOP/Kopplung#Datenkapselung|Datenkapselung]] verletzt. 
 
 Mit Getter Methoden kann man die Werte von [[Attribut|Attributen]] auslesen
 Mit Setter Methoden kann man die Werte von [[Attribut|Attributen]] verändern

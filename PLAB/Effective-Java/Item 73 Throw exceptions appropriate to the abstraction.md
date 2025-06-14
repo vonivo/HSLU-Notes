@@ -1,5 +1,5 @@
 Es kann sein, dass gewisse Methoden eine [[Exceptionhandling|Exception]] werfen, welche eigentlich nichts mit der eigentlichen Aufgabe der [[Methode]] zu tun hat. 
-Dies kommt davon, dass diese (higher-level) [[Methode]] [[Exceptionhandling|Exceptions]] von verschachtelten (lower-level) Aufrufen einfach weiterleitet. (**Verschmutzt die API, da es Implementationsdetails bekannt gibt. (kein [[Kopplung#Information Hiding|Information Hiding]]**)
+Dies kommt davon, dass diese (higher-level) [[Methode]] [[Exceptionhandling|Exceptions]] von verschachtelten (lower-level) Aufrufen einfach weiterleitet. (**Verschmutzt die API, da es Implementationsdetails bekannt gibt. (kein [[OOP/Kopplung#Information Hiding|Information Hiding]]**)
 
 Wenn nun die **Implementation High-Level-API** geändert wird, ändern sich potenziell auch die [[Exceptionhandling|Exceptions]], was danach eine Änderung im Client verursacht.
 ## Exception Translation
