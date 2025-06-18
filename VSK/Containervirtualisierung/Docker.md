@@ -30,17 +30,17 @@ Mit Docker kann eine lauffähige Applikation **inklusive ihrer Laufzeitumgebung*
 ## Einsatz
 1. Spontanes, einfaches ausprobieren von (Server-)Anwendungen.
 	- Ohne zusätzliche Installation einfach OOTB.
-2. Nutzung als Buildumgebung für unterschiedliche, fremde, auf dem Host nicht installierte Plattforme
-	- Kann auch für eine gesammte Entwicklungsumgebung genutzt werden, **DEV-Containers**
-3. Deployment und Betrieb einer produktiven Anwenungen.
-	- Kompllet konfiguriert und lauffähiges Image.
+2. Nutzung als Buildumgebung für unterschiedliche, fremde, auf dem Host nicht installierte Plattform.
+	- Kann auch für eine gesamte Entwicklungsumgebung genutzt werden, **DEV-Containers**
+3. Deployment und Betrieb einer produktiven Anwendungen.
+	- Komplet konfiguriert und lauffähiges Image.
 	- Verteilung und Archivierung der Images in Registries/Repositories.
-4. Schnelle Flexible Testumgebung.
+4. Schnelle flexible Testumgebung.
 	- Integration in eigene Testfälle möglich (Testcontainer)
 
 
 ## Tools
 - `ctop`: Shell für die permanente Anzeige aller Container
 - `dive`: Shell-Tool für die Analyse von Images (praktisch für Fehlersuche)
-- `layzdocker`: Shell-Tools als ersatz für Docker-Desktop
-- `better-docker-ps`: Vermeidet Zeilenumbrücke bei `docker ps`
+- `layzdocker`: Shell-Tools als Ersatz für Docker-Desktop
+- `better-docker-ps`: Vermeidet Zeilenumbrüche bei `docker ps`

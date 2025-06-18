@@ -1,4 +1,4 @@
-Als Unit Testing bezeichnet man das Testen von einem Softwarekomponenten. Dabei testet man nur eine [[Methode]], [[Klasse]] bzw. Einheit. Unit Tests sollte klein, übersichtlich, einfach, schnell ausführbar und einfach automatisierbar sein. 
+Als Unit Testing bezeichnet man das Testen von einem Softwarekomponenten. Dabei testet man nur eine [[Methode]], [[Klasse]] bzw. Einheit. [[Unit Tests]] sollte klein, übersichtlich, einfach, schnell ausführbar und einfach automatisierbar sein. 
 
 Wichtig:
 - Aussagekräftige Test
