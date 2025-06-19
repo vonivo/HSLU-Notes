@@ -66,7 +66,7 @@ Die Gegenstelle ist nicht erreichbar **vor** Aufbau der Verbindung:
 >Problematisch, wenn Client Ressource wie z.B. bei NFS blockiert.
 
 
-## Fehlende Konsitenz bei Duplikaterkennung
+## Fehlende [[Konsitenz]] bei Duplikaterkennung
 ![[Duplikaterkennung.png]]
 - Wie wird sichergestellt, dass Sequenznummer $N$ verarbeitet **und** markiert wird?
 
