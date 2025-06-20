@@ -6,7 +6,7 @@ Durch CI:
 	- Erlaubt Continious Testing.
 - Bei Fehler jeder Art soll möglichst schnell Feedback erteilt werden.
 	- Primär durch [[Unit Tests]] und [[Integrationtests mit JUnit|Integrationtests]]
-	- Aber auch durch Compiler, Classpath, statische Codeanalyse, etc.
+	- Aber auch durch Compiler, Classpath, [[Statische Codeanalyse|statische Codeanalyse]] etc.
 - Im Team parallel entwickelt werden können.
 	- Behalten von Überblick.
 	- Integrationsaufwand minimiren (small steps)
