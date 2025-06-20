@@ -104,9 +104,16 @@
         "a": 1,
         "rgb": 6084269
       }
+    },
+    {
+      "query": "path:VSK  ",
+      "color": {
+        "a": 1,
+        "rgb": 6073814
+      }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": true,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1.08255208333333,
@@ -116,6 +123,6 @@
   "repelStrength": 12.3958333333333,
   "linkStrength": 0.84375,
   "linkDistance": 226,
-  "scale": 0.010952991388875885,
+  "scale": 0.007812500000000002,
   "close": false
 }
