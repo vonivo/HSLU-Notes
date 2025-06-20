@@ -2,7 +2,7 @@
 
 Die einzelnen Schritte für die Erstellung eines Docker-Images werden in einem **Dockerfile** beschrieben (Textdatei mit dem Namen `Dockerfile`)
 - Dadurch wird der Erstellungsprozess Reproduzierbar.
-- Dockerfile wird versioniert via VCS.
+- Dockerfile wird versioniert via [[Versionskontrollsysteme|VCS]].
 
 **Beispiel**
 **Image**

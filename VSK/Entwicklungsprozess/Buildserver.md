@@ -57,7 +57,7 @@ Es sollte eine **saubere Trennung** zwischen den Technologien bestehen:
 	- Auch für zeitintensive Tests und Metriken.
 	- => Am Morgen stehen umfassende Resultate zur Verfügung.
 - **Release**: Manuell Ausgelöst
-	- Build einer auslieferbaren Version, im VCS getaggged.
+	- Build einer auslieferbaren Version, im [[Versionskontrollsysteme|VCS]] getaggged.
 	- => Reproduzierbarkeit gewährleisten.
 
 ## Integration

@@ -1,3 +1,7 @@
+---
+aliases:
+  - VCS
+---
 **Ziel**: Abfolge aller Bearbeitungsschritte an Artefakten benutzerbezogen und detailliert zeitlich **nachvollziehen** zu können.
 
 Ein VCS hält die verschiedenen Revisionen fest und erlaubt jederzeit eine vorhergegangene Revision aufzurufen.
