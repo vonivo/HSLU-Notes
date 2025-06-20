@@ -25,4 +25,4 @@ Beispiel für das Logger-Projekt:
 | Schnittstellendefinition       | Java-Interfaces, [[gRPC]]                                               |
 | Kommunikation und Verteilung   | Lokal: SharedMemory / Methodenaufrufe<br>Verteilt: [[RPC]] (via TCP/IP) |
 | Komposition und Auffindbarkeit | - Service Provider<br>- Spring<br>- Hostname / Port                     |
-| Deployment                     | Container und Jar                                                       |
+| Deployment                     | Container und [[Jar]]                                                       |

@@ -22,9 +22,9 @@ Abhängigkeiten werden in binäre (kompilierter) Form aufgelöst. Diese werden i
 >Zentrale Ablage auf einem Server, ein standardisiertes Format, zusätzliche Metainformationen, typische mit Abhängigkeiten versehen, Sicher der Konsisten (z.B. [[Hashfunktionen]]) geregelte Zugriffsprotokolle, Suchmöglichekeiten, etc.
 
 ## Java
-- Binäre Module werden bei Java typisch als JAR-Datein ausgetauscht.
+- Binäre Module werden bei Java typisch als [[JAR]]-Datein ausgetauscht.
 - Java umfasst seit Version 9 Mechanismen zur Modularisierung und Definition von Abhängigkeiten, umfasst aber nicht die Versionierung und die Ablage.
 - Ursprünglich wurden von Hand JARs ins `/lib` verzeichnis kopiert und dem Classpath hinzugefüt.
 	- Fehleranfällig
-	- JAR-Hell bei vielen Dateien und [[Transitive Dependency|transitiven Abhängigkeiten]].
+	- [[JAR]]-Hell bei vielen Dateien und [[Transitive Dependency|transitiven Abhängigkeiten]].
 

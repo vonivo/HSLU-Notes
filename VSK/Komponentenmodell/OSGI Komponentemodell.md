@@ -5,7 +5,7 @@ OSGI ist verbreitet und wird z.B. von NetBeans, Confluence und Jira, etc. verwen
 ### Bundle
 In OSGI ist Bundle die Bezeichnung von Komponenten bzw. Modulen.
 - Komponenten sowie Schnittstellen werden als Bundles ausgeliefert.
-- Ein Bundle wird immer als JAR mit einem Manifest`META-INF/MANIFEST.MF` ausgeliefert.
+- Ein Bundle wird immer als [[JAR]] mit einem Manifest`META-INF/MANIFEST.MF` ausgeliefert.
 
 **Beispiel Manifest**
 ```yml
@@ -96,4 +96,4 @@ context.ungetService(serviceReference);
 | Schnittstellendefinition       | Java-Interfaces                                                                                    |
 | Kommunikation und Verteilung   | Method Calls                                                                                       |
 | Komposition und Auffindbarkeit | -Import/Export von Interfaces<br>- Service-Registry<br>- Isolation der nicht exportierten Packages |
-| Deployment                     | - Einzelne JARs<br>- Bundle JAR                                                                    |
+| Deployment                     | - Einzelne JARs<br>- Bundle [[JAR]]                                                                    |

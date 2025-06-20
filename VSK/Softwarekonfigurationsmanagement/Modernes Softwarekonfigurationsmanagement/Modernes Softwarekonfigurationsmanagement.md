@@ -4,7 +4,7 @@ Modernes [[Softwarekonfigurationsmanagement]] besteht aus folgenden Teilen:
 - [[Environment Configuration]]
 - [[Change Control]]
 - [[Release Management]]
-- [[Deployment]]
+- [[VSK/Softwarekonfigurationsmanagement/Modernes Softwarekonfigurationsmanagement/Deployment]]
 
 Ein Softwareentwicklungsprozess wird oft durch eine Pipeline mit verschiedenen Stages repräsentiert. Ziel ist, dass alle **Input-** und **Output-Artefakte** exakt **identifizierbar** und **reproduzierbar sind**. (Pipeline ist möglichst vollständig automatisiert, siehe Dev-Ops)
 

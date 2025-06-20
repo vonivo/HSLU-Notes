@@ -61,6 +61,6 @@ Möglichkeiten zur Konfiguration:
   - Normale Webservices im Applikationsserver
 - Bündeln mit vollwertigem Applikationsserver
   - Komplex benötigt viele Ressourcen
-- Ausführbares JAR inklusive Server
+- Ausführbares [[JAR]] inklusive Server
   - nicht Technologie neutral
 - Container-Images mit allen Abhängigkeiten

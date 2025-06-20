@@ -9,7 +9,7 @@ System `S` prüft, ob Partei `P` diejenige ist, welche sie vorgibt zu sein, inde
 Überprüfen, ob eine authentifizierte Partei berechtigt ist, auf eine Ressource zuzugreifen.
 
 Authentifiziert wird in der Regel eine [[Session]] welche für eine Partei `P` steht.
-Ist die Authentifizierung erfolgreich, wird die Session meist mit einem Bentuzer verknüpft.
+Ist die Authentifizierung erfolgreich, wird die Session meist mit einem Benutzer verknüpft.
 ```java
 void login(Message message) {
 	String account = message.getAccount();

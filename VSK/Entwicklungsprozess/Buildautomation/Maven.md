@@ -22,7 +22,7 @@ Der von Maven definierte Lifecycle ist in folgende Phasen aufgebaut und ist aufb
 1. **validate**: Validiert Projektdefinition
 2. **compile**: Kompilation der Quellen
 3. **test**: Ausführen der Unit-Tests
-4. **package**: Paketieren der Distribution (JAR ,EAR, WAR etc.)
+4. **package**: Paketieren der Distribution ([[JAR]] ,EAR, WAR etc.)
 5. **verify**: Ausführen der Integrations-Tests
 6. **install**: Deployment in lokales `.m2`-Repo
 7. **deploy**: Deployment in zentrales Repository

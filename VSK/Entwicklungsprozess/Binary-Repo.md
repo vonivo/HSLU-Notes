@@ -19,6 +19,6 @@ Beispielweise können mit [[Build-Werkzeug|Gradle]] ebenfalls Dependencies aus d
 => Das Format des Repositories ist zum Quasi-Standard geworden.
 
 ## Deployment
-- Deployment meistens als JAR.
+- Deployment meistens als [[JAR]].
 - Um Stabilität von Builds zu gewährleisten, dürfen für gewöhnlich keine Versionen gelöschen werden.
 - Auch manuelles Deployen ist meisten nicht erlaubt, sonder es wird **nur durch einen automatischen verifizierbaren Release-Prozess** welcher von einem [[Buildserver]] ausgeführt wird, deployed.
