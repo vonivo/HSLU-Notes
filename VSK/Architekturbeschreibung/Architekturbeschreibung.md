@@ -72,7 +72,7 @@ Zu den Querschnittstehmen gehören folgende Punkte:
 	- Beziehungen der persistenten Daten ([[Entity Relationship Model (ER-Modell)]])
 	- Wie werden die Daten gespeichert?
 	- Wie wird die Konsistenz sichergestellt.
-- **[[Teststrategie]]**
+- **[[VSK/Integrations und Systemtests/Teststrategie]]**
 	- Wie wird das System und die Komponenten getestet.
 - **Wichtige Schnittstellen**
 	- Interne Schnittstellen zwischen Komponenten.

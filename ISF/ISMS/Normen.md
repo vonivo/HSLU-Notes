@@ -1,4 +1,4 @@
-Normen (Standards) (z.B. [[ISO]]) stehen zur Anwendung frei und können freiwillig Zertifiziert werden.
+Normen (Standards) (z.B. [[ISF/ISMS/ISO]]) stehen zur Anwendung frei und können freiwillig Zertifiziert werden.
 
 -> Sobald Normen einen Vertragsbestandteil sind, sind sie rechtlich bindend.
 

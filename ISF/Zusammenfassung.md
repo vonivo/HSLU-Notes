@@ -22,7 +22,7 @@ toc: "true"
 [[Risiko Evaluation]]
 
 [[Normen]]
-[[ISO]]
+[[ISF/ISMS/ISO]]
 [[ISMS]]
 [[NIST-CSF (Cybersecurity-Framework)]]
 [[BSI]]

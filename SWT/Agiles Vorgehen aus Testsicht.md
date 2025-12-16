@@ -1,0 +1,10 @@
+- PO hat (zu) grosse Verantwortung
+- Es gibt Akzeptanzkriterien
+- Es gibt eine [[Definition of Done]] und eine [[Definition of Ready]]
+- Es darf/ muss Teststories geben
+	- Codereviews
+	- Testanalyse
+	- Testdesign
+	- Tests bauen
+	- Testdaten
+	- Testen

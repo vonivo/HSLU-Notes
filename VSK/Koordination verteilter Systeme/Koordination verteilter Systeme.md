@@ -14,6 +14,6 @@ Interrupts in bestimmten Intervallen (Tick).
 da Quarzkristalle mit unterschiedlicher Qualität verwendet werden (-> Unterschiedliche Frequenzen). Das nennt man Uhrasymmetrie.
 
 Methodne zur Synchronisation:
-- [[Algorithmus von Cirstion]]
+- [[Algorithmus von Cirstian]]
 - [[Berkley-Algorithmus]]
 - [[Network Time Protocol - NTP]]
