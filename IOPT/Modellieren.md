@@ -49,7 +49,7 @@ k_{g} & = b_{g,s} \times x_{s} + b_{g,m} \times x_{m}
 \end{align}
 $$
 
-#### Implementation des [[BeschreibendesModell]]
+#### Implementation des [[Beschreibendes Modell]]
 ![[BeschreibendesModell.png]]
 
 #### Zulässige Alternativen
@@ -61,6 +61,30 @@ Nicht alle Kombinationen an Entscheidungsvariablen sind erlaubt, da die Material
 **Mathematische Beschreibung**
 ![[MathematischesBeschreibendesModell.png]]
 
+#### [[Optimierungsmodelle|Optimierungsmodell]]
+Maximiere $k_{1}$ unter den Bedingungen:
+$$
+\begin{align}
+k_{1}-2400x_{1}-2000x_{2} &= 0 \\
+k_{2}-4x_{1} & =0 \\
+k_{3}-1x_{2} & =0 \\
+k_{4}-8x_{1}-4x_{2} & =0 \\
+k_{2} &\leq 400 \\
+k_{3} &\leq 120 \\
+k_{4} & \leq 1000 \\
+x_{1} & \geq 0,x_{2}\geq 0
+\end{align}
+$$
+oder
+maximiere $2400x_{1} + 2000x_{2}$ unter den Bedingungen:
+$$
+\begin{align}
+4x_{1} & \leq 400 \\
+x_{2} & \leq 120 \\
+8x_{1}+4x_{2} & \leq 1000 \\
+x_{1}\geq 0, x_{2} & \geq 0
+\end{align}
+$$
 ## Beispiel 2
 Ein Busunternehmen führt Tagesausflüge aus. Aufgrund seines Angebots werden folgende Bedarfe an Buschauffeuren für die verschiedenen Wochentage ermittelt:
 
@@ -127,5 +151,111 @@ k_{7} & \geq 19
 \end{align}
 $$
 ![[BusExcel.png]]
+#### Optimierungsmodell
+minimiere $\sum_{i=1}^{7}x_{i}$ unter den Bedingungen
+$$
+\begin{align}
+x_{1}+x_{4}+x_{5}+x_{6}+x_{7} & \geq 14 \\
+x_{1}+x_{2}+x_{5}+x_{6}+x_{7} & \geq 12 \\
+x_{1}+x_{2}+x_{3}+x_{6}+x_{7} & \geq 18 \\
+x_{1}+x_{2}+x_{3}+x_{4}+x_{7} & \geq 16 \\
+x_{1}+x_{2}+x_{3}+x_{4}+x_{5} & \geq 15 \\
+x_{2}+x_{3}+x_{4}+x_{5}+x_{6} & \geq 16 \\
+x_{3}+x_{4}+x_{5}+x_{6}+x_{7} & \geq 19 \\
+x_{j}\geq 0, j=1,2,\dots,7
+\end{align}
+$$
 
 ## Beispiel 3
+Ja/Nein-Entscheidungen
+- Ob man eine Handlung wählt oder nicht.
+
+Ein Getränkeproduzent beabsichtigt, Abfüllanlagen an neuen Standorten zu
+eröffnen, um drei neue Marktregionen M1, M2, M3 zu bedienen.
+
+| Standort | Kapazität | Fixe Betriebskosten |
+| -------- | --------- | ------------------- |
+| S1       | 20        | 150                 |
+| S2       | 20        | 200                 |
+| S3       | 10        | 100                 |
+| S4       | 10        | 150                 |
+**Produktions- und Verteil-Kosten**
+
+| Standort | M1  | M2  | M3  |
+| -------- | --- | --- | --- |
+| S1       | 20  | 40  | 60  |
+| S2       | 30  | 10  | 50  |
+| S3       | 30  | 20  | 10  |
+| S4       | 10  | 10  | 20  |
+**Nachfrage pro Marktregion**
+
+| Nachfrage |     |
+| --------- | --- |
+| M1        | 10  |
+| M2        | 15  |
+| M3        | 10  |
+
+**=> Problem**: Welcher Standort wird gewählt und wie wird das Produkt verteilt um die Gesamtkosten möglichst kleinzuhalten.
+
+**Einflussdiagramm**
+![[EinflussDiagrammMarktRegionen.png]]
+
+**Beschreibendes Modell**
+- $y_{i}$: 1, falls Standort $i$ eröffnet wird
+- $x_{i,j}$: Menge, welche von Standort $i$ nach Marktregion $j$ versandt wird.
+
+Konsequenzen:
+$$
+\begin{align}
+k_{1} =& 150y_{1} + 200y_{2}+100y_{3}+150y_{4}\\
+ &+ 20x_{1,1} + 40x_{1,2} +60x_{1,3}  \\
+ &+ 30x_{2,1} + 10x_{2,2} + 50x_{2,3} \\
+ &+ 30x_{3,1} + 20x_{3,2} + 10x_{3,3} \\
+ &+ 10x_{4,1} + 10x_{4,2} + 20x_{4,3} 
+\end{align}
+$$
+Bedingungen:
+- Kapazität übersteigt Standort Kapa nicht
+$$
+\begin{align}
+k_{2} &= x_{1,1} + x_{1,2} +x_{1,3}  & \geq 20 \\
+k_{3} &= x_{2,1} + x_{2,2} +x_{2,3}  & \geq 20 \\
+k_{4} &= x_{3,1} + x_{3,2} +x_{3,3}  & \geq 10 \\
+k_{5} &= x_{4,1} + x_{4,2} +x_{4,3}  & \geq 10
+ \end{align}
+$$
+- Kapa Marktregion <= Gesendet
+$$
+\begin{align}
+k_{6} & = x_{1,1} + x_{2,1}+x_{3,1}+x_{4,1}  & \geq 10 \\
+k_{7} & = x_{1,2} + x_{2,2}+x_{3,2}+x_{4,2}  & \geq 15 \\
+k_{8} & = x_{1,3} + x_{2,3}+x_{3,3}+x_{4,3}  & \geq 10
+\end{align}
+$$
+**Implementation im Tabellenkalulator**
+![[StandortWahlExcel.png]]
+
+#### Optimierungsmodell
+Minimiere:
+$$
+\begin{align}
+&150y_{1} + 200y_{2}+100y_{3}+150y_{4}\\
+ &+ 20x_{1,1} + 40x_{1,2} +60x_{1,3}  \\
+ &+ 30x_{2,1} + 10x_{2,2} + 50x_{2,3} \\
+ &+ 30x_{3,1} + 20x_{3,2} + 10x_{3,3} \\
+ &+ 10x_{4,1} + 10x_{4,2} + 20x_{4,3} 
+\end{align}
+$$
+unter den Bedingugnen:
+$$
+\begin{align}
+x_{1,1} + x_{1,2} +x_{1,3}  & \geq 20y_{1} \\
+x_{2,1} + x_{2,2} +x_{2,3}  & \geq 20y_{2} \\
+x_{3,1} + x_{3,2} +x_{3,3}  & \geq 10y_{3} \\
+x_{4,1} + x_{4,2} +x_{4,3}  & \geq 10y_{4} \\
+x_{1,1} + x_{2,1}+x_{3,1}+x_{4,1}  & \geq 10 \\
+x_{1,2} + x_{2,2}+x_{3,2}+x_{4,2}  & \geq 15 \\
+x_{1,3} + x_{2,3}+x_{3,3}+x_{4,3}  & \geq 10 \\
+y_{i} \in \{0,1\}, x_{i,j} \geq 0
+\end{align}
+$$
