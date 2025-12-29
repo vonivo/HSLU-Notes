@@ -27,8 +27,8 @@ Mit einem Optimierungsmodell werden genau die oben geannten Punkte übernommen. 
 
 ## Typen von Optimierungsmodellen
 **Mathematische Programmierung**
-- Lineare Programmierung / nicht-linear Programmierung
-- Ganzzahlige / gemischt ganzzahlige lineare Programmierung
+- [[Lineare Optimierungsmodelle|Lineare Programmierung]] / nicht-linear Programmierung
+- [[Ganzzahlig Lineare Optimierungsmodelle|Ganzzahlige]] / gemischt ganzzahlige lineare Programmierung
 => Solver typischerweise basierend auf algebraischen / arithmetischen Konzepten
 
 **Kombinatorische Optimierung**
