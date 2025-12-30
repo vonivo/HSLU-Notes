@@ -92,3 +92,27 @@ $$
 	   $M \to$ grosse konstante Zahl
 
 ## Funktionen
+
+### Modellierung von Fixkosten
+Bei der Modellierung von Fixkosten gibt es eine Entscheidungsvariable $x$ welche die Produktionsmenge angbit. 
+Die Produktionskosten werden mit einer Sprungfunktion $f(x)=\begin{cases}0 \text{ falls }x= 0 \\ a+bx \text{ falls } x>0\end{cases}$
+modelliert. Diese Funktion ist nicht linear.
+
+1. Führe Entscheidungsvariable $y$ ein: $y=1$ falls eine positive Menge produziert wird und $0$ sonst.
+2. Es muss nun gelten $x\leq My$. Dabei ist $M$ eine Konstante.
+3. Funktion $f(x)$ kann nun wie folgt modelliert werden: $f(x)=ay+bx$
+### Ordered Set of Type 1
+![[OrderedSetOfType1.png]]
+1. Es wird eine Entscheidungsvariable eingeführt, die angibt welche Menge gekauft wird. $x$
+2. Falls die Menge von $x$ einer gewissen Anzahl übersteigt, wird ein anderer Rabatt gewährt.
+3. Führe pro Rabatt-Sektor eine binäre Variable $y_{i}$ ein, welche angibt, ob wird den Stückpreis in Sektor $i$ bezahlen.
+4. Führe pro Rabatt-Sektor eine kontinuierliche Entscheidungsvariable $x_{i}$ ein, wobei $x_{i}$ die Menge angibt, welche wir zum Einheitspreis $a_{i}$ erhalten.
+5. Nun müssen folgende Bedingungen gelten:
+$$
+\begin{align}
+x&=x_{1}+x_{2}+x_{3} \\
+1 & =y_{1}+y_{2}+y_{3} \\
+b_{i-1}\times y_{i}\leq &x_{i}\leq b_{i}\times y_{i}
+\end{align}
+$$
+6. Die Kostenfunktion ist dann $f(x)=a_{1}x_{1}+a_{2}x_{2}+a_{3}x_{3}$

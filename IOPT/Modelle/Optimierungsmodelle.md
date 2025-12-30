@@ -27,7 +27,7 @@ Mit einem Optimierungsmodell werden genau die oben geannten Punkte übernommen. 
 
 ## Typen von Optimierungsmodellen
 **Mathematische Programmierung**
-- [[Lineare Optimierungsmodelle|Lineare Programmierung]] / nicht-linear Programmierung
+- [[Lineare Optimierungsmodelle|Lineare Programmierung]] / [[Nicht-Lineare Optimierungsmodelle|nicht-linear Programmierung]]
 - [[Ganzzahlig Lineare Optimierungsmodelle|Ganzzahlige]] / gemischt ganzzahlige lineare Programmierung
 => Solver typischerweise basierend auf algebraischen / arithmetischen Konzepten
 
@@ -35,7 +35,7 @@ Mit einem Optimierungsmodell werden genau die oben geannten Punkte übernommen. 
 - „Standard“-Modelle, im allg. in Graphen (Wege, Zyklen (Bsp. Handelsreisendenproblem), Bäume, Flüsse, Matching, usw.)
 - Anwendungsspezifische Modelle (sehr zahlreich) und Optimierungsalgorithmen (Solver)
 
-**Constraint Programming**
+**[[Constraint Programming Modelle|Constraint Programming]]**
 - Generischere Modellierkonstrukte (z.B. global constraints) als in der mathematischen Programmierung
 - Deshalb meist kompakte, leserliche Modelle
 - Solver typischerweise basierend auf arithmetischen und logischen Konzepte
