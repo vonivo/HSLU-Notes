@@ -24,7 +24,7 @@ x1 = model.NewIntVarFromDomain(cp_model.Domain.FromValues([1,3,4,6]), 'x1')
 x2 = model.NewIntVarFromDomain(cp_model.Domain.FromIntervals([[1,2],[4,6]]), 'x2')
 ```
 ### Speziell strukturierte Variablen
-- **Mengenvariablen**: Nimmt eine Menge von Werten als Wert an.
+- **Intervall Variablen**: Nimmt eine Menge von Werten als Wert an.
 	- Beispiel: Intervallvariable: Nimmt eine Menge von Werten in einem Intervall an (Für Scheduling)
 		```python
 		duration = 5
@@ -32,7 +32,7 @@ x2 = model.NewIntVarFromDomain(cp_model.Domain.FromIntervals([[1,2],[4,6]]), 'x2
 		endVar = model.NewIntVar(0,30,'endX')
 		intervalVar = model.newIntervalVar(startVar, duration, endVar, 'intervalX)
 		```
-
+=> Werden of im **Scheduling** gebraucht.
 ## Bedinungen
 - **Algebraische Ausdrücke**
 ```python

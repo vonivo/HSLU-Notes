@@ -6,7 +6,7 @@ Ein Prosses ist ein laufendes Programm inklusive seiner Umgebung.
 
 - Das Wechseln zwischen zwei Prozessen wird als **Context Switching** bezeichnet. ^48789b
 	- das braucht Zeit → [[Multithreading]]
-- Ein [[Scheduling]] [[Algorithmus]] bestimmt welcher Prozess wann bearbeitet wird 
+- Ein [[CNA/Betriebssystem/Scheduling]] [[Algorithmus]] bestimmt welcher Prozess wann bearbeitet wird 
 
 # Prozessaufbau
 Ein Prozess kann man auf verschiedene Weise betrachten:

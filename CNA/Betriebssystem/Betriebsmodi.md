@@ -1,4 +1,4 @@
-Ein [[Rechner]] kann mehrere Betriebsmodi habe nach denen das [[Betriebssysteme|Betriebssystem]] arbeitet. Diese haben ein Einfluss auf das [[Scheduling]].
+Ein [[Rechner]] kann mehrere Betriebsmodi habe nach denen das [[Betriebssysteme|Betriebssystem]] arbeitet. Diese haben ein Einfluss auf das [[CNA/Betriebssystem/Scheduling]].
 
 - **Stapelverarbeitung** (Batch Job):
 	- Es werden fest definierte Rechenaufgaben ohne Benutzerinteraktion erledigt. Start der Aufgaben entweder per OS-Kommando oder zeitgesteuert mit einem Cron Job
