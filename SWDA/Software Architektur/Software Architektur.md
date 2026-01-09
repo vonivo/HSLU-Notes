@@ -30,7 +30,7 @@ Die Beziehung dieser Komponenten kann sich auf folgendes belaufen:
 - Grundlegende Struktur:
 	- Schichten, Client/Server, n-Tiers Services etc.
 	- Art der Applikation und des Deployments (**äussere Struktur**)
-	- Architekturmuster und -prinzipien(**innere Struktur**)
+	- [[Architekturmuster]] und -prinzipien(**innere Struktur**)
 - Kommunikation und Verteilung
 	- Verteilbarkeit, Parallelität, Performance, Robustheit, Resilienz
 	- Kommunikationsmuster (**Synchron/Asynchron**)
