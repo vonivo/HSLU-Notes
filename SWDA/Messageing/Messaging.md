@@ -2,7 +2,7 @@
 aliases:
   - Message
 ---
-Ein Message-basierte [[SWDA/Software Architektur/Microservices|Microservice Architektur]] kommuniziert, indem verschiedene Messages durch das System geschickt werden.
+Ein Message-basierte [[Microservice Architektur|Microservice Architektur]] kommuniziert, indem verschiedene Messages durch das System geschickt werden.
 
 Messages können dabei eine Antwort oder weitere Messages auslösen.
 

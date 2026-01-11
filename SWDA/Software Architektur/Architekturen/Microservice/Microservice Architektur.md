@@ -1,3 +1,4 @@
+
 Ein [[Monolithische Architektur|Monolith]] ist auf einem hohen Abstraktionslevel einfach ein Haufen Methoden, welche sich gegenseitig aufrufen.
 
 ![[MSA1.png]]

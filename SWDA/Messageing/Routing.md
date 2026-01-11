@@ -1,4 +1,4 @@
-In einem [[Messaging|Message]]-basierten System kommunizieren [[SWDA/Software Architektur/Microservices|Services]] nicht direkt miteinander, sondern kommunizieren über einen [[Message Broker]].
+In einem [[Messaging|Message]]-basierten System kommunizieren [[Microservice Architektur|Services]] nicht direkt miteinander, sondern kommunizieren über einen [[Message Broker]].
 
 Dadurch muss ein Service den Empfänger nicht kennen.
 

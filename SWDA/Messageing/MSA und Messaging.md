@@ -1,4 +1,4 @@
-Wie soll ein Service in einer [[Service Oriented Architektur]] aufgerufen werden?
+Wie soll ein Service in einer [[VSK/Komponentenmodell/Microservices|Microservice Architektur]] aufgerufen werden?
 ```java
 double MyService(double a, int b)
 ```
