@@ -17,7 +17,7 @@ Folgende Fragen sind wichtig:
 - Exceptions nie für die normale Steuerung eines Programms verwenden (Ressourcen intensiv)
 - So wenig eigene Exceptiontypen wie möglich verwenden 
 - Keine leeren catch Blöcke verwenden
-- [[Logging]] um Fehler festzuhalten
+- [[OOP/Logging]] um Fehler festzuhalten
 - Fehlerbehandlung testen [[Exceptiontesting]]
 # Prinzip
 Auslösen: 

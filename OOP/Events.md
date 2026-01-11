@@ -71,7 +71,7 @@ Listener implementiert Listener [[Interface]] (Hier Property Change Listener)
 public class Fahrzeug implements PropertyChangeListener { ... }
 ```
 
-Methoden auf dem Listener (Fahrzeug) zum abhandeln der Motor Events (hier nur [[Logging]]). `propertyChange` wird hier vom [[Interface]] PropertyChangeListener geerbt (Java [[Interface]]).
+Methoden auf dem Listener (Fahrzeug) zum abhandeln der Motor Events (hier nur [[OOP/Logging]]). `propertyChange` wird hier vom [[Interface]] PropertyChangeListener geerbt (Java [[Interface]]).
 Diese Code Beispiel könnte noch erweitert werden wenn das Fahrzeug von mehreren Quellen Events bekommen könnte. Dafür würde man einfach ein weiteres `ìf (event.getSource() == this.blaBla`
 
 ```java

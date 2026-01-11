@@ -64,4 +64,4 @@ Auch mit Systemd können wiederkehrende Jobs erstellt werden.
 Timer sind systemd-Units, die auf `.timer` enden und die `.service`-Dateien oder Ereignisse steuern.
 
 Damit die Timer-Unit eine andere Unit aktiviert, muss der Name der Unit gleich sein.
-Die Ereignisse werden im [[Logging|Systemjournal]] gespeichert.
+Die Ereignisse werden im [[OOP/Logging|Systemjournal]] gespeichert.

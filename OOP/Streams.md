@@ -49,7 +49,7 @@ IntStream.range(0,10);
 ```
 Diese sollte unbedingt verwendet werden da sie einen viel effizientere Umgang mit elementaren Datentypen erlauben
 ## Beispiel
-In diesem Beispiel wird in einem Verlauf aus Temperaturen Werte herausgefiltert, die Liste sortiert und [[Logging|geloggt]]. 
+In diesem Beispiel wird in einem Verlauf aus Temperaturen Werte herausgefiltert, die Liste sortiert und [[OOP/Logging|geloggt]]. 
 
 ```java
 verlauf.stream()

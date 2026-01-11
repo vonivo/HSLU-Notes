@@ -105,7 +105,7 @@ switch (value) {
 ```
 
 #### Updated (Java 14)
-Mit Java 14 kamen diverse Neuerungen. In diesem Beispiel wird basierend auf dem value ausgegeben ob es sich bei dem Tag um ein Arbeitstag oder ein Wochenende handelt. Diese werte werden im String daytime gespeichert. Falls das value nicht ein gültiger Wochentag ist (z.B 8) wird hier noch [[Logging|geloggt]] um in dem Beispiel die Codeblöcke sinnvoll zu demonstrieren. 
+Mit Java 14 kamen diverse Neuerungen. In diesem Beispiel wird basierend auf dem value ausgegeben ob es sich bei dem Tag um ein Arbeitstag oder ein Wochenende handelt. Diese werte werden im String daytime gespeichert. Falls das value nicht ein gültiger Wochentag ist (z.B 8) wird hier noch [[OOP/Logging|geloggt]] um in dem Beispiel die Codeblöcke sinnvoll zu demonstrieren. 
 
 ```java
 String daytype = switch (value) {  
