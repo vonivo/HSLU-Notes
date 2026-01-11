@@ -15,5 +15,5 @@ Die Daten und die Applikation sind dabei **getrennt.**
 **Client-Arten**
 - Native Client
 - MemCache-Client
-- REST-Client
+- [[Representational State Transfer (REST)|REST]]-Client
 - etc.

@@ -10,7 +10,7 @@ Für die Betrachtung hilft eine Unterteilung in zwei verschieden Kommunikationen
 ## Client zu (Port)Service
 Clients (z.B. UI) mit den (Port-)Microservices.
 
-In der Praxis wird hier oft REST-basierende Kommunikation mit JSON und XML verwendet.
+In der Praxis wird hier oft [[Representational State Transfer (REST)|REST]]-basierende Kommunikation mit JSON und XML verwendet.
 
 Mehrheitlich wird **synchrone** Kommunikation verwendet, weil der Client unmittelbar Feedback erwartet.
 
