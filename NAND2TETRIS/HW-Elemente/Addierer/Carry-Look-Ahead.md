@@ -1,0 +1,2 @@
+Der Carry-Look-Ahead Addieren ist die Verbesserung des [[Ripple Carry Adder]] welcher die Carry-Bits über eine Komplexere Schaltung bereits vorberechnen kann, dadurch wird der Addierer Schneller, da parallel gearbeitet werden kann.
+![[Pasted image 20260615153018.png]]

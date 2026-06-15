@@ -5,7 +5,7 @@ Die direkte **A**dressierung ist ein Adressierung auf eine **absolute Adresse**
 
 Beispiel: LDA $0800
 
-Hier wird der Wert hinter der [[Zahlensysteme|Hexadezimalen]]-Adresse 0800 geladen.
+Hier wird der Wert hinter der [[CNA/Rechenarchitekturen/Zahlensysteme|Hexadezimalen]]-Adresse 0800 geladen.
 
 ## Registeradressierung
 Bei der Registeradressierung wird nicht der Speicher über eine Adresse angesprochen, sonder es wird der Wert eines Registers geladen.
