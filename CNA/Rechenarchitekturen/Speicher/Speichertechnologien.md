@@ -4,7 +4,7 @@ Um Daten zu speichern, gibt es verschieden Möglichkeiten und Arten von [[Speich
 Zum Solid-State-Speicher zählen Speicher, bei welchen keine Teile in Bewegung sind.
 
 Dazu gehören:
-- [[RAM]]
+- [[CNA/Rechenarchitekturen/Speicher/RAM]]
 - [[Flashspeicher]]
 - ROM
 

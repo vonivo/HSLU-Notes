@@ -1,0 +1,2 @@
+Der Hack-Computer ist eine [[Von-Neuman-Architektur|von Neumann Plattform]].
+Die Maschine ist eine 16-Bit-Maschine, bestehend aus einer CPU, zwei separaten Speichermodulen, die als Befehls- und Datenspeicher dienen und zwei speicherbelegte I/O-Geräten: Bildschirm und Tastatur.

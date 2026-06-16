@@ -9,7 +9,7 @@ Bei einer speziellen Löschspannung wandern die Elektronen wieder zurück.
 
 
 >[!warning]
->Im Gegensatz zu [[RAM]] bleiben die Daten auch nach Entfernen der Versorgungspannung gespeichert und gehen nicht verloren.
+>Im Gegensatz zu [[CNA/Rechenarchitekturen/Speicher/RAM]] bleiben die Daten auch nach Entfernen der Versorgungspannung gespeichert und gehen nicht verloren.
 
 ## Beispiele:
 - BISO
