@@ -15,7 +15,7 @@
 Über das `a` Bit kann gesteuert werden, ob der eine Operand von Memory `M` oder vom Register `A` gelesenw erden soll. Wenn `a=1` wird `M` verwendet, sonst `A`.
 
 **C-Teil**
-Der C-Teil repräsentiert die **6** Steuerbits der [[Alu|Hack-ALU]].
+Der C-Teil repräsentiert die **6** Steuerbits der [[ALU|Hack-ALU]].
 ![[Pasted image 20260616193903.png]]
 
 **D-Teil**

@@ -1,4 +1,4 @@
-Ein Client Server Modell ist ein [[Verteilte Systeme| verteiltes System]] bestehen aus folgenden [[Rechner|Rechnern]]:
+Ein Client Server Modell ist ein [[Verteilte Systeme| verteiltes System]] bestehen aus folgenden [[CNA/Rechenarchitekturen/Rechner/Rechner|Rechnern]]:
 - Client → Nimmt Dienste in Anspruch
 - Server → bietet Dienstleistung an
 
@@ -10,7 +10,7 @@ Dabei kann die Aufteilung ziemlich beliebig sein. Der Client kann sowohl die Ben
 ![[Pasted image 20240530113533.png]]
 
 # Drei Stufen Architektur
-Bei der drei Stufen Architektur wird das System in drei [[Rechner]] aufgeteilt
+Bei der drei Stufen Architektur wird das System in drei [[CNA/Rechenarchitekturen/Rechner/Rechner]] aufgeteilt
 Dabei übernimmt der Client die Benutzeroberfläche, ein Applikationsserver die Applikation und ein Datenbankserver die Datenbank.
 ![[Pasted image 20240530113855.png]]
 

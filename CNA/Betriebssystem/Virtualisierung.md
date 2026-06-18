@@ -4,7 +4,7 @@ Als Virtualisierung bezeichnet man die Nachbildung einer realen Maschine mit ein
 Der Hypervisor kann auf einem Host-OS oder direkt auf der Hardware aufsetzen:
 ![[Pasted image 20240530121619.png]]
 
-- Der Desktop einer virtuellen Maschine kann über das Netz auf einem entfernten [[Rechner]] angezeigt werden (Remote Desktop Virtualization)
+- Der Desktop einer virtuellen Maschine kann über das Netz auf einem entfernten [[CNA/Rechenarchitekturen/Rechner/Rechner]] angezeigt werden (Remote Desktop Virtualization)
 - Durch Virtualisierung können auf einem Host mehrere OS betrieben werden, der Host wird [[Multisession]]fähig.
 
 # Containervirtualisierung 

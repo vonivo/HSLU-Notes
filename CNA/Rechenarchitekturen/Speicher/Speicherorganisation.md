@@ -1,6 +1,6 @@
 
 # Cache-Speicher
-Ein Cache-Speicher ist ein zwischen Speicher welcher zwischen [[Rechner|CPU]] und [[CNA/Rechenarchitekturen/Speicher/RAM]] eingesetzt wird. Er verbessert die Geschwindigkeit der Maschinen extrem. Dabei können verschieden Layers von Cache existieren.
+Ein Cache-Speicher ist ein zwischen Speicher welcher zwischen [[CNA/Rechenarchitekturen/Rechner/Rechner|CPU]] und [[CNA/Rechenarchitekturen/Speicher/RAM]] eingesetzt wird. Er verbessert die Geschwindigkeit der Maschinen extrem. Dabei können verschieden Layers von Cache existieren.
 ![[Cache.png]]
 ## Eigenschaften
 - Verringerung der Zugriffszeit

@@ -1,4 +1,4 @@
-Ein verteiltes System ist eine Verbindung von unabhängigen [[Rechner|Rechnern]] zur gemeinsamen Bearbeitung von Aufgaben. Die [[Rechner]] erscheinen dem Benutzer als einzelnes **kohärentes System**.
+Ein verteiltes System ist eine Verbindung von unabhängigen [[CNA/Rechenarchitekturen/Rechner/Rechner|Rechnern]] zur gemeinsamen Bearbeitung von Aufgaben. Die [[CNA/Rechenarchitekturen/Rechner/Rechner]] erscheinen dem Benutzer als einzelnes **kohärentes System**.
 
 Das Bereitstellen von IT-Leistungen über das [[Provider]] nennen wir **[[Cloud Computing]]**. 
 

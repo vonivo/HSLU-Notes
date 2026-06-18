@@ -7,7 +7,7 @@ Interrupts sind eine Unterbrechungsanforderung für **dringende** Aufgaben
 Interrupts werden gehandelt mit eine Interrupt Service Routine (ISR)
 - diese funktioniert ähnlich wie ein [[Unterprogramme|Unterprogramm]] → einfach durch externes Ereignis ausgelöst
 
-Ein [[Rechner]] kann mehrere Interrupteingänge haben, oder ein [[Interruptcontroller]]verwenden
+Ein [[CNA/Rechenarchitekturen/Rechner/Rechner]] kann mehrere Interrupteingänge haben, oder ein [[Interruptcontroller]]verwenden
 - Interrupt Eingänge haben Prioritäten (einzeln freigeben und sperren möglich)
 - es können mehrere Interrupts gleichzeitig aktiv sein, aber nur ein ISR
 

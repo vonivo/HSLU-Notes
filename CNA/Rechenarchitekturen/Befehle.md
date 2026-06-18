@@ -1,8 +1,8 @@
-Insgesamt gibt es drei Grobunterteilungen von Befehlen welcher ein [[Rechner|Prozessor]] ausführen kann.
+Insgesamt gibt es drei Grobunterteilungen von Befehlen welcher ein [[CNA/Rechenarchitekturen/Rechner/Rechner|Prozessor]] ausführen kann.
 1. Datentransfer
 2. Arithmetisches und logische Operationen
 3. Programmablaufsteuerung
-Mit diesen 3 Gruppen sind alle Anforderungen an einen [[Rechner]] abgedeckt.
+Mit diesen 3 Gruppen sind alle Anforderungen an einen [[CNA/Rechenarchitekturen/Rechner/Rechner]] abgedeckt.
 
 ## Aufbau eines Befehls
 Ein Befehl enthält folgende Informationen
