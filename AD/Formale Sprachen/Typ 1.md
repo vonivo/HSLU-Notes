@@ -1,4 +1,4 @@
-Der Typ 1 ist eine Art der [[Formale Sprache|formalen Sprach]] welche auch **nicht verkürzende Sprache** genannt wird.
+Der Typ 1 ist eine Art der [[AD/Formale Sprachen/Formale Sprache|formalen Sprach]] welche auch **nicht verkürzende Sprache** genannt wird.
 
 Daher gelten folgende Regeln:
 - Die rechte Seite der [[Formale Grammatik|Produktion]] darf nicht kürzer sein als die linke Seite.

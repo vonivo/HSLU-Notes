@@ -1,4 +1,4 @@
-Ein regulärer Ausdruck (Regular Expression oder RegEx) ist ein Ausdruck welcher eine [[Formale Sprache|formale Sprache]] vom [[Typ 3]] darstellen kann.
+Ein regulärer Ausdruck (Regular Expression oder RegEx) ist ein Ausdruck welcher eine [[AD/Formale Sprachen/Formale Sprache|formale Sprache]] vom [[Typ 3]] darstellen kann.
 
 Reguläre Ausdrücke werden von links nach rechts und prioritär durchlaufen.
 

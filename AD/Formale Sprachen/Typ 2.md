@@ -1,4 +1,4 @@
-Sprach vom Typ 2 sind [[Formale Sprache|formale Sprachen]] und werden als **kontextfreie Sprache** bezeichnet.
+Sprach vom Typ 2 sind [[AD/Formale Sprachen/Formale Sprache|formale Sprachen]] und werden als **kontextfreie Sprache** bezeichnet.
 
 Der Typ 2 schreibt folgende Regel vor:
 - Die linke Seite der [[Formale Grammatik|Produktion]] dar nicht mehr als **ein Nichtterminalsymboll** sein.

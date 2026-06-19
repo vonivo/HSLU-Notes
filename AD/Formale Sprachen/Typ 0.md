@@ -1,4 +1,4 @@
-Der Typ 0 ist eine Art der [[Formale Sprache|formalen Sprache]] welcher **rekursiv aufzählbare Sprache** genannt wird.
+Der Typ 0 ist eine Art der [[AD/Formale Sprachen/Formale Sprache|formalen Sprache]] welcher **rekursiv aufzählbare Sprache** genannt wird.
 
 Dabei sind beliebige [[Formale Grammatik|Produktionen]] erlaubt.
 

@@ -1,4 +1,4 @@
-Ein Syntaxbaum ist eine Darstellungsform, wie ein [[Formale Grammatik|Wort]] einer [[Formale Sprache|formalen Sprache]] vom [[Typ 2]] oder höher gebildet wird.
+Ein Syntaxbaum ist eine Darstellungsform, wie ein [[Formale Grammatik|Wort]] einer [[AD/Formale Sprachen/Formale Sprache|formalen Sprache]] vom [[Typ 2]] oder höher gebildet wird.
 
 Dieser Vorgang wird [[Bäume|baumartig]] beschrieben:
 - Jeder inneren Konten steht für ein Nichtterminalsymbol.

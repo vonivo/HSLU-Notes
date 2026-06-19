@@ -1,4 +1,4 @@
-Die [[Formale Grammatik|Grammatik]] einer [[Formale Sprache|formalen Sprache]] des [[Typ 2]] oder höher lassen sich durch ein Syntaxdiagramm darstellen.
+Die [[Formale Grammatik|Grammatik]] einer [[AD/Formale Sprachen/Formale Sprache|formalen Sprache]] des [[Typ 2]] oder höher lassen sich durch ein Syntaxdiagramm darstellen.
 
 ## Aufbau
 - Ein Rechteck repräsentiert ein Nichtterminalsymbol.

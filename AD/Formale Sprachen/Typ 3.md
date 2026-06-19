@@ -1,9 +1,9 @@
-Der Typ 3 einer [[Formale Sprache|formalen Sprache]] ist schränkt die [[Formale Grammatik|Grammatik]] am meisten ein:
+Der Typ 3 einer [[AD/Formale Sprachen/Formale Sprache|formalen Sprache]] ist schränkt die [[Formale Grammatik|Grammatik]] am meisten ein:
 - Auf der linke Seite der Produktion, darf **nur ein Nichtterminalsymbol** stehen. (wie bei [[Typ 2]]).
 - Auf der rechten Seite dar entweder **ein Nichtterminal und ein Terminal** oder **nur ein Terminal**-Symbol stehen.
 - Wenn das Nichtterminalsymbol immer konsequent rechts steht, nennen man die Sprache **rechtsregulär.**
 
-=> Für Sprachen des Typ 3 ist das [[Wortproblem]] mit einer [[AD/Algorithmen/Komplexität|Komplexität]]
+=> Für Sprachen des Typ 3 ist das [[AD/Formale Sprachen/Wortproblem]] mit einer [[AD/Algorithmen/Komplexität|Komplexität]]
 von $O(n)$ lösbar.
 
 ## Beispiel

@@ -1,4 +1,4 @@
-Die Backus-Naur-Form (BNF) oder die erweiterte Backus-Naur-Form (EBNF) ist eine Form der Darstellung der [[Formale Grammatik|Grammatik]] einer [[Formale Sprache|formalen Sprache]] des [[Typ 2]] oder höher.
+Die Backus-Naur-Form (BNF) oder die erweiterte Backus-Naur-Form (EBNF) ist eine Form der Darstellung der [[Formale Grammatik|Grammatik]] einer [[AD/Formale Sprachen/Formale Sprache|formalen Sprache]] des [[Typ 2]] oder höher.
 
 ## Backus-Naur-Form
 - Nichttermianlsyombole werden mit $<\dots>$ gekennzeichnet

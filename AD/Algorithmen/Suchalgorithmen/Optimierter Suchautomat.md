@@ -74,7 +74,7 @@ public int search(String a) {
 ## Analyse
 Der optimierte Suchautomat berücksichtigt, dass beim Pattern nicht immer von vorne wieder gesucht werden muss, sprich er merkt sich, was des Patterns schon gefunden wurde und ob man dort anknüpfen kann.
 
-Der Ideal-Pfad entspricht einem [[Endliche Automaten#Deterministischer endlicher Automat|DEA]] welcher als [[Formale Sprache|Sprache]] genau ein Wort definiert.
+Der Ideal-Pfad entspricht einem [[Endliche Automaten#Deterministischer endlicher Automat|DEA]] welcher als [[AD/Formale Sprachen/Formale Sprache|Sprache]] genau ein Wort definiert.
 
 Mit dem Zustandsautomaten kann eine Zeichenkette **rein sequenziell** durchsucht werden.
 => Kein Zeichen wird doppelt verglichen.

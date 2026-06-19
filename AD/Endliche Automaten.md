@@ -125,8 +125,8 @@ Um einen NEA in einen DEA zu überführen wird ein Tabelle erstellt die Farblich
 | $\{ z_{0},z_{1},z_{2} \}$       | $\color{red}\{z_{0},z_{2}  \}$ | $\color{blue}\{z_{0},z_{2}  \}$ |
 ![[NEA2DEA.png]]
 
-## Darstellung [[Formale Sprache]]
-Mit einem endlichen Automaten kann eine [[Formale Sprache|formale Sprache]] des [[Typ 3]] dargestellt werden.
+## Darstellung [[AD/Formale Sprachen/Formale Sprache]]
+Mit einem endlichen Automaten kann eine [[AD/Formale Sprachen/Formale Sprache|formale Sprache]] des [[Typ 3]] dargestellt werden.
 
 - Auf dem Weg von Start zu Ende werden die Wörter erzeugt.
 - Findet ein vorgegebenes Wort einen Weg von Start zu Ende gehört es zu der Sprache

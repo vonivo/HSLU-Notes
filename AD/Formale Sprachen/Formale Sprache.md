@@ -33,7 +33,7 @@ $T_{3} \subset T_{2} \subset T_{1}\subset T_{0}$
 
 ![[Chomsky.png]]
 
-Je eingeschränkter die Grammatik der Sprache, desto einfacher wird das [[Wortproblem]].
+Je eingeschränkter die Grammatik der Sprache, desto einfacher wird das [[AD/Formale Sprachen/Wortproblem]].
 
 Im Gegenzug wird mit zunehmenden grammatischen Regeln die Ausdrucksstärke der Sprache schwächer.
 

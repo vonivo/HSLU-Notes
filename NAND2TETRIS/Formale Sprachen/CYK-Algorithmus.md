@@ -1,0 +1,2 @@
+Der **CYK-Algorithmus (Cocke-Younger-Kasami)** ist ein Parsing-Algorithmus, mit dem man entscheidet, ob ein Wort `www` von einer [[Typ 2|kontextfreien Grammatik]] erzeugt wird. Voraussetzung ist, dass die Grammatik in **[[Chomsky Normalform]]** vorliegt.
+![[Pasted image 20260619145428.png]]

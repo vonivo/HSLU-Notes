@@ -2,8 +2,8 @@
 > Die **formale Grammatik** ist die formale Definition einer Sprache.
 
 Ein formale Grammatik $G$ ist der 4-Tupel $G = (N,T,P,s)$
-- $N$ -> Menge aller [[Formale Sprache#Elemente|Nichtterminalsymbolen]]
-- $T$ -> Menge aller [[Formale Sprache#Elemente|Terminalsymbolen]]
+- $N$ -> Menge aller [[AD/Formale Sprachen/Formale Sprache#Elemente|Nichtterminalsymbolen]]
+- $T$ -> Menge aller [[AD/Formale Sprachen/Formale Sprache#Elemente|Terminalsymbolen]]
 - $P$ -> Menge von Produzenten
 - $s$ -> Startsymbol ($s \in N$ gehört immer dazu.)
 

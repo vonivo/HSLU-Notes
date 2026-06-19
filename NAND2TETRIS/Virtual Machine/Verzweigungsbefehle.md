@@ -56,3 +56,20 @@ wird zu:
 - `if-goto labelName`: Bewirkt einen bedingten Sprung
 	- Oberste Wert des Stacks wird gepoppt; wenn der Wert nicht 0 ist, wird die Ausfürhung an der durch das Label markierte Stelle weitergeführt.
 	- `if-goto`-Befehl und das Label müssen im selben Scope sein.
+
+```
+//label
+(label)
+
+// goto
+@label
+0;JMP
+
+//if-goto
+@SP
+AM=M-1
+D=M
+
+@label
+D;JNE
+```
