@@ -18,8 +18,8 @@ Der Stack kennt dabei zwei Arten von Operationen:
 Es gibt 4 Arten von Befehlen innerhalb der Stack-Machine:
 1. **[[Push- und Pop-Befehle]]**: Übertragen Daten zwischen Stack und Speichersegmenten.
 2. **[[Arithmetisch-logische Befehle]]**: führen arithmetische und logische Operationen aus.
-3. **Verzweigungsbefehle**: ermöglichen bedingte und unbedingte Verzweigungsoperationen
-4. **Funktionsbefehle**: ermöglichen Funktionsaufrufe und -rückgaben.
+3. **[[Verzweigungsbefehle]]**: ermöglichen bedingte und unbedingte Verzweigungsoperationen
+4. **[[Funktionsbefehle]]**: ermöglichen Funktionsaufrufe und -rückgaben.
 
 **Implementation**
 Wenn ein Fix Basis Adresse für den Stack gewählt wird, kann der Stack mit einer einzigen Variablen implementiert werden. Diese Variable heisst `SP` (Stack-Pointer).
