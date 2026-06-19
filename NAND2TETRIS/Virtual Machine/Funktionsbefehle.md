@@ -54,7 +54,7 @@ Bei jedem Funktionsaufruf muss dem oben beschriebenen Overhead Folge geleistet w
 - `return`: Übergibt die Ausführung an den Befehl, der im Code der Funktion, die die aktuelle Funktion aufgerufen hat, unmittelbar auf den `call`-Befehl folgt.
 
 ## Konventionen:
-- Jede Funktion `functionname` in einer Datei `FileName.vm` muss `Filename.functionName` heissen. (Wird durch den [[Compiler]] gemacht)
+- Jede Funktion `functionname` in einer Datei `FileName.vm` muss `Filename.functionName` heissen. (Wird durch den [[Jack Compiler]] gemacht)
 - Der Geltungsbereich des Funktionsnamens ist global.
 - Der Programmeinstiegspunkt ist `Main.main`.
 - `Main.main` ist argumentlos und wird durch `Sys.init` ([[Betriebssystem]]) aufgerufen.
