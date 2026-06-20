@@ -13,7 +13,7 @@
 	3. Stuff you don't now you don't know: Blind-Spot: Lösungen welche man gar nicht weiss, dass sie existieren
     
 3. **Why is it more important for an architect to focus on technical breadth rather than technical depth?**  
-	- Ziel ist es möglichst breit aufgestellten zu sein, damit man für möglichst viele Probleme möglichst viele Lösungsvarianten kennt. Benötigt man dann spezifisches Wissen für den gewählten Lösungsweg kann man sich, dass aneignen
+	- Ziel ist es, möglichst breit aufgestellten zu sein, damit man für möglichst viele Probleme möglichst viele Lösungsvarianten kennt. Benötigt man dann spezifisches Wissen für den gewählten Lösungsweg kann man sich, dass aneignen
     
 4. **What are some of the ways of maintaining your technical depth and remaining hands-on as an architect?**
 	-  Release Radar

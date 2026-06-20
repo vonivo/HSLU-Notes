@@ -2,7 +2,7 @@
 Die unterstüzten Charakteriskiten sollten sich auf ein Minimum beschränken, da mit jeder Charakteristik das System komplexer wird.
 
 **True of False. Most architecture characteristics com from business requirements and user stories**
-True
+False: Zwar können bestimmte explizite Metriken in Anforderungsdokumenten stehen, jedoch betont das Buch, dass User Stories und Business Requirements fast ausschließlich das "Was" (das fachliche Verhalten) beschreiben. Architekturmerkmale (das "Wie") müssen von Architekten in der Regel aus den High-Level-Geschäftszielen ("Domain Concerns") übersetzt werden
 
 **If a business stakeholder states that time to market is the most important business concern, which architecture characteristics would the architecture need to support?**
 Vorallem Agilität -> Das ist aber auch einen zusammengesetzte Eigenschaft und beinhaltet z.B:

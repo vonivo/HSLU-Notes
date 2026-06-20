@@ -48,6 +48,8 @@ Das `pointer`-Segment enthält genau zwei Werte und wird direkt auf die RAM Spei
 
 Somit ist jeder Zugriff azuf `pointer 0` ein Zugriff auf `THIS` und `pointer 1` auf `THAT`.
 
+Die Basisadresse von `POINTER` ist immer 3, wohingegen die Basisadresse von `THIS` in `RAM[3]` gespeichert ist.
+
 ### TEMP
 Diese 8-Wort-Segment ist ebenfalls fest und wird direkt auf RAM $5-12$ abgebildet.
 Sprich die Basisadresse von `TEMP` ist `5` und `i` liegt zwischen $0-7$.
@@ -94,3 +96,6 @@ Dieses Modul übersetzt einen geparsten VM Befehl in Hackassemblercode.
 
 ### VMTranslator
 Dies ist das Hauptprogramm, welches die Übersetzung mithilfe der anderen zwei Module steuert.
+
+
+Der VM-Translator erstellt aus allen `.vm` Files in einem Ordener ein `.asm` File

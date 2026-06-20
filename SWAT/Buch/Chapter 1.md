@@ -5,7 +5,7 @@
 	4. Architecture Decision (z.B. aus UI kein DB access)
     
 2. **What is the difference between an architecture decision and a design principle?** 
-	Die Flug höhe (Abstraktionsebene) und signifikaz. Ein Design-Prinzip kann von einem Entwickler getroffen werden und betrifft nicht zwingend andere. Eine Architekturentscheidung betrifft meistens viele und wird daher auch oft in Frage gestellt.
+	Die Flug höhe (Abstraktionsebene) und Signifikaz. Ein Design-Prinzip kann von einem Entwickler getroffen werden und betrifft nicht zwingend andere. Eine Architekturentscheidung betrifft meistens viele und wird daher auch oft in Frage gestellt.
     
 3. **List the eight core expectations of a software architect.**  
 	1. Architekturentscheide Treffen

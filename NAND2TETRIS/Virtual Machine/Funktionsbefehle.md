@@ -76,7 +76,7 @@ Bei jedem Funktionsaufruf muss dem oben beschriebenen Overhead Folge geleistet w
 
 ### `call f nArgs`
 ```
-// erzeuge ein Label und schiebe es auf den Stack 
+// erzeuge ein Label und schiebe es auf den Stack PSEUDO
 push rAdd
 push LCL
 push ARG
@@ -88,17 +88,94 @@ LCL = SP
 goto f
 // fügt das Rückkehrlabel in den Code
 (rAddr)
+
+
+// ASM
+// push return-address  
+@f$ret.0  
+D=A  
+@SP  
+A=M  
+M=D  
+@SP  
+M=M+1  
+  
+// push LCL  
+@LCL  
+D=M  
+@SP  
+A=M  
+M=D  
+@SP  
+M=M+1  
+  
+// push ARG  
+@ARG  
+D=M  
+@SP  
+A=M  
+M=D  
+@SP  
+M=M+1  
+  
+// push THIS  
+@THIS  
+D=M  
+@SP  
+A=M  
+M=D  
+@SP  
+M=M+1  
+  
+// push THAT  
+@THAT  
+D=M  
+@SP  
+A=M  
+M=D  
+@SP  
+M=M+1  
+  
+// ARG = SP - nArgs - 5  
+@SP  
+D=M  
+@7 // 2 + 5  
+D=D-A  
+@ARG  
+M=D  
+  
+// LCL = SP  
+@SP  
+D=M  
+@LCL  
+M=D  
+  
+// goto f  
+@f  
+0;JMP  
+  
+(f$ret.0)
 ```
 
 ### `function f nVars`
 ```
-// fügt Funktionseinstiegslabel in den Code
+// fügt Funktionseinstiegslabel in den Code 
 (f)
 // initialisiert nVars lokale variablen auf 0
 push 0
 push 0
 ...
 push 0
+
+
+// ASM
+(Filename.f)
+// local 0 = 0  
+@SP  
+A=M  
+M=0  
+@SP  
+M=M+1
 ```
 
 ### `return`
@@ -113,6 +190,64 @@ THIS = *(frame-2)
 ARG = *(frame-3)
 LCL = *(frame-4)
 goto rAdd
+
+// ASM
+@LCL  
+D=M  
+@R13          // speichere LCL ind R13 (speichere frame)
+M=D
+
+@5  
+A=D-A  
+D=M  
+@R14         // speicherer Rücksprungadresse in R14
+M=D
+
+@SP  
+AM=M-1      // Pop Return Wert
+D=M
+
+@ARG  
+A=M  
+M=D
+
+@ARG  
+D=M+1  
+@SP  
+M=D
+
+// Restore THAT
+@R13  
+AM=M-1  
+D=M  
+@THAT  
+M=D 
+
+// Restore THIS
+@R13  
+AM=M-1  
+D=M  
+@THIS  
+M=D
+
+// Restore ARG
+@R13  
+AM=M-1  
+D=M  
+@ARG  
+M=D
+
+// Restore LCL
+@R13  
+AM=M-1  
+D=M  
+@LCL  
+M=D
+
+// jump back
+@R14  
+A=M  
+0;JMP
 ```
 
 
