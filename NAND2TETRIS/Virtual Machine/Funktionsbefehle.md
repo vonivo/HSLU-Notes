@@ -57,7 +57,7 @@ Bei jedem Funktionsaufruf muss dem oben beschriebenen Overhead Folge geleistet w
 - Jede Funktion `functionname` in einer Datei `FileName.vm` muss `Filename.functionName` heissen. (Wird durch den [[Jack Compiler]] gemacht)
 - Der Geltungsbereich des Funktionsnamens ist global.
 - Der Programmeinstiegspunkt ist `Main.main`.
-- `Main.main` ist argumentlos und wird durch `Sys.init` ([[Betriebssystem]]) aufgerufen.
+- `Main.main` ist argumentlos und wird durch `Sys.init` ([[Jack Betriebssystem]]) aufgerufen.
 
 ## Implementation
 
