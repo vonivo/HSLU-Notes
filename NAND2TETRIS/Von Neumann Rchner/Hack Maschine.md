@@ -14,4 +14,4 @@ Die Maschine ist eine 16-Bit-Maschine, bestehend aus einer CPU, zwei separaten S
 
 **Komponenten**
 - [[CPU]]
-- 
+

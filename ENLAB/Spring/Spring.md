@@ -1,0 +1,41 @@
+**Eco-System**
+- Framework
+- [[Spring Boot]]
+- Spring Cloud DataFlow
+- Spring Cloud
+	- Spring Cloud Config
+	- Spriing Cloud Bus
+	- Spring Cloud Sleuth
+	- etc.
+- Spring Data
+	- Spring Data Commons
+	- Spring Data JPA
+	- Spring Data MongoDB
+	- etc.
+- Spring Integration
+- Spring Batch
+- Spring Security
+- Spring Hateoas
+- Spring REST Docs
+- Spring Social
+- Spring AMQP
+- Spring Mobile
+- Spring Android
+- Spring Webflow
+- Spring Webservices
+- Spring LDAP
+- Spring Session
+- Spring Statemachine
+
+## Vorteile
+- Opensource
+- Leichtgewichtig
+- Schnell
+- Modularer Aufbau
+- Nicht invasiv
+- Geringe Kopplung aufgrund von Dependecy Injection
+- Wiederverwendbare Software
+- AOP-Unterstüzung
+- Stabil und viele Ressourcen
+- Enorme Community und Ökosystem
+- Erweiterbar für andere Frameworks.
