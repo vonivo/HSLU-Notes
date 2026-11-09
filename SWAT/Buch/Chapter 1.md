@@ -17,7 +17,7 @@
 	7. Politische Finesse besitzen
 	8. Team führen können
     
-4. **What are the3 Law of Software Architecture?**
+4. **What are the 3 Laws of Software Architecture?**
 	- Alles ist ein tradeoff
 	- Warum ist wichtiger als wie
 	- Jede entscheidung ist ein spektrum

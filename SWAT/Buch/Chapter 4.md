@@ -1,5 +1,5 @@
 **What three criteria must an attrbiute meet to be considered an architecture characteristik**
-1. Das Attbiute muss einen nicht "Domänen"-Aspekt betreffen, sprich es betrifft nich das "Was umgesett wird".
+1. Das Attribute muss einen nicht "Domänen"-Aspekt betreffen, sprich es betrifft nich das "Was umgesetzt wird".
 2. Das Attribute muss Einfluss auf die Strukturelle Aspekte des Designs haben. -> So kann z.B. Security einfach über "Code-Best-Pratices" umgesetzt werden, wass keine Architecture-Characteristik wäre, wenn dann aber noch spezielle Infrastruktur und oder spezifische Härtung betrieben wird wäre es wieder eins
 3. Das Attribut sollte wichtig für den Erfolg der Software sein.
 
@@ -24,5 +24,5 @@ Der Unterschied liegt dabei, ob die Charakteristiken spezifiziert werden. So ist
 - Privacy
 - Traceability
 
-**Why is it imposible to create an industry-wide standard list of archtecture characteristics?**
-Weil immer neue Charakteristiken entsthene und je nach Kontex sie auch etwas anderes bedeuten.
+**Why is it impossible to create an industry-wide standard list of archtiecture characteristics?**
+Weil immer neue Charakteristiken entstehen und je nach Kontex sie auch etwas anderes bedeuten.

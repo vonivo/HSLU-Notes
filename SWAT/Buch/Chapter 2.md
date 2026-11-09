@@ -8,9 +8,9 @@
 
     
 2. **List the three levels of knowledge in the knowledge triangle and provide an example of each.**  
-	1. Stuff you now: Technologien mit denen man sich auskennt oder bereits Experte ist
-	2. Stuff you now you don't know: Technologien von welchen man die Existenz kennt aber sich nicht wirklich auskennt
-	3. Stuff you don't now you don't know: Blind-Spot: Lösungen welche man gar nicht weiss, dass sie existieren
+	1. Stuff you know: Technologien mit denen man sich auskennt oder bereits Experte ist
+	2. Stuff you know you don't know: Technologien von welchen man die Existenz kennt aber sich nicht wirklich auskennt
+	3. Stuff you don't know you don't know: Blind-Spot: Lösungen welche man gar nicht weiss, dass sie existieren
     
 3. **Why is it more important for an architect to focus on technical breadth rather than technical depth?**  
 	- Ziel ist es, möglichst breit aufgestellten zu sein, damit man für möglichst viele Probleme möglichst viele Lösungsvarianten kennt. Benötigt man dann spezifisches Wissen für den gewählten Lösungsweg kann man sich, dass aneignen

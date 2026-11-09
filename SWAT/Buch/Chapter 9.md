@@ -10,7 +10,7 @@
 Encore:
 9. Versionierung ist einfach
 10. Kompensationsupdates funktionieren immer
-11. Obersabilit ist optional
+11. Observability ist optional
 
 **Name three challenges that distributed architectures have that monolithic architectures don't**
 1. Verfügbarkeit der einzlenen Services
